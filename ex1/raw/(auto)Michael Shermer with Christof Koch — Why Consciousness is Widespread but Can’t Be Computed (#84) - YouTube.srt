@@ -1,0 +1,9716 @@
+﻿1
+00:00:00,030 --> 00:00:02,040
+the science elan podcast I'm your host
+
+2
+00:00:02,040 --> 00:00:04,589
+Michael Shermer as you all know we do
+
+3
+00:00:04,589 --> 00:00:07,649
+this once a week on the Tuesdays that
+
+4
+00:00:07,649 --> 00:00:09,809
+books are released this week's book and
+
+5
+00:00:09,809 --> 00:00:12,900
+author is my longtime friend Christoph
+
+6
+00:00:12,900 --> 00:00:15,420
+Kok his new book is the feeling of life
+
+7
+00:00:15,420 --> 00:00:16,279
+itself
+
+8
+00:00:16,279 --> 00:00:19,560
+why consciousness is widespread but
+
+9
+00:00:19,560 --> 00:00:22,140
+can't be computed so you can see where
+
+10
+00:00:22,140 --> 00:00:22,740
+that's going
+
+11
+00:00:22,740 --> 00:00:24,990
+I've known Christoph since the early 90s
+
+12
+00:00:24,990 --> 00:00:27,390
+so probably almost a quarter century now
+
+13
+00:00:27,390 --> 00:00:28,830
+he's one of the most interesting people
+
+14
+00:00:28,830 --> 00:00:31,859
+have ever met super delightful guy very
+
+15
+00:00:31,859 --> 00:00:34,860
+smart very witty and has a real lust for
+
+16
+00:00:34,860 --> 00:00:37,710
+life and he's now left Caltech and has
+
+17
+00:00:37,710 --> 00:00:40,050
+been at the Allen Brain Institute for I
+
+18
+00:00:40,050 --> 00:00:41,850
+don't know must be at least a decade now
+
+19
+00:00:41,850 --> 00:00:44,250
+and so we talked a little bit about that
+
+20
+00:00:44,250 --> 00:00:46,170
+the research and work that they do there
+
+21
+00:00:46,170 --> 00:00:47,550
+what are they doing when they're trying
+
+22
+00:00:47,550 --> 00:00:49,410
+to find the neural correlates of
+
+23
+00:00:49,410 --> 00:00:51,510
+consciousness we get into the hard
+
+24
+00:00:51,510 --> 00:00:52,829
+problem of consciousness and what that
+
+25
+00:00:52,829 --> 00:00:56,129
+means the integrated information theory
+
+26
+00:00:56,129 --> 00:00:57,780
+of consciousness versus the global work
+
+27
+00:00:57,780 --> 00:01:00,899
+space theory of consciousness and we
+
+28
+00:01:00,899 --> 00:01:03,570
+talked about comas and and vegetative
+
+29
+00:01:03,570 --> 00:01:06,390
+States and you know is there anybody
+
+30
+00:01:06,390 --> 00:01:08,970
+there how do we know they need to find
+
+31
+00:01:08,970 --> 00:01:12,060
+these things the nature of the self and
+
+32
+00:01:12,060 --> 00:01:13,950
+identity if you have a split brain
+
+33
+00:01:13,950 --> 00:01:16,110
+there's really two Minds so if you have
+
+34
+00:01:16,110 --> 00:01:18,659
+two Minds is that two persons two selves
+
+35
+00:01:18,659 --> 00:01:20,220
+you know what does that all mean so we
+
+36
+00:01:20,220 --> 00:01:24,330
+explore some of that and and pretty much
+
+37
+00:01:24,330 --> 00:01:25,979
+cover most of the the major
+
+38
+00:01:25,979 --> 00:01:28,080
+philosophical issues related to the
+
+39
+00:01:28,080 --> 00:01:30,840
+mind-body problem how consciousness
+
+40
+00:01:30,840 --> 00:01:33,150
+arrives from a physical system why he
+
+41
+00:01:33,150 --> 00:01:35,340
+thinks that no computer will ever be
+
+42
+00:01:35,340 --> 00:01:38,490
+conscious the what they're designed to
+
+43
+00:01:38,490 --> 00:01:40,890
+do and the underlying architecture the
+
+44
+00:01:40,890 --> 00:01:44,759
+structure of it of computers that as
+
+45
+00:01:44,759 --> 00:01:46,920
+currently configured will never ever be
+
+46
+00:01:46,920 --> 00:01:49,530
+conscious and he makes pretty good
+
+47
+00:01:49,530 --> 00:01:52,170
+argument I think not that it can't be
+
+48
+00:01:52,170 --> 00:01:53,460
+done it's just that it's not going to be
+
+49
+00:01:53,460 --> 00:01:55,680
+done the way we're doing it now I think
+
+50
+00:01:55,680 --> 00:01:56,780
+he's probably right in the sense that
+
+51
+00:01:56,780 --> 00:01:59,040
+you know it's a much harder problem than
+
+52
+00:01:59,040 --> 00:02:01,920
+anybody ever realized when we're talking
+
+53
+00:02:01,920 --> 00:02:04,200
+about creating conscious computers back
+
+54
+00:02:04,200 --> 00:02:06,240
+in the 90s and still hasn't happened I
+
+55
+00:02:06,240 --> 00:02:08,190
+think it's just way more difficult than
+
+56
+00:02:08,190 --> 00:02:11,340
+anybody realized and anyway it's a great
+
+57
+00:02:11,340 --> 00:02:13,590
+book it's really you know short straight
+
+58
+00:02:13,590 --> 00:02:15,450
+to the point he's a clear rider clear
+
+59
+00:02:15,450 --> 00:02:18,840
+thinker and again he really it's in the
+
+60
+00:02:18,840 --> 00:02:20,580
+title itself what is consciousness is
+
+61
+00:02:20,580 --> 00:02:23,340
+the feeling of life itself or as he says
+
+62
+00:02:23,340 --> 00:02:25,470
+even more succinctly it's its experience
+
+63
+00:02:25,470 --> 00:02:28,550
+consciousness is experience so
+
+64
+00:02:28,550 --> 00:02:31,230
+consciousness has lived reality it is
+
+65
+00:02:31,230 --> 00:02:33,540
+the feeling of life itself it is the
+
+66
+00:02:33,540 --> 00:02:35,519
+only bit of eternity to which I am
+
+67
+00:02:35,519 --> 00:02:38,010
+entitled without experience I would be a
+
+68
+00:02:38,010 --> 00:02:41,519
+zombie a nothing to myself anyway great
+
+69
+00:02:41,519 --> 00:02:43,860
+book if you appreciate the podcast as
+
+70
+00:02:43,860 --> 00:02:45,900
+usual we appreciate your support either
+
+71
+00:02:45,900 --> 00:02:48,090
+through patreon every month or at
+
+72
+00:02:48,090 --> 00:02:51,390
+skeptic comm / donate thank you I give
+
+73
+00:02:51,390 --> 00:02:52,640
+you Christophe
+
+74
+00:02:52,640 --> 00:02:54,660
+Christophe is that Francis Crick
+
+75
+00:02:54,660 --> 00:02:58,920
+behind you there yes it's a painting he
+
+76
+00:02:58,920 --> 00:03:00,780
+gave me it's a it's a photocopy of him
+
+77
+00:03:00,780 --> 00:03:03,209
+in its wicked share a half he gave that
+
+78
+00:03:03,209 --> 00:03:05,400
+to me half a year before he passed away
+
+79
+00:03:05,400 --> 00:03:09,299
+and it says for christophe francis
+
+80
+00:03:09,299 --> 00:03:13,500
+keeping an eye on you so you you have
+
+81
+00:03:13,500 --> 00:03:15,599
+them there in your office watching over
+
+82
+00:03:15,599 --> 00:03:18,239
+you at all times okay looking over my
+
+83
+00:03:18,239 --> 00:03:19,560
+shoulder at all times
+
+84
+00:03:19,560 --> 00:03:21,420
+yes and that also looks like the other
+
+85
+00:03:21,420 --> 00:03:25,590
+is that the cover of The Beatles Sgt
+
+86
+00:03:25,590 --> 00:03:32,430
+pepper's conferences
+
+87
+00:03:32,430 --> 00:03:37,049
+oh I see very good right fine yeah to
+
+88
+00:03:37,049 --> 00:03:40,980
+include David Thomas myself and two
+
+89
+00:03:40,980 --> 00:03:44,549
+other you know couple yeah yeah no
+
+90
+00:03:44,549 --> 00:03:49,230
+that's really funny yeah very good so I
+
+91
+00:03:49,230 --> 00:03:51,690
+am speaking to you at the Allen Brain
+
+92
+00:03:51,690 --> 00:03:54,060
+Institute in Seattle Washington where
+
+93
+00:03:54,060 --> 00:03:55,950
+you were wooed away from Caltech
+
+94
+00:03:55,950 --> 00:03:59,579
+amazingly enough that's right so before
+
+95
+00:03:59,579 --> 00:04:01,500
+we dive into your book just again to
+
+96
+00:04:01,500 --> 00:04:03,150
+introduce everybody just remind you why
+
+97
+00:04:03,150 --> 00:04:07,260
+you're here your new book so you haven't
+
+98
+00:04:07,260 --> 00:04:10,169
+even seen your book no yeah the feeling
+
+99
+00:04:10,169 --> 00:04:12,540
+of life itself why consciousness is
+
+100
+00:04:12,540 --> 00:04:14,819
+widespread but can't be computed okay
+
+101
+00:04:14,819 --> 00:04:17,070
+well yeah some people are gonna dispute
+
+102
+00:04:17,070 --> 00:04:18,419
+that but that's it before we get into
+
+103
+00:04:18,419 --> 00:04:20,039
+that though just kind of catch us up you
+
+104
+00:04:20,039 --> 00:04:21,329
+know you're famous for having worked
+
+105
+00:04:21,329 --> 00:04:22,650
+with Francis Crick when you were at
+
+106
+00:04:22,650 --> 00:04:24,599
+Caltech and you were had kind of the
+
+107
+00:04:24,599 --> 00:04:26,250
+traditional academic career just
+
+108
+00:04:26,250 --> 00:04:26,710
+grinding
+
+109
+00:04:26,710 --> 00:04:28,060
+doing your thing and then all of a
+
+110
+00:04:28,060 --> 00:04:30,490
+sudden you're now in Seattle running the
+
+111
+00:04:30,490 --> 00:04:33,190
+Allen Brain Institute what what is it
+
+112
+00:04:33,190 --> 00:04:34,750
+you're doing there and why did you do
+
+113
+00:04:34,750 --> 00:04:38,520
+that transition so we have three no 30
+
+114
+00:04:38,520 --> 00:04:40,780
+scientists focus on a few very large
+
+115
+00:04:40,780 --> 00:04:43,539
+projects in the brain sciences so for
+
+116
+00:04:43,539 --> 00:04:45,130
+instance we have a big nature paper
+
+117
+00:04:45,130 --> 00:04:47,440
+coming out next week where we look at
+
+118
+00:04:47,440 --> 00:04:51,250
+human brain material so either from
+
+119
+00:04:51,250 --> 00:04:52,930
+their brain or from neurosurgical
+
+120
+00:04:52,930 --> 00:04:56,020
+excised brain tissue and 20 minutes
+
+121
+00:04:56,020 --> 00:04:58,060
+later after the neurosurgeon takes it
+
+122
+00:04:58,060 --> 00:05:00,039
+out of the brain of a patient it sits in
+
+123
+00:05:00,039 --> 00:05:03,039
+our in our lab and then we can do what's
+
+124
+00:05:03,039 --> 00:05:05,710
+called single-cell transcriptomics so we
+
+125
+00:05:05,710 --> 00:05:07,360
+can read out all the genes that are
+
+126
+00:05:07,360 --> 00:05:09,789
+expressed in the different new ones to
+
+127
+00:05:09,789 --> 00:05:11,830
+get a view of how many types of
+
+128
+00:05:11,830 --> 00:05:14,289
+different brain cells they are in a in a
+
+129
+00:05:14,289 --> 00:05:16,599
+human compared to the different types of
+
+130
+00:05:16,599 --> 00:05:19,180
+brain cells in a mouse now many are
+
+131
+00:05:19,180 --> 00:05:21,550
+there in humans versus a mouse's well in
+
+132
+00:05:21,550 --> 00:05:23,500
+any one cortical area turns out it's
+
+133
+00:05:23,500 --> 00:05:26,199
+roughly the same roughly 100 and that's
+
+134
+00:05:26,199 --> 00:05:28,360
+the same number in human and mouse and
+
+135
+00:05:28,360 --> 00:05:31,090
+it's sort of similar the number of genes
+
+136
+00:05:31,090 --> 00:05:33,070
+when people first in the late 80s
+
+137
+00:05:33,070 --> 00:05:36,070
+identified 20,000 genes in the mouse
+
+138
+00:05:36,070 --> 00:05:38,349
+genome they said Wow humans are clearly
+
+139
+00:05:38,349 --> 00:05:40,180
+vastly more complex so they're going to
+
+140
+00:05:40,180 --> 00:05:41,740
+have hundred thousand or two nuts off no
+
+141
+00:05:41,740 --> 00:05:43,630
+they're roughly the same number of genes
+
+142
+00:05:43,630 --> 00:05:47,110
+we have roughly the same number of types
+
+143
+00:05:47,110 --> 00:05:48,580
+of different neurons probably across
+
+144
+00:05:48,580 --> 00:05:50,889
+entire brain on the order of a thousand
+
+145
+00:05:50,889 --> 00:05:53,320
+two thousand five thousand although
+
+146
+00:05:53,320 --> 00:05:55,060
+there are many many differences in those
+
+147
+00:05:55,060 --> 00:05:58,060
+difference matter so particularly if you
+
+148
+00:05:58,060 --> 00:06:00,610
+here for example if you are into making
+
+149
+00:06:00,610 --> 00:06:03,250
+drugs to help people with schizophrenia
+
+150
+00:06:03,250 --> 00:06:06,580
+or autism and you for example you're
+
+151
+00:06:06,580 --> 00:06:09,340
+after serotonin receptors and you make a
+
+152
+00:06:09,340 --> 00:06:12,070
+drug based on some animal that um in a
+
+153
+00:06:12,070 --> 00:06:14,320
+particular Mouse experiment well the
+
+154
+00:06:14,320 --> 00:06:17,080
+same the same serotonin receptor may be
+
+155
+00:06:17,080 --> 00:06:19,570
+distributed looks.i looks like it's it's
+
+156
+00:06:19,570 --> 00:06:21,789
+on different types of cells so therefore
+
+157
+00:06:21,789 --> 00:06:22,990
+what you found
+
+158
+00:06:22,990 --> 00:06:24,639
+you're fine in the mouse doesn't really
+
+159
+00:06:24,639 --> 00:06:26,740
+generalize to what you find in in human
+
+160
+00:06:26,740 --> 00:06:29,020
+so while the principles are similar the
+
+161
+00:06:29,020 --> 00:06:30,820
+details really differ greatly which
+
+162
+00:06:30,820 --> 00:06:33,340
+explains why some so much drug research
+
+163
+00:06:33,340 --> 00:06:35,770
+there was you know started in the mouse
+
+164
+00:06:35,770 --> 00:06:39,070
+you can cure mice but you can cure human
+
+165
+00:06:39,070 --> 00:06:39,999
+with that
+
+166
+00:06:39,999 --> 00:06:42,039
+and is that because just the
+
+167
+00:06:42,039 --> 00:06:44,499
+combinatorial complexity of you know
+
+168
+00:06:44,499 --> 00:06:46,239
+when you just start grinding along on
+
+169
+00:06:46,239 --> 00:06:49,239
+the the numbers of combinations and they
+
+170
+00:06:49,239 --> 00:06:50,769
+just don't extrapolate from one species
+
+171
+00:06:50,769 --> 00:06:54,159
+to the other yeah you got to remember if
+
+172
+00:06:54,159 --> 00:06:56,049
+you trace us back and down the
+
+173
+00:06:56,049 --> 00:06:57,489
+evolutionary tree the last common
+
+174
+00:06:57,489 --> 00:06:59,229
+answers to lived you know at the time of
+
+175
+00:06:59,229 --> 00:07:01,419
+the eye of the dinosaurs 65 million
+
+176
+00:07:01,419 --> 00:07:03,669
+years ago and so since then we we've
+
+177
+00:07:03,669 --> 00:07:06,039
+diverged your brains are build along
+
+178
+00:07:06,039 --> 00:07:08,169
+similar principle but all the details
+
+179
+00:07:08,169 --> 00:07:10,509
+have changed over the last 65 million
+
+180
+00:07:10,509 --> 00:07:10,959
+years
+
+181
+00:07:10,959 --> 00:07:12,849
+so you really gotta work with human
+
+182
+00:07:12,849 --> 00:07:14,319
+brain tissue which of course it's much
+
+183
+00:07:14,319 --> 00:07:16,839
+more challenging what year did Francis
+
+184
+00:07:16,839 --> 00:07:23,019
+died in 2004 2004 so it's 15 years what
+
+185
+00:07:23,019 --> 00:07:24,939
+what have we discovered since then that
+
+186
+00:07:24,939 --> 00:07:26,860
+he would be surprised about or pleased
+
+187
+00:07:26,860 --> 00:07:30,849
+to see solved or or still mystified in
+
+188
+00:07:30,849 --> 00:07:34,839
+the or whatever well so first of all I
+
+189
+00:07:34,839 --> 00:07:37,059
+was recently rereading there's a very
+
+190
+00:07:37,059 --> 00:07:39,099
+one of his better known articles was
+
+191
+00:07:39,099 --> 00:07:43,899
+written in 1979 well in 1979 so that's
+
+192
+00:07:43,899 --> 00:07:47,619
+basically you know that's that's 40
+
+193
+00:07:47,619 --> 00:07:49,149
+years ago when he just made the
+
+194
+00:07:49,149 --> 00:07:51,219
+transition from molecular biology to
+
+195
+00:07:51,219 --> 00:07:53,110
+neurobiology and when he also made the
+
+196
+00:07:53,110 --> 00:07:55,509
+transition from Cambridge England to La
+
+197
+00:07:55,509 --> 00:07:58,300
+Jolla here in California and he wrote a
+
+198
+00:07:58,300 --> 00:08:01,449
+very forward-looking article about about
+
+199
+00:08:01,449 --> 00:08:03,159
+brain sciences and some of the things it
+
+200
+00:08:03,159 --> 00:08:05,589
+should be invented and so their focus on
+
+201
+00:08:05,589 --> 00:08:07,899
+ba-leep he predicted well wouldn't it be
+
+202
+00:08:07,899 --> 00:08:09,610
+great if we have tools that light up
+
+203
+00:08:09,610 --> 00:08:12,339
+neurons with you know with flashes of
+
+204
+00:08:12,339 --> 00:08:14,229
+light when they when they have when they
+
+205
+00:08:14,229 --> 00:08:16,479
+discharge electrical activity wouldn't
+
+206
+00:08:16,479 --> 00:08:18,249
+be cool if we can turn you on
+
+207
+00:08:18,249 --> 00:08:20,679
+selectively on and off hmm these are all
+
+208
+00:08:20,679 --> 00:08:22,449
+tools that people developed over the Oh
+
+209
+00:08:22,449 --> 00:08:24,999
+over the last decade
+
+210
+00:08:24,999 --> 00:08:26,799
+so those things he would have been
+
+211
+00:08:26,799 --> 00:08:29,199
+comfortable with what he probably would
+
+212
+00:08:29,199 --> 00:08:31,599
+continue to be surprised at it's a vast
+
+213
+00:08:31,599 --> 00:08:34,539
+complexity of the brain you know even
+
+214
+00:08:34,539 --> 00:08:36,669
+you know when were when he and I worked
+
+215
+00:08:36,669 --> 00:08:38,769
+together 15 or 20 years ago we thought
+
+216
+00:08:38,769 --> 00:08:40,539
+there were going to be simpler molecular
+
+217
+00:08:40,539 --> 00:08:44,769
+codes that Express which cells are you
+
+218
+00:08:44,769 --> 00:08:48,970
+know sort of living in which bits which
+
+219
+00:08:48,970 --> 00:08:50,649
+specific part of the brain and all of
+
+220
+00:08:50,649 --> 00:08:52,300
+that turned out to be much much more
+
+221
+00:08:52,300 --> 00:08:53,760
+complicated than we were
+
+222
+00:08:53,760 --> 00:08:56,430
+we had imagined and some of the the
+
+223
+00:08:56,430 --> 00:08:59,010
+possibility to manipulate the human
+
+224
+00:08:59,010 --> 00:09:01,890
+brain again he might have been surprised
+
+225
+00:09:01,890 --> 00:09:03,630
+on the other end he was very fast
+
+226
+00:09:03,630 --> 00:09:05,160
+thinking so I'm not sure whether they
+
+227
+00:09:05,160 --> 00:09:06,930
+really would have been surprised by many
+
+228
+00:09:06,930 --> 00:09:10,320
+of the current developments I was trying
+
+229
+00:09:10,320 --> 00:09:12,150
+to find that famous quote for his book
+
+230
+00:09:12,150 --> 00:09:14,220
+the astonishing hypothesis what is it
+
+231
+00:09:14,220 --> 00:09:16,050
+you your joys and your sorrows your
+
+232
+00:09:16,050 --> 00:09:17,580
+memories and your ambitions your sense
+
+233
+00:09:17,580 --> 00:09:20,190
+of personal identity and free will and
+
+234
+00:09:20,190 --> 00:09:22,340
+let me see what's the rest of that quote
+
+235
+00:09:22,340 --> 00:09:25,410
+I mean it's still kind of true yeah are
+
+236
+00:09:25,410 --> 00:09:27,870
+in fact are in fact no more than the
+
+237
+00:09:27,870 --> 00:09:29,640
+behavior of a vast assembly of nerve
+
+238
+00:09:29,640 --> 00:09:31,800
+cells and their associated molecules of
+
+239
+00:09:31,800 --> 00:09:33,270
+course that's so broad it's kind of true
+
+240
+00:09:33,270 --> 00:09:35,730
+by definition but but why was that
+
+241
+00:09:35,730 --> 00:09:39,690
+astonishing at the at the time it wasn't
+
+242
+00:09:39,690 --> 00:09:45,240
+I mean it was a book titled that he
+
+243
+00:09:45,240 --> 00:09:47,460
+later regretted it was suggested to him
+
+244
+00:09:47,460 --> 00:09:49,290
+by his publisher never that would be
+
+245
+00:09:49,290 --> 00:09:51,330
+catchy no this is what most brain
+
+246
+00:09:51,330 --> 00:09:53,400
+scientists believed at the time and
+
+247
+00:09:53,400 --> 00:09:54,210
+believed to do
+
+248
+00:09:54,210 --> 00:09:56,640
+Tooley that ultimately who you are is a
+
+249
+00:09:56,640 --> 00:09:59,430
+part of your neurons also and this is
+
+250
+00:09:59,430 --> 00:10:01,890
+important it's not the same as us your
+
+251
+00:10:01,890 --> 00:10:04,410
+nuance right so my experience my love
+
+252
+00:10:04,410 --> 00:10:06,390
+that I have for my wife or for my
+
+253
+00:10:06,390 --> 00:10:09,000
+children it's not the same as the
+
+254
+00:10:09,000 --> 00:10:11,040
+neurons that that are involved in that
+
+255
+00:10:11,040 --> 00:10:13,350
+action those are really two different
+
+256
+00:10:13,350 --> 00:10:13,740
+things
+
+257
+00:10:13,740 --> 00:10:16,560
+one is necessary for the other right
+
+258
+00:10:16,560 --> 00:10:18,180
+it's sort of the physical substrate of
+
+259
+00:10:18,180 --> 00:10:20,160
+the other it's not my heart as ancient
+
+260
+00:10:20,160 --> 00:10:21,690
+believe it's not my liver that give rise
+
+261
+00:10:21,690 --> 00:10:24,870
+to my feelings it is the brain but but
+
+262
+00:10:24,870 --> 00:10:26,850
+the brain is different from the feelings
+
+263
+00:10:26,850 --> 00:10:29,340
+that that the brain gives rise to yeah
+
+264
+00:10:29,340 --> 00:10:31,020
+so there you're identifying the hard
+
+265
+00:10:31,020 --> 00:10:32,880
+problem of consciousness what it what it
+
+266
+00:10:32,880 --> 00:10:35,730
+feels like to be something or to
+
+267
+00:10:35,730 --> 00:10:37,890
+experience something yeah I mean yes
+
+268
+00:10:37,890 --> 00:10:39,750
+you're right so the hard poem is trying
+
+269
+00:10:39,750 --> 00:10:41,430
+to understand how one relates to the
+
+270
+00:10:41,430 --> 00:10:43,890
+other in a scientific empirical and
+
+271
+00:10:43,890 --> 00:10:45,690
+useful manner and of course some
+
+272
+00:10:45,690 --> 00:10:47,100
+philosophers claim this can never be
+
+273
+00:10:47,100 --> 00:10:49,500
+done me I don't know you know
+
+274
+00:10:49,500 --> 00:10:50,970
+philosophers have claimed many things
+
+275
+00:10:50,970 --> 00:10:52,770
+thought they hated said can't be done so
+
+276
+00:10:52,770 --> 00:10:54,690
+one has to be a little bit skeptical it
+
+277
+00:10:54,690 --> 00:10:56,490
+is indeed challenging it is difficult
+
+278
+00:10:56,490 --> 00:11:00,450
+there's no question about it yes so well
+
+279
+00:11:00,450 --> 00:11:02,640
+but the question is is it a conceptual
+
+280
+00:11:02,640 --> 00:11:04,500
+problem that is a problem with our
+
+281
+00:11:04,500 --> 00:11:07,500
+concepts or is it a scientific problem
+
+282
+00:11:07,500 --> 00:11:10,080
+that is is there any experiment you can
+
+283
+00:11:10,080 --> 00:11:13,140
+run and say there that explains exactly
+
+284
+00:11:13,140 --> 00:11:17,460
+why I experienced something well so it's
+
+285
+00:11:17,460 --> 00:11:21,030
+a we need an entire theory there's no
+
+286
+00:11:21,030 --> 00:11:22,890
+single experiment that will ever
+
+287
+00:11:22,890 --> 00:11:25,050
+convince anybody but it's the same in
+
+288
+00:11:25,050 --> 00:11:27,000
+physics if you look at quantum mechanics
+
+289
+00:11:27,000 --> 00:11:28,770
+you know as you well know Michael
+
+290
+00:11:28,770 --> 00:11:30,450
+quantum mechanics make some very weird
+
+291
+00:11:30,450 --> 00:11:32,640
+predictions right and so cook but
+
+292
+00:11:32,640 --> 00:11:34,740
+collectively we believe scientists
+
+293
+00:11:34,740 --> 00:11:36,390
+believe quantum mechanics is the best
+
+294
+00:11:36,390 --> 00:11:38,640
+description we have of the universe at
+
+295
+00:11:38,640 --> 00:11:40,980
+the micro scale and so ultimately we
+
+296
+00:11:40,980 --> 00:11:42,900
+need a theory of consciousness that
+
+297
+00:11:42,900 --> 00:11:44,790
+explains your consciousness and how it
+
+298
+00:11:44,790 --> 00:11:46,590
+arises in your brain and what happens
+
+299
+00:11:46,590 --> 00:11:48,120
+when you might get a stroke and what
+
+300
+00:11:48,120 --> 00:11:49,650
+happens in babies what happens in
+
+301
+00:11:49,650 --> 00:11:51,660
+animals what happens when you go to
+
+302
+00:11:51,660 --> 00:11:53,220
+sleep what happens when you have you
+
+303
+00:11:53,220 --> 00:11:55,560
+know various mental diseases and then we
+
+304
+00:11:55,560 --> 00:11:56,760
+have to see what are some of the
+
+305
+00:11:56,760 --> 00:12:00,000
+implications of such a theory for
+
+306
+00:12:00,000 --> 00:12:01,710
+instance for computers or for other
+
+307
+00:12:01,710 --> 00:12:04,380
+systems that we might not currently
+
+308
+00:12:04,380 --> 00:12:07,860
+think of as as being conscious well so
+
+309
+00:12:07,860 --> 00:12:10,440
+the title of your book the feeling of
+
+310
+00:12:10,440 --> 00:12:12,450
+life itself that is your definition of
+
+311
+00:12:12,450 --> 00:12:15,660
+consciousness ultimately yeah it's a
+
+312
+00:12:15,660 --> 00:12:18,450
+quite common one ultimately
+
+313
+00:12:18,450 --> 00:12:21,690
+consciousness is any experience any
+
+314
+00:12:21,690 --> 00:12:23,580
+feeling you have yeah you say
+
+315
+00:12:23,580 --> 00:12:27,810
+consciousness is experience yes yes as
+
+316
+00:12:27,810 --> 00:12:31,170
+in equals yes that's what yes
+
+317
+00:12:31,170 --> 00:12:33,840
+it's any experience that you have the
+
+318
+00:12:33,840 --> 00:12:36,000
+this subjective aspect it feels like
+
+319
+00:12:36,000 --> 00:12:37,560
+something you know to be angry to be
+
+320
+00:12:37,560 --> 00:12:39,390
+upset to know that you're gonna die one
+
+321
+00:12:39,390 --> 00:12:42,000
+day to be happy to be in love you know
+
+322
+00:12:42,000 --> 00:12:44,250
+to have a toothache to look at you to
+
+323
+00:12:44,250 --> 00:12:45,660
+hear me those are all different
+
+324
+00:12:45,660 --> 00:12:47,490
+experiences that's what consciousness is
+
+325
+00:12:47,490 --> 00:12:51,420
+yeah so but let's say you and I are both
+
+326
+00:12:51,420 --> 00:12:54,480
+looking at a red dot or whatever and in
+
+327
+00:12:54,480 --> 00:12:57,510
+back in our visual cortex at the same
+
+328
+00:12:57,510 --> 00:13:02,220
+spot is lighting up in an fMRI we would
+
+329
+00:13:02,220 --> 00:13:04,650
+say that's the neural correlates of that
+
+330
+00:13:04,650 --> 00:13:06,630
+conscious experience of seeing something
+
+331
+00:13:06,630 --> 00:13:09,540
+red but that's but where's the red our
+
+332
+00:13:09,540 --> 00:13:11,370
+mutual friend Deepak Chopra would say
+
+333
+00:13:11,370 --> 00:13:15,630
+where's the red well in this case the
+
+334
+00:13:15,630 --> 00:13:18,480
+experience is a consequence of the or
+
+335
+00:13:18,480 --> 00:13:20,880
+it's not a consequence no is it's really
+
+336
+00:13:20,880 --> 00:13:21,360
+the
+
+337
+00:13:21,360 --> 00:13:23,670
+you have a physical substrate let's see
+
+338
+00:13:23,670 --> 00:13:25,319
+some neurons being you know
+
+339
+00:13:25,319 --> 00:13:27,179
+interconnected in a particular way and
+
+340
+00:13:27,179 --> 00:13:30,480
+they are associated with this feeling
+
+341
+00:13:30,480 --> 00:13:32,540
+it's not that that first set is a
+
+342
+00:13:32,540 --> 00:13:35,189
+physical action and then there is a
+
+343
+00:13:35,189 --> 00:13:37,259
+feeling because that sort of dualism and
+
+344
+00:13:37,259 --> 00:13:39,149
+in scientists you know sort of tend to
+
+345
+00:13:39,149 --> 00:13:41,009
+reject that no you have the physical
+
+346
+00:13:41,009 --> 00:13:42,959
+constituency you have your brain or part
+
+347
+00:13:42,959 --> 00:13:46,049
+of it and then that sort of is
+
+348
+00:13:46,049 --> 00:13:48,299
+coextensive with a particular experience
+
+349
+00:13:48,299 --> 00:13:49,649
+whatever the expense will be seeing
+
+350
+00:13:49,649 --> 00:13:53,040
+rather being angry right it seems to me
+
+351
+00:13:53,040 --> 00:13:54,989
+this is this gets us to an answer to the
+
+352
+00:13:54,989 --> 00:13:56,730
+question of you know the problem of
+
+353
+00:13:56,730 --> 00:13:59,009
+other minds or how do I know you're
+
+354
+00:13:59,009 --> 00:14:00,660
+you're you're not a zombie and I'm the
+
+355
+00:14:00,660 --> 00:14:02,639
+only human that's actually sentient
+
+356
+00:14:02,639 --> 00:14:05,879
+because your brain is wired the same as
+
+357
+00:14:05,879 --> 00:14:08,369
+mine or very similar that the Copernican
+
+358
+00:14:08,369 --> 00:14:11,309
+principle says I'm not special so the
+
+359
+00:14:11,309 --> 00:14:13,199
+chances that you know you're completely
+
+360
+00:14:13,199 --> 00:14:15,089
+different on an experiential level than
+
+361
+00:14:15,089 --> 00:14:16,589
+I am even though we have the same wire
+
+362
+00:14:16,589 --> 00:14:19,110
+and is very low therefore the inference
+
+363
+00:14:19,110 --> 00:14:20,670
+to the best explanation is we're all
+
+364
+00:14:20,670 --> 00:14:23,100
+sentient perfect that's exactly I would
+
+365
+00:14:23,100 --> 00:14:25,829
+like I couldn't have better I could have
+
+366
+00:14:25,829 --> 00:14:27,269
+put it better myself now I don't really
+
+367
+00:14:27,269 --> 00:14:28,799
+know that but it's an inference as you
+
+368
+00:14:28,799 --> 00:14:30,059
+said it's an influence of the best
+
+369
+00:14:30,059 --> 00:14:34,199
+explanation yes right so well so that
+
+370
+00:14:34,199 --> 00:14:35,790
+gets to yeah well anyway just sort of
+
+371
+00:14:35,790 --> 00:14:37,619
+we're getting slightly ahead of
+
+372
+00:14:37,619 --> 00:14:39,540
+ourselves but you you know you you right
+
+373
+00:14:39,540 --> 00:14:41,699
+here consciousness has lived reality it
+
+374
+00:14:41,699 --> 00:14:43,529
+is the feeling of life itself is the
+
+375
+00:14:43,529 --> 00:14:45,329
+only bit of eternity to which I am
+
+376
+00:14:45,329 --> 00:14:47,910
+entitled without experience I would be a
+
+377
+00:14:47,910 --> 00:14:50,399
+zombie ain't nothing to myself so
+
+378
+00:14:50,399 --> 00:14:52,110
+there's there is all the neural activity
+
+379
+00:14:52,110 --> 00:14:54,720
+then there's this other layer of I don't
+
+380
+00:14:54,720 --> 00:14:56,129
+know what you want to call it I've sort
+
+381
+00:14:56,129 --> 00:14:59,179
+of a metaphysical layer or no it's not
+
+382
+00:14:59,179 --> 00:15:02,790
+yeah yeah that's my reality remember the
+
+383
+00:15:02,790 --> 00:15:04,529
+only thing I know off I said I have
+
+384
+00:15:04,529 --> 00:15:09,119
+feelings even anything else right but by
+
+385
+00:15:09,119 --> 00:15:11,040
+this definition that I would assume my
+
+386
+00:15:11,040 --> 00:15:12,869
+dog you have a dog I have a chocolate
+
+387
+00:15:12,869 --> 00:15:17,279
+lab I assume he's he experiences things
+
+388
+00:15:17,279 --> 00:15:19,709
+he there he has experiences similar to
+
+389
+00:15:19,709 --> 00:15:23,100
+mine therefore he is conscious yes
+
+390
+00:15:23,100 --> 00:15:24,689
+there's no question about it I don't
+
+391
+00:15:24,689 --> 00:15:26,790
+know by the way a single dog owner or
+
+392
+00:15:26,790 --> 00:15:29,069
+cat owner that would deny that that
+
+393
+00:15:29,069 --> 00:15:30,720
+their companion animals also have
+
+394
+00:15:30,720 --> 00:15:32,819
+feelings now they're not as complex as
+
+395
+00:15:32,819 --> 00:15:33,749
+yours or mine
+
+396
+00:15:33,749 --> 00:15:34,350
+my
+
+397
+00:15:34,350 --> 00:15:36,600
+my dog doesn't know he's gonna die one
+
+398
+00:15:36,600 --> 00:15:39,270
+day my dogs don't have that capacity I'm
+
+399
+00:15:39,270 --> 00:15:41,490
+not sure how much my dog you know thinks
+
+400
+00:15:41,490 --> 00:15:43,560
+about himself you know I like you think
+
+401
+00:15:43,560 --> 00:15:45,360
+about myself and I project myself in the
+
+402
+00:15:45,360 --> 00:15:47,490
+future I think about the past my dog
+
+403
+00:15:47,490 --> 00:15:49,320
+lives you know it's much more like a bit
+
+404
+00:15:49,320 --> 00:15:51,630
+like a Buddhist he lives in Bahia now
+
+405
+00:15:51,630 --> 00:15:54,000
+yeah he's very mindful in that in that
+
+406
+00:15:54,000 --> 00:15:56,760
+way most of us are not but yes he has
+
+407
+00:15:56,760 --> 00:15:58,350
+conscious experience no question about
+
+408
+00:15:58,350 --> 00:15:58,800
+it
+
+409
+00:15:58,800 --> 00:16:01,830
+your dog is enlightened in some sense
+
+410
+00:16:01,830 --> 00:16:03,540
+yes he's more enlightened because I'm
+
+411
+00:16:03,540 --> 00:16:05,280
+always obsessed about the future all
+
+412
+00:16:05,280 --> 00:16:06,930
+about the past most people are right
+
+413
+00:16:06,930 --> 00:16:09,480
+right because me think what would happen
+
+414
+00:16:09,480 --> 00:16:11,460
+then you replay the last dialogue the
+
+415
+00:16:11,460 --> 00:16:12,960
+last fight you had with your girlfriend
+
+416
+00:16:12,960 --> 00:16:15,330
+or whatever my dog doesn't do that my
+
+417
+00:16:15,330 --> 00:16:17,930
+dog is much more in the present yeah
+
+418
+00:16:17,930 --> 00:16:21,240
+yeah but so by this definition then it's
+
+419
+00:16:21,240 --> 00:16:26,820
+really just a scalable spectrum of like
+
+420
+00:16:26,820 --> 00:16:28,620
+instead of the lights coming on and off
+
+421
+00:16:28,620 --> 00:16:30,510
+like a switch of consciousness it's more
+
+422
+00:16:30,510 --> 00:16:32,130
+like a rheostat that you know you just
+
+423
+00:16:32,130 --> 00:16:34,260
+kind of turn it up it's very dim or it's
+
+424
+00:16:34,260 --> 00:16:35,760
+a little brighter and brighter and
+
+425
+00:16:35,760 --> 00:16:39,090
+brighter based on what the number of not
+
+426
+00:16:39,090 --> 00:16:40,590
+just a number of neurons but how they're
+
+427
+00:16:40,590 --> 00:16:42,600
+wired and in the complexity of the
+
+428
+00:16:42,600 --> 00:16:44,670
+neural networks and so on again you
+
+429
+00:16:44,670 --> 00:16:46,290
+you're putting it very well now that's
+
+430
+00:16:46,290 --> 00:16:47,880
+probably to pose at the level of
+
+431
+00:16:47,880 --> 00:16:49,920
+individual over your lifetime as well as
+
+432
+00:16:49,920 --> 00:16:52,260
+the cost species in other words when you
+
+433
+00:16:52,260 --> 00:16:53,580
+think back when were your first
+
+434
+00:16:53,580 --> 00:16:55,740
+conscious when when did you actually
+
+435
+00:16:55,740 --> 00:16:58,530
+first have an experience was it you know
+
+436
+00:16:58,530 --> 00:17:00,390
+when your your mom and your dad got
+
+437
+00:17:00,390 --> 00:17:02,010
+together and they you know the sperm
+
+438
+00:17:02,010 --> 00:17:04,199
+fertilized the egg was it at the stage
+
+439
+00:17:04,199 --> 00:17:07,020
+of blastocyte when you were 16 cells was
+
+440
+00:17:07,020 --> 00:17:09,150
+it at the end of your first term when
+
+441
+00:17:09,150 --> 00:17:11,699
+you had a brain you know after ten weeks
+
+442
+00:17:11,699 --> 00:17:14,339
+you have already a brain right and then
+
+443
+00:17:14,339 --> 00:17:16,829
+that goes is it when you when you exit
+
+444
+00:17:16,829 --> 00:17:19,620
+from your mom's womb into the world when
+
+445
+00:17:19,620 --> 00:17:21,480
+you finally have to breathe oxygen and
+
+446
+00:17:21,480 --> 00:17:23,160
+you scream and there's light and sound
+
+447
+00:17:23,160 --> 00:17:26,490
+and all of that or the or does it occur
+
+448
+00:17:26,490 --> 00:17:28,260
+June you know in the first two three
+
+449
+00:17:28,260 --> 00:17:29,820
+years of life when you get when you
+
+450
+00:17:29,820 --> 00:17:32,250
+would when you start speaking and even
+
+451
+00:17:32,250 --> 00:17:33,600
+as a teenager there's certain things
+
+452
+00:17:33,600 --> 00:17:35,460
+that you still have no experiences of
+
+453
+00:17:35,460 --> 00:17:37,170
+like like like the experience of being
+
+454
+00:17:37,170 --> 00:17:39,930
+in love or sex or wine of drugs all of
+
+455
+00:17:39,930 --> 00:17:42,990
+those right so you expand your conscious
+
+456
+00:17:42,990 --> 00:17:44,760
+experiences and then of course at the
+
+457
+00:17:44,760 --> 00:17:46,500
+end of life you know maybe there's
+
+458
+00:17:46,500 --> 00:17:47,250
+dementia
+
+459
+00:17:47,250 --> 00:17:49,200
+maybe you know you'll have a stroke or
+
+460
+00:17:49,200 --> 00:17:51,420
+something you know so so it waxes and
+
+461
+00:17:51,420 --> 00:17:53,400
+Wayne as it does during the day right
+
+462
+00:17:53,400 --> 00:17:55,380
+when you go to sleep your consciousness
+
+463
+00:17:55,380 --> 00:17:57,750
+is off and the same thing as you said
+
+464
+00:17:57,750 --> 00:17:59,660
+will change across different species
+
+465
+00:17:59,660 --> 00:18:02,100
+somehow scaling with the complexity of
+
+466
+00:18:02,100 --> 00:18:04,110
+their brain do you distinguish between
+
+467
+00:18:04,110 --> 00:18:08,270
+consciousness and sentience no I don't
+
+468
+00:18:08,270 --> 00:18:10,650
+awareness consciousness subjectivity
+
+469
+00:18:10,650 --> 00:18:12,390
+those are just different names but it's
+
+470
+00:18:12,390 --> 00:18:14,490
+all the basic same phenomena it feels
+
+471
+00:18:14,490 --> 00:18:16,770
+like something right you experience
+
+472
+00:18:16,770 --> 00:18:20,280
+pleasures pains suffering whatever yes
+
+473
+00:18:20,280 --> 00:18:22,500
+yeah that's why I always like Jeremy
+
+474
+00:18:22,500 --> 00:18:25,440
+Bentham's famous quote about it sort of
+
+475
+00:18:25,440 --> 00:18:27,150
+the grounding of animal rights not can
+
+476
+00:18:27,150 --> 00:18:28,680
+they thinking can they talk but can they
+
+477
+00:18:28,680 --> 00:18:31,770
+suffer yes yes ultimately I think that's
+
+478
+00:18:31,770 --> 00:18:35,580
+that's that's a key inside the suffering
+
+479
+00:18:35,580 --> 00:18:38,460
+the ability to suffer or not I mean
+
+480
+00:18:38,460 --> 00:18:39,900
+we're way ahead on this is you at the
+
+481
+00:18:39,900 --> 00:18:42,210
+end of your book on animal rights but
+
+482
+00:18:42,210 --> 00:18:43,980
+that's kind of where it begins and if
+
+483
+00:18:43,980 --> 00:18:47,400
+you really believe that then I don't
+
+484
+00:18:47,400 --> 00:18:49,710
+know how in the animal sentient beings
+
+485
+00:18:49,710 --> 00:18:51,270
+we kill every year it's like a trillion
+
+486
+00:18:51,270 --> 00:18:52,830
+a year if you count every chicken and
+
+487
+00:18:52,830 --> 00:18:55,890
+fish and so on I mean this is like worse
+
+488
+00:18:55,890 --> 00:18:59,340
+than the Holocaust every year so I
+
+489
+00:18:59,340 --> 00:19:02,760
+thought recently a quote in a restaurant
+
+490
+00:19:02,760 --> 00:19:05,970
+Germany and they said for for animals
+
+491
+00:19:05,970 --> 00:19:08,810
+its Treblinka every day
+
+492
+00:19:08,810 --> 00:19:11,490
+yeah and so I mean one reason I'm the
+
+493
+00:19:11,490 --> 00:19:13,800
+main reason I'm a vegetarian since many
+
+494
+00:19:13,800 --> 00:19:16,380
+many years because I don't want to do
+
+495
+00:19:16,380 --> 00:19:18,930
+that anymore you know certainly advanced
+
+496
+00:19:18,930 --> 00:19:21,270
+so I had this I had this epiphany the
+
+497
+00:19:21,270 --> 00:19:23,460
+night my beloved German Shepherd I was
+
+498
+00:19:23,460 --> 00:19:25,050
+fifteen years ago the black German
+
+499
+00:19:25,050 --> 00:19:26,790
+Shepherd know that she died in my arms I
+
+500
+00:19:26,790 --> 00:19:28,770
+was distraught and was crying and then I
+
+501
+00:19:28,770 --> 00:19:31,020
+thought well at the same time I loved
+
+502
+00:19:31,020 --> 00:19:33,660
+the the flesh of pigs and lambs and
+
+503
+00:19:33,660 --> 00:19:35,070
+their brain is roughly the same
+
+504
+00:19:35,070 --> 00:19:37,140
+complexity is that of my dog right so
+
+505
+00:19:37,140 --> 00:19:39,780
+they so I that night I promised my I
+
+506
+00:19:39,780 --> 00:19:42,390
+promised my nosey in her honor I would
+
+507
+00:19:42,390 --> 00:19:44,130
+never eat the flesh of another conscious
+
+508
+00:19:44,130 --> 00:19:46,410
+creature again and you did it and I
+
+509
+00:19:46,410 --> 00:19:50,460
+haven't what was her name nosy nosy nosy
+
+510
+00:19:50,460 --> 00:19:52,770
+she was intensely curious knows my black
+
+511
+00:19:52,770 --> 00:19:55,440
+gem shall I see nosy yes okay got it
+
+512
+00:19:55,440 --> 00:19:57,330
+black German Shepherd yeah German
+
+513
+00:19:57,330 --> 00:19:59,190
+Shepherds are they're really great dog
+
+514
+00:19:59,190 --> 00:20:03,330
+I've had two of those yeah well I mean
+
+515
+00:20:03,330 --> 00:20:04,440
+this is one of those things you think
+
+516
+00:20:04,440 --> 00:20:06,480
+like I wrote that book the moral arc and
+
+517
+00:20:06,480 --> 00:20:08,370
+people then ask well you know what's the
+
+518
+00:20:08,370 --> 00:20:10,050
+next stage well it's got to be animal
+
+519
+00:20:10,050 --> 00:20:12,330
+rights you know and it's one of these
+
+520
+00:20:12,330 --> 00:20:13,650
+things like if we were chronically
+
+521
+00:20:13,650 --> 00:20:15,390
+frozen and came back five hundred years
+
+522
+00:20:15,390 --> 00:20:17,670
+from now how would people then look back
+
+523
+00:20:17,670 --> 00:20:21,120
+at 20th century 21st century what what
+
+524
+00:20:21,120 --> 00:20:23,190
+we think about now you know they would
+
+525
+00:20:23,190 --> 00:20:24,870
+probably accuse us of being you know
+
+526
+00:20:24,870 --> 00:20:27,350
+like the equivalent of slave owners or
+
+527
+00:20:27,350 --> 00:20:31,260
+genocide 'el you know maniacs I think
+
+528
+00:20:31,260 --> 00:20:32,790
+there was an excellent point I mean we
+
+529
+00:20:32,790 --> 00:20:34,710
+today of course we believe we're morally
+
+530
+00:20:34,710 --> 00:20:36,990
+superior to every other previous culture
+
+531
+00:20:36,990 --> 00:20:39,240
+because you know we we have less races
+
+532
+00:20:39,240 --> 00:20:41,940
+and we have less misogyny but you know
+
+533
+00:20:41,940 --> 00:20:43,830
+but you're right they're horrible other
+
+534
+00:20:43,830 --> 00:20:45,360
+things that people simply don't think
+
+535
+00:20:45,360 --> 00:20:46,620
+about it when you talk to them about
+
+536
+00:20:46,620 --> 00:20:49,410
+about suffering some people would say
+
+537
+00:20:49,410 --> 00:20:51,000
+yeah you probably arrived but it tastes
+
+538
+00:20:51,000 --> 00:20:51,360
+too good
+
+539
+00:20:51,360 --> 00:20:54,240
+most people don't even think about it at
+
+540
+00:20:54,240 --> 00:20:54,690
+all
+
+541
+00:20:54,690 --> 00:20:57,300
+yeah just like presumably it it you know
+
+542
+00:20:57,300 --> 00:20:59,130
+when the Greeks were around nobody
+
+543
+00:20:59,130 --> 00:21:00,900
+really thought much about slaves I mean
+
+544
+00:21:00,900 --> 00:21:03,150
+I was total and Plato Socrates for sure
+
+545
+00:21:03,150 --> 00:21:05,100
+they didn't write really about it they
+
+546
+00:21:05,100 --> 00:21:06,480
+didn't even consider it a real issue
+
+547
+00:21:06,480 --> 00:21:08,700
+right not even noticeable
+
+548
+00:21:08,700 --> 00:21:12,140
+no yeah Dawkins wrote an essay
+
+549
+00:21:12,140 --> 00:21:14,490
+republished in his book the soul of
+
+550
+00:21:14,490 --> 00:21:17,850
+science I think about wanting to be a
+
+551
+00:21:17,850 --> 00:21:20,970
+vegetarian and he kind of went through
+
+552
+00:21:20,970 --> 00:21:23,490
+Peter singers famous arguments about the
+
+553
+00:21:23,490 --> 00:21:25,710
+expanding moral circle yeah well that
+
+554
+00:21:25,710 --> 00:21:27,660
+and he basically at the end he says I
+
+555
+00:21:27,660 --> 00:21:30,030
+know he's right and I know I shouldn't
+
+556
+00:21:30,030 --> 00:21:31,770
+do it but I go to a restaurant and I
+
+557
+00:21:31,770 --> 00:21:33,050
+can't help myself
+
+558
+00:21:33,050 --> 00:21:35,430
+you know it could be we need you know
+
+559
+00:21:35,430 --> 00:21:38,550
+everyone needs to change you know know
+
+560
+00:21:38,550 --> 00:21:40,740
+you need more than the arguments and you
+
+561
+00:21:40,740 --> 00:21:43,590
+need some kind of cultural momentum yes
+
+562
+00:21:43,590 --> 00:21:45,720
+and I mean that's why I took in my case
+
+563
+00:21:45,720 --> 00:21:47,580
+you know the in the death of my beloved
+
+564
+00:21:47,580 --> 00:21:51,660
+pet because you know I the taste of meat
+
+565
+00:21:51,660 --> 00:21:53,850
+is deep ingrained in our culture yeah so
+
+566
+00:21:53,850 --> 00:21:55,560
+it's just like with many of the other
+
+567
+00:21:55,560 --> 00:21:57,090
+isms we need to change our entire
+
+568
+00:21:57,090 --> 00:21:59,370
+culture why bring up children with all
+
+569
+00:21:59,370 --> 00:22:01,920
+this flesh all right here's your current
+
+570
+00:22:01,920 --> 00:22:04,590
+here's your current dog ah from your
+
+571
+00:22:04,590 --> 00:22:06,300
+from your perspective did you draw that
+
+572
+00:22:06,300 --> 00:22:10,680
+I know I had an artist oh yes because I
+
+573
+00:22:10,680 --> 00:22:12,490
+think movie
+
+574
+00:22:12,490 --> 00:22:16,059
+dog what's what's her name Ruby Ruby
+
+575
+00:22:16,059 --> 00:22:21,929
+yeah like the jewel yeah yeah right
+
+576
+00:22:21,929 --> 00:22:24,640
+anyway well I mean that's you know it's
+
+577
+00:22:24,640 --> 00:22:26,470
+one of those issues that I think
+
+578
+00:22:26,470 --> 00:22:28,300
+culturally will get there I think it's
+
+579
+00:22:28,300 --> 00:22:29,559
+going to take longer simply because
+
+580
+00:22:29,559 --> 00:22:32,320
+because we all have to eat and meat is
+
+581
+00:22:32,320 --> 00:22:35,559
+such a big factor you know it was easier
+
+582
+00:22:35,559 --> 00:22:36,880
+I think to give up slaves because not
+
+583
+00:22:36,880 --> 00:22:38,920
+that many people actually own slaves
+
+584
+00:22:38,920 --> 00:22:40,870
+everybody eats and everybody eats every
+
+585
+00:22:40,870 --> 00:22:43,030
+day and most people eat meat I think
+
+586
+00:22:43,030 --> 00:22:45,040
+it's just a harder moral revolution to
+
+587
+00:22:45,040 --> 00:22:47,530
+bring about I agree but there are some
+
+588
+00:22:47,530 --> 00:22:49,720
+promising development is impossible
+
+589
+00:22:49,720 --> 00:22:52,450
+impossible food there's your meat it's
+
+590
+00:22:52,450 --> 00:22:54,220
+getting more expensive and you know with
+
+591
+00:22:54,220 --> 00:22:56,559
+8 billion people it's not clear within
+
+592
+00:22:56,559 --> 00:22:58,690
+50 years from now we can still support
+
+593
+00:22:58,690 --> 00:23:00,660
+this mass ok culture given you know the
+
+594
+00:23:00,660 --> 00:23:03,880
+Associated environmental cost so maybe
+
+595
+00:23:03,880 --> 00:23:06,610
+things will will change I've been I've
+
+596
+00:23:06,610 --> 00:23:08,620
+been having the the impossible burger at
+
+597
+00:23:08,620 --> 00:23:11,260
+a local islands chain here in Santa
+
+598
+00:23:11,260 --> 00:23:13,150
+Barbara it's pretty good and I mean it's
+
+599
+00:23:13,150 --> 00:23:14,650
+a little expanding its 15 bucks or
+
+600
+00:23:14,650 --> 00:23:15,880
+something like that but the cost will
+
+601
+00:23:15,880 --> 00:23:17,290
+come down in time the council will come
+
+602
+00:23:17,290 --> 00:23:19,809
+down and apparently the impossible but
+
+603
+00:23:19,809 --> 00:23:24,370
+are they off it now at Burger King I
+
+604
+00:23:24,370 --> 00:23:26,230
+think it's the impossible West English
+
+605
+00:23:26,230 --> 00:23:27,340
+is I think they're calling the
+
+606
+00:23:27,340 --> 00:23:31,990
+impossible whopper yes and people can't
+
+607
+00:23:31,990 --> 00:23:35,950
+tell it apart so that's encouraging
+
+608
+00:23:35,950 --> 00:23:39,130
+yeah all right so this is the your
+
+609
+00:23:39,130 --> 00:23:41,350
+previous book was the about of romantic
+
+610
+00:23:41,350 --> 00:23:43,440
+what did you call yourself a romantic
+
+611
+00:23:43,440 --> 00:23:46,720
+consciousness a confession of a romantic
+
+612
+00:23:46,720 --> 00:23:48,580
+reduction projection a romantic
+
+613
+00:23:48,580 --> 00:23:50,230
+reductionist yeah yeah you've always
+
+614
+00:23:50,230 --> 00:23:53,140
+kind of flirted around with with not
+
+615
+00:23:53,140 --> 00:23:56,890
+being strictly reductionistic well and
+
+616
+00:23:56,890 --> 00:23:57,790
+yes
+
+617
+00:23:57,790 --> 00:24:00,640
+so that's entirely too very good and of
+
+618
+00:24:00,640 --> 00:24:03,160
+course in consciousness you have to take
+
+619
+00:24:03,160 --> 00:24:04,690
+a holistic perspective because
+
+620
+00:24:04,690 --> 00:24:06,429
+consciousness ultimately it's about a
+
+621
+00:24:06,429 --> 00:24:10,780
+whole you know w w o al e the whole here
+
+622
+00:24:10,780 --> 00:24:13,600
+and and because we you know my conscious
+
+623
+00:24:13,600 --> 00:24:15,910
+experience is holistic it's one it's not
+
+624
+00:24:15,910 --> 00:24:17,830
+many I don't experience many things at
+
+625
+00:24:17,830 --> 00:24:19,540
+any given point in time and so therefore
+
+626
+00:24:19,540 --> 00:24:23,080
+you have to ask what is a whole in in
+
+627
+00:24:23,080 --> 00:24:25,030
+your brain or anywhere else and and and
+
+628
+00:24:25,030 --> 00:24:26,350
+each whole concept
+
+629
+00:24:26,350 --> 00:24:28,690
+a conscious being a conscious thing a
+
+630
+00:24:28,690 --> 00:24:30,340
+conscious entity that has some
+
+631
+00:24:30,340 --> 00:24:34,779
+experiences yes yeah in the book you go
+
+632
+00:24:34,779 --> 00:24:37,149
+through these surgeries where they take
+
+633
+00:24:37,149 --> 00:24:38,259
+out different parts of the brain and
+
+634
+00:24:38,259 --> 00:24:40,509
+consciousness still is still retained
+
+635
+00:24:40,509 --> 00:24:42,340
+walk us through some of that research
+
+636
+00:24:42,340 --> 00:24:44,470
+and the search for where it's located
+
+637
+00:24:44,470 --> 00:24:46,630
+and why it's impossible to find it in
+
+638
+00:24:46,630 --> 00:24:51,429
+any one place well so so yeah so we do
+
+639
+00:24:51,429 --> 00:24:54,340
+know enough from new no clinical
+
+640
+00:24:54,340 --> 00:24:56,679
+neuroscience the last 150 years to know
+
+641
+00:24:56,679 --> 00:24:59,409
+there isn't any one place where sort of
+
+642
+00:24:59,409 --> 00:25:01,179
+it all comes together you know all my
+
+643
+00:25:01,179 --> 00:25:03,100
+conscious experience of me and not in
+
+644
+00:25:03,100 --> 00:25:05,740
+any one place they of course places in
+
+645
+00:25:05,740 --> 00:25:07,629
+the brain way if you have a stroke you
+
+646
+00:25:07,629 --> 00:25:09,519
+become unconscious but particularly in
+
+647
+00:25:09,519 --> 00:25:11,679
+the brainstem right so your brainstem as
+
+648
+00:25:11,679 --> 00:25:13,809
+like this to this pipe roughly two inch
+
+649
+00:25:13,809 --> 00:25:15,789
+a one inch thick to into the cause here
+
+650
+00:25:15,789 --> 00:25:18,159
+that connects the spinal cord with my
+
+651
+00:25:18,159 --> 00:25:20,470
+brain popper if you have a lesion there
+
+652
+00:25:20,470 --> 00:25:22,090
+you're typically in bad shape
+
+653
+00:25:22,090 --> 00:25:25,450
+right you may be in coma or or in a
+
+654
+00:25:25,450 --> 00:25:27,250
+persistent vegetative state but those
+
+655
+00:25:27,250 --> 00:25:29,110
+are just enabling factors just like you
+
+656
+00:25:29,110 --> 00:25:30,460
+need your heart to beat if your heart
+
+657
+00:25:30,460 --> 00:25:32,649
+doesn't beat within seven to ten seconds
+
+658
+00:25:32,649 --> 00:25:34,720
+you faint so that's one of the necessary
+
+659
+00:25:34,720 --> 00:25:37,120
+background condition same thing your
+
+660
+00:25:37,120 --> 00:25:39,100
+brainstem needs to all those neurons in
+
+661
+00:25:39,100 --> 00:25:40,990
+there need to be active in order to vote
+
+662
+00:25:40,990 --> 00:25:42,970
+for your for your really your cortex
+
+663
+00:25:42,970 --> 00:25:45,190
+it's really context the at the outermost
+
+664
+00:25:45,190 --> 00:25:47,289
+shell at least in as humans and in other
+
+665
+00:25:47,289 --> 00:25:48,820
+mammals that gives rise to anyone
+
+666
+00:25:48,820 --> 00:25:51,429
+conscious sensation and there we know
+
+667
+00:25:51,429 --> 00:25:53,320
+from people like Oliver Sacks you know
+
+668
+00:25:53,320 --> 00:25:55,120
+they're the neurologists yeah that
+
+669
+00:25:55,120 --> 00:25:57,309
+specific part of this cortical sheet
+
+670
+00:25:57,309 --> 00:25:59,139
+it's really like a pizza in assets like
+
+671
+00:25:59,139 --> 00:25:59,860
+a pizza
+
+672
+00:25:59,860 --> 00:26:04,179
+it's a fourteen inch diameter two to
+
+673
+00:26:04,179 --> 00:26:06,070
+three millimeter thick and you've got
+
+674
+00:26:06,070 --> 00:26:07,629
+two of them and they're highly convolve
+
+675
+00:26:07,629 --> 00:26:10,450
+dand you know you know put into your
+
+676
+00:26:10,450 --> 00:26:13,210
+into your skull and different parts of
+
+677
+00:26:13,210 --> 00:26:15,580
+that mediate different aspects of
+
+678
+00:26:15,580 --> 00:26:17,740
+feeling feeling of self feeling of
+
+679
+00:26:17,740 --> 00:26:20,289
+seeing motion seeing of color of hearing
+
+680
+00:26:20,289 --> 00:26:22,570
+and we know this from people who have
+
+681
+00:26:22,570 --> 00:26:24,940
+strokes or lesion they miss they miss
+
+682
+00:26:24,940 --> 00:26:27,759
+entire entire categories of experience
+
+683
+00:26:27,759 --> 00:26:30,429
+they don't seem color anymore they they
+
+684
+00:26:30,429 --> 00:26:32,919
+feel everybody else is has it sort of
+
+685
+00:26:32,919 --> 00:26:35,080
+has been at a place they the loss of
+
+686
+00:26:35,080 --> 00:26:37,649
+feeling or familiarity and so so
+
+687
+00:26:37,649 --> 00:26:40,029
+clinical natural experiments like that
+
+688
+00:26:40,029 --> 00:26:41,739
+we know their specific parts of the but
+
+689
+00:26:41,739 --> 00:26:44,169
+of context that are really essential for
+
+690
+00:26:44,169 --> 00:26:45,729
+different classes of conscious
+
+691
+00:26:45,729 --> 00:26:48,700
+experiences yeah I was liked about
+
+692
+00:26:48,700 --> 00:26:50,409
+Oliver's books is you know basically
+
+693
+00:26:50,409 --> 00:26:52,809
+each chapter is something that's gone
+
+694
+00:26:52,809 --> 00:26:55,059
+wrong in somebody's brain and then what
+
+695
+00:26:55,059 --> 00:26:57,519
+that looks like in terms of symptoms and
+
+696
+00:26:57,519 --> 00:27:00,219
+experiences and behaviors and what it
+
+697
+00:27:00,219 --> 00:27:01,539
+actually feels like he's really very
+
+698
+00:27:01,539 --> 00:27:03,580
+good at conveying you know the feet you
+
+699
+00:27:03,580 --> 00:27:06,519
+know how does the world how does how
+
+700
+00:27:06,519 --> 00:27:08,169
+does your experience of the world change
+
+701
+00:27:08,169 --> 00:27:09,999
+if you have you know if you have these
+
+702
+00:27:09,999 --> 00:27:11,889
+specific brain lesion or you're unable
+
+703
+00:27:11,889 --> 00:27:14,830
+to remember or you always live live in
+
+704
+00:27:14,830 --> 00:27:16,389
+the present and that teaches us a lot
+
+705
+00:27:16,389 --> 00:27:18,219
+about consciousness there's another
+
+706
+00:27:18,219 --> 00:27:21,849
+class of surgeries so medical sciences
+
+707
+00:27:21,849 --> 00:27:23,649
+in general and surgeries probably taught
+
+708
+00:27:23,649 --> 00:27:25,479
+us more about consciousness and most
+
+709
+00:27:25,479 --> 00:27:28,359
+other fields so a series of experiments
+
+710
+00:27:28,359 --> 00:27:30,159
+that I know you know well that were done
+
+711
+00:27:30,159 --> 00:27:32,589
+at Caltech by a remember Joe bogan the
+
+712
+00:27:32,589 --> 00:27:37,210
+new search and and Michael Gazzaniga and
+
+713
+00:27:37,210 --> 00:27:38,979
+Laura Sperry you know who got a Nobel
+
+714
+00:27:38,979 --> 00:27:40,629
+Prize forth with these split brain
+
+715
+00:27:40,629 --> 00:27:42,729
+experiments yeah and so what happens in
+
+716
+00:27:42,729 --> 00:27:44,289
+a split brain experiment of course you
+
+717
+00:27:44,289 --> 00:27:45,849
+have a person who's epileptic seizure
+
+718
+00:27:45,849 --> 00:27:48,669
+the seizure might start in one cortical
+
+719
+00:27:48,669 --> 00:27:51,009
+hemisphere so seizure is just a hyper
+
+720
+00:27:51,009 --> 00:27:54,129
+you know hyper excitable above and
+
+721
+00:27:54,129 --> 00:27:56,469
+electrical activity that can if it
+
+722
+00:27:56,469 --> 00:27:59,200
+spreads can engulf the entire brain and
+
+723
+00:27:59,200 --> 00:28:00,729
+then you get these core model' you know
+
+724
+00:28:00,729 --> 00:28:02,799
+these attacks so to prevent it from
+
+725
+00:28:02,799 --> 00:28:05,729
+spreading as spreading a radical
+
+726
+00:28:05,729 --> 00:28:08,649
+therapies to cut the why the why is
+
+727
+00:28:08,649 --> 00:28:10,509
+there tuna if you look down at the brain
+
+728
+00:28:10,509 --> 00:28:11,979
+right it's like a walnut they're two
+
+729
+00:28:11,979 --> 00:28:14,409
+halves and the two halves are connected
+
+730
+00:28:14,409 --> 00:28:16,179
+by 200 million fibers called the corpus
+
+731
+00:28:16,179 --> 00:28:20,830
+callosum and if you cut that that yes
+
+732
+00:28:20,830 --> 00:28:23,529
+beautiful exactly and if you cut that
+
+733
+00:28:23,529 --> 00:28:25,269
+you can you can prevent the seizures
+
+734
+00:28:25,269 --> 00:28:27,820
+from and from spreading but then it
+
+735
+00:28:27,820 --> 00:28:32,649
+turns out now you have two minds in at
+
+736
+00:28:32,649 --> 00:28:33,999
+least some of these patients you have
+
+737
+00:28:33,999 --> 00:28:36,489
+two minds inside one scow you have the
+
+738
+00:28:36,489 --> 00:28:38,679
+left brain that gives rise to a mind and
+
+739
+00:28:38,679 --> 00:28:40,869
+that's the one that speaks but there was
+
+740
+00:28:40,869 --> 00:28:43,239
+a great discovery that the the the
+
+741
+00:28:43,239 --> 00:28:45,549
+speaking parts is really specialized in
+
+742
+00:28:45,549 --> 00:28:46,779
+most of us it's the left hemisphere
+
+743
+00:28:46,779 --> 00:28:49,450
+Bacchus they are in Veronica's area but
+
+744
+00:28:49,450 --> 00:28:50,950
+you can shut that off focus on by
+
+745
+00:28:50,950 --> 00:28:53,259
+initializing it by injecting sodium
+
+746
+00:28:53,259 --> 00:28:53,900
+amytal
+
+747
+00:28:53,900 --> 00:28:56,210
+and then there's the other mind in the
+
+748
+00:28:56,210 --> 00:28:58,730
+right hemisphere and they don't know
+
+749
+00:28:58,730 --> 00:29:00,470
+about each other it's like being on the
+
+750
+00:29:00,470 --> 00:29:02,150
+dark side of the moon there's someone in
+
+751
+00:29:02,150 --> 00:29:04,309
+my hair but it's not me you know like
+
+752
+00:29:04,309 --> 00:29:06,380
+the Pink Floyd it's on quite literally
+
+753
+00:29:06,380 --> 00:29:09,250
+because each one is its own experience
+
+754
+00:29:09,250 --> 00:29:12,350
+each one believes itself to be the only
+
+755
+00:29:12,350 --> 00:29:15,470
+thing inside their body but then of
+
+756
+00:29:15,470 --> 00:29:17,300
+course the patient you can ask the
+
+757
+00:29:17,300 --> 00:29:18,740
+patient and sometimes the patient
+
+758
+00:29:18,740 --> 00:29:21,290
+complains the patient she or he will say
+
+759
+00:29:21,290 --> 00:29:23,210
+oh my other hands always does things
+
+760
+00:29:23,210 --> 00:29:25,670
+that I don't want it to do right yeah
+
+761
+00:29:25,670 --> 00:29:26,990
+because it's the other consciousness
+
+762
+00:29:26,990 --> 00:29:29,600
+that have also a will of its own and
+
+763
+00:29:29,600 --> 00:29:32,390
+then they have to duke it out yeah it's
+
+764
+00:29:32,390 --> 00:29:35,660
+the problem of identity and self is
+
+765
+00:29:35,660 --> 00:29:37,670
+there a single self if you can so easily
+
+766
+00:29:37,670 --> 00:29:41,570
+divide a brain into two my so easily I
+
+767
+00:29:41,570 --> 00:29:46,190
+mean it is massive you know it's it's a
+
+768
+00:29:46,190 --> 00:29:48,140
+pretty rare surgery it's not it's not
+
+769
+00:29:48,140 --> 00:29:49,670
+done that even yeah but if you
+
+770
+00:29:49,670 --> 00:29:52,130
+physically cut the brain into two yes
+
+771
+00:29:52,130 --> 00:29:54,350
+then there will be at least this way not
+
+772
+00:29:54,350 --> 00:29:55,730
+this way but if you cut it this way
+
+773
+00:29:55,730 --> 00:29:57,380
+there will be two now you can do the
+
+774
+00:29:57,380 --> 00:29:59,480
+opposite also so this is what I talked
+
+775
+00:29:59,480 --> 00:30:01,550
+about so I can take your brain in my
+
+776
+00:30:01,550 --> 00:30:03,920
+brain and I can do sort of the very
+
+777
+00:30:03,920 --> 00:30:05,780
+opposite of split brain so I can start
+
+778
+00:30:05,780 --> 00:30:08,000
+putting in wires between let's see my
+
+779
+00:30:08,000 --> 00:30:09,590
+visual cortex and your visual cortex
+
+780
+00:30:09,590 --> 00:30:12,410
+okay so let's see I have some future you
+
+781
+00:30:12,410 --> 00:30:14,120
+know neural link Elon Musk like
+
+782
+00:30:14,120 --> 00:30:16,670
+technology that allows my visual cortex
+
+783
+00:30:16,670 --> 00:30:19,070
+to talk to your visual cortex so at
+
+784
+00:30:19,070 --> 00:30:21,230
+first what what the theory that I
+
+785
+00:30:21,230 --> 00:30:23,660
+discussed predicts at first I can see I
+
+786
+00:30:23,660 --> 00:30:26,540
+see normally like I see now but I also
+
+787
+00:30:26,540 --> 00:30:28,490
+see a little bit through your eyes so
+
+788
+00:30:28,490 --> 00:30:31,010
+what you see is like a ghostly image
+
+789
+00:30:31,010 --> 00:30:32,320
+like you know augmented reality
+
+790
+00:30:32,320 --> 00:30:34,730
+superimposed onto what I see but I'm
+
+791
+00:30:34,730 --> 00:30:37,700
+still me and you're still Michael now
+
+792
+00:30:37,700 --> 00:30:39,500
+with the theory predicts it's integrated
+
+793
+00:30:39,500 --> 00:30:41,240
+information theory predicts that as I
+
+794
+00:30:41,240 --> 00:30:43,190
+increase the bandwidth of this
+
+795
+00:30:43,190 --> 00:30:45,260
+connection as I add more and more fibers
+
+796
+00:30:45,260 --> 00:30:47,960
+this to this artificial brain bridge
+
+797
+00:30:47,960 --> 00:30:50,780
+between your brain and my brain at some
+
+798
+00:30:50,780 --> 00:30:53,090
+point and it's very precisely defined
+
+799
+00:30:53,090 --> 00:30:56,420
+when at some point abruptly I will die I
+
+800
+00:30:56,420 --> 00:30:58,309
+will disappear Christophe will be no
+
+801
+00:30:58,309 --> 00:31:00,080
+more Michael Shermer
+
+802
+00:31:00,080 --> 00:31:02,090
+will disappear instead there will be
+
+803
+00:31:02,090 --> 00:31:04,700
+this new thing this uber mind this new
+
+804
+00:31:04,700 --> 00:31:07,649
+conscious mind that has foot
+
+805
+00:31:07,649 --> 00:31:10,379
+in that houses that lives in to brain in
+
+806
+00:31:10,379 --> 00:31:12,990
+your brain and in my brain it has four
+
+807
+00:31:12,990 --> 00:31:15,149
+cortical hemisphere it's Sisu for eyes
+
+808
+00:31:15,149 --> 00:31:17,669
+and hears through four years and it
+
+809
+00:31:17,669 --> 00:31:19,679
+talks to two mouths but a different
+
+810
+00:31:19,679 --> 00:31:21,179
+world it'd be a completely different
+
+811
+00:31:21,179 --> 00:31:25,049
+experience well it still has some of you
+
+812
+00:31:25,049 --> 00:31:26,879
+it still has access to your memories
+
+813
+00:31:26,879 --> 00:31:28,860
+this mind still has access to my
+
+814
+00:31:28,860 --> 00:31:31,620
+memories of course it will have aspects
+
+815
+00:31:31,620 --> 00:31:33,749
+of your personality in my personality
+
+816
+00:31:33,749 --> 00:31:36,029
+there could be big Freud's going on but
+
+817
+00:31:36,029 --> 00:31:38,370
+it will be a single mind just like the
+
+818
+00:31:38,370 --> 00:31:42,029
+bog the e there will be a single mind
+
+819
+00:31:42,029 --> 00:31:43,710
+you know I'll call it Michael Christophe
+
+820
+00:31:43,710 --> 00:31:46,740
+you know some some amalgamation of your
+
+821
+00:31:46,740 --> 00:31:49,350
+mind and in my mind there's always only
+
+822
+00:31:49,350 --> 00:31:51,539
+a single consciousness and then as I
+
+823
+00:31:51,539 --> 00:31:53,460
+progressively reduce that there's
+
+824
+00:31:53,460 --> 00:31:55,860
+bandwidth these wires between my and
+
+825
+00:31:55,860 --> 00:31:58,440
+your brain at some point abruptly you
+
+826
+00:31:58,440 --> 00:32:00,119
+will find yourself back in your brain
+
+827
+00:32:00,119 --> 00:32:02,909
+and I will find myself back in in my
+
+828
+00:32:02,909 --> 00:32:05,639
+brain the sensor I showed this picture
+
+829
+00:32:05,639 --> 00:32:10,200
+of your dog Ruby through your eyes you
+
+830
+00:32:10,200 --> 00:32:11,429
+know sort of looking down you can see
+
+831
+00:32:11,429 --> 00:32:13,080
+your legs and there's Ruby for those who
+
+832
+00:32:13,080 --> 00:32:15,330
+are just listening to this podcast if
+
+833
+00:32:15,330 --> 00:32:18,600
+you had a brain link between your visual
+
+834
+00:32:18,600 --> 00:32:20,940
+cortex and your dog's visual cortex
+
+835
+00:32:20,940 --> 00:32:23,519
+if you cranked up the electricity enough
+
+836
+00:32:23,519 --> 00:32:26,490
+would she suddenly see that almost like
+
+837
+00:32:26,490 --> 00:32:28,919
+looking in the mirror like there I am it
+
+838
+00:32:28,919 --> 00:32:31,559
+would well if it's a single mine it
+
+839
+00:32:31,559 --> 00:32:33,990
+would be a sort of a weird canine human
+
+840
+00:32:33,990 --> 00:32:36,960
+mind we would be fused yes it's it's
+
+841
+00:32:36,960 --> 00:32:41,009
+it's a very weird that is really spooky
+
+842
+00:32:41,009 --> 00:32:44,490
+I mean it's it's easier to think about
+
+843
+00:32:44,490 --> 00:32:47,610
+it yeah you know so for example when
+
+844
+00:32:47,610 --> 00:32:48,990
+you're making love you must have
+
+845
+00:32:48,990 --> 00:32:50,879
+realizes you know so you're making loves
+
+846
+00:32:50,879 --> 00:32:52,769
+you you're sort of your bodies are
+
+847
+00:32:52,769 --> 00:32:54,899
+interpenetrated but you realize that she
+
+848
+00:32:54,899 --> 00:32:56,759
+is assuming you're making love to a
+
+849
+00:32:56,759 --> 00:32:59,190
+woman that she is still her own mind and
+
+850
+00:32:59,190 --> 00:33:00,899
+you're still your mind and you can look
+
+851
+00:33:00,899 --> 00:33:02,610
+at each other but you can never bridge
+
+852
+00:33:02,610 --> 00:33:04,679
+that gap right mind the captors always
+
+853
+00:33:04,679 --> 00:33:07,200
+care now with brain bridging this the
+
+854
+00:33:07,200 --> 00:33:09,299
+the theory says if I directly connect my
+
+855
+00:33:09,299 --> 00:33:11,940
+pride mum my brain was harebrained and
+
+856
+00:33:11,940 --> 00:33:13,409
+at some point there will only be a
+
+857
+00:33:13,409 --> 00:33:15,720
+single mind we will truly be merged like
+
+858
+00:33:15,720 --> 00:33:17,909
+lavas there will only be one mind like
+
+859
+00:33:17,909 --> 00:33:19,299
+Kristen is older you know
+
+860
+00:33:19,299 --> 00:33:22,330
+in in in Varanasi eponymous opera there
+
+861
+00:33:22,330 --> 00:33:23,980
+will be one mind there will be no more
+
+862
+00:33:23,980 --> 00:33:27,059
+and there will only be twisting is olden
+
+863
+00:33:27,059 --> 00:33:29,200
+you know that I think it was a New
+
+864
+00:33:29,200 --> 00:33:32,320
+Yorker cartoon of two behaviorists after
+
+865
+00:33:32,320 --> 00:33:34,539
+making love the one says you know you
+
+866
+00:33:34,539 --> 00:33:36,340
+had a really great time how was it for
+
+867
+00:33:36,340 --> 00:33:36,740
+me
+
+868
+00:33:36,740 --> 00:33:41,799
+[Laughter]
+
+869
+00:33:41,799 --> 00:33:43,809
+know this now interesting this might
+
+870
+00:33:43,809 --> 00:33:45,789
+happen already on this planet there are
+
+871
+00:33:45,789 --> 00:33:47,679
+twins I'm thinking right now of
+
+872
+00:33:47,679 --> 00:33:51,190
+identical to Siamese twins in Canada mmm
+
+873
+00:33:51,190 --> 00:33:52,869
+yeah in north of us here in British
+
+874
+00:33:52,869 --> 00:33:55,119
+Columbia and they were born with what's
+
+875
+00:33:55,119 --> 00:33:57,129
+called a brain bridge and salami brain
+
+876
+00:33:57,129 --> 00:33:59,889
+bridge so due to some birth defect their
+
+877
+00:33:59,889 --> 00:34:02,230
+brains never really truly separated into
+
+878
+00:34:02,230 --> 00:34:05,529
+into two brains and there's some so the
+
+879
+00:34:05,529 --> 00:34:07,720
+New York Times you know Gordon long
+
+880
+00:34:07,720 --> 00:34:09,879
+article about it and there's some
+
+881
+00:34:09,879 --> 00:34:11,649
+evidence that one of the girls can look
+
+882
+00:34:11,649 --> 00:34:13,690
+there the other girl can look over the
+
+883
+00:34:13,690 --> 00:34:16,210
+end can partly see through the eyes of
+
+884
+00:34:16,210 --> 00:34:21,909
+her of her you know Siamese twin partly
+
+885
+00:34:21,909 --> 00:34:25,359
+because of this of this bridge so for
+
+886
+00:34:25,359 --> 00:34:28,270
+the one looking that's just such a weird
+
+887
+00:34:28,270 --> 00:34:30,549
+idea so they're really getting different
+
+888
+00:34:30,549 --> 00:34:33,190
+inputs and combining them into some kind
+
+889
+00:34:33,190 --> 00:34:35,500
+of field and I mean it I'm envisioning
+
+890
+00:34:35,500 --> 00:34:37,569
+some kind of a split field but but a
+
+891
+00:34:37,569 --> 00:34:39,579
+bird that has to you know eyes on either
+
+892
+00:34:39,579 --> 00:34:40,690
+side of its head
+
+893
+00:34:40,690 --> 00:34:43,839
+it I think of it like augmented reality
+
+894
+00:34:43,839 --> 00:34:45,669
+at that point right you know the
+
+895
+00:34:45,669 --> 00:34:47,440
+portable augmented reality for where
+
+896
+00:34:47,440 --> 00:34:49,270
+this car I see I see still the real
+
+897
+00:34:49,270 --> 00:34:51,129
+reality but then I have these virtual
+
+898
+00:34:51,129 --> 00:34:53,980
+images that are that are super that are
+
+899
+00:34:53,980 --> 00:34:55,780
+superimposed except here they are not
+
+900
+00:34:55,780 --> 00:34:58,420
+virtual they are again they're they're
+
+901
+00:34:58,420 --> 00:35:00,400
+real but at some point if there's only
+
+902
+00:35:00,400 --> 00:35:03,220
+one mind then this is your experience of
+
+903
+00:35:03,220 --> 00:35:05,140
+the world you explain you see the world
+
+904
+00:35:05,140 --> 00:35:09,640
+through four eyes I mean invincible yes
+
+905
+00:35:09,640 --> 00:35:11,319
+we we are of course only used to seeing
+
+906
+00:35:11,319 --> 00:35:13,059
+the world for two eyes but in principle
+
+907
+00:35:13,059 --> 00:35:14,170
+you can imagine how I see the world
+
+908
+00:35:14,170 --> 00:35:17,740
+soulful eyes a single conscious view is
+
+909
+00:35:17,740 --> 00:35:19,960
+singer mind maybe this would be so the
+
+910
+00:35:19,960 --> 00:35:21,730
+augmented reality may solve the problem
+
+911
+00:35:21,730 --> 00:35:23,589
+Thomas Nagel is what it's like to be a
+
+912
+00:35:23,589 --> 00:35:26,020
+bat yeah we can just actually put the
+
+913
+00:35:26,020 --> 00:35:28,240
+goggles on and they give the Aquila
+
+914
+00:35:28,240 --> 00:35:31,090
+sonar and you're now not a bad you
+
+915
+00:35:31,090 --> 00:35:33,340
+that couldn't you know your badge human
+
+916
+00:35:33,340 --> 00:35:34,960
+which is different from the pure path
+
+917
+00:35:34,960 --> 00:35:36,940
+that's true right so in that sense I
+
+918
+00:35:36,940 --> 00:35:38,680
+will never know really what a what
+
+919
+00:35:38,680 --> 00:35:41,290
+Justin bath is by itself because my
+
+920
+00:35:41,290 --> 00:35:43,180
+brain is different and so my brain
+
+921
+00:35:43,180 --> 00:35:45,670
+cannot be you know the brain of a bat
+
+922
+00:35:45,670 --> 00:35:47,950
+the most the most of that would happen
+
+923
+00:35:47,950 --> 00:35:49,690
+you'd just be a bat wondering what it's
+
+924
+00:35:49,690 --> 00:35:53,380
+like to be a human or something like
+
+925
+00:35:53,380 --> 00:35:56,170
+that I had a lot of experience with
+
+926
+00:35:56,170 --> 00:35:57,460
+virtual reality but I was at a
+
+927
+00:35:57,460 --> 00:36:00,790
+conference recently where the the
+
+928
+00:36:00,790 --> 00:36:03,940
+virtual reality goggles helmet thing was
+
+929
+00:36:03,940 --> 00:36:07,480
+a image from a hundred and ten story
+
+930
+00:36:07,480 --> 00:36:09,850
+building in LA or wherever it was
+
+931
+00:36:09,850 --> 00:36:12,850
+looking down on a plank sticking out of
+
+932
+00:36:12,850 --> 00:36:14,770
+the window and you walk out on the plank
+
+933
+00:36:14,770 --> 00:36:16,540
+so just standing there watching the guy
+
+934
+00:36:16,540 --> 00:36:19,540
+you know they were gonna if you can last
+
+935
+00:36:19,540 --> 00:36:21,220
+the whole two minutes or whatever it was
+
+936
+00:36:21,220 --> 00:36:23,080
+and you can walk actually walk all the
+
+937
+00:36:23,080 --> 00:36:24,610
+way out to the end you get some little
+
+938
+00:36:24,610 --> 00:36:26,200
+present whatever they were giving away
+
+939
+00:36:26,200 --> 00:36:29,140
+and and it to me it looked ridiculous of
+
+940
+00:36:29,140 --> 00:36:30,760
+course I could do this anybody could do
+
+941
+00:36:30,760 --> 00:36:33,010
+it because you know that the plank is
+
+942
+00:36:33,010 --> 00:36:34,660
+actually sitting on the floor one inch
+
+943
+00:36:34,660 --> 00:36:37,720
+above the carpeting but the moment I put
+
+944
+00:36:37,720 --> 00:36:40,120
+it on it's like I can't do it I am NOT
+
+945
+00:36:40,120 --> 00:36:41,800
+gonna be able to make it out there even
+
+946
+00:36:41,800 --> 00:36:43,660
+closing my eyes I would just kind of
+
+947
+00:36:43,660 --> 00:36:45,280
+open them a little bit in peak and you
+
+948
+00:36:45,280 --> 00:36:47,320
+know I'm looking 110 stories down it's
+
+949
+00:36:47,320 --> 00:36:50,440
+like I can't do it ourselves it's really
+
+950
+00:36:50,440 --> 00:36:52,360
+interesting it shows how that visual in
+
+951
+00:36:52,360 --> 00:36:54,000
+our case because we are visual creatures
+
+952
+00:36:54,000 --> 00:36:57,070
+visual input can override our prefrontal
+
+953
+00:36:57,070 --> 00:36:59,620
+cortex knowledge as you said you know
+
+954
+00:36:59,620 --> 00:37:01,150
+perfectly well there's no danger there
+
+955
+00:37:01,150 --> 00:37:03,730
+but the visual input sometimes it's even
+
+956
+00:37:03,730 --> 00:37:05,170
+more powerful when it's combined did
+
+957
+00:37:05,170 --> 00:37:08,200
+they have like sounds of wind no there
+
+958
+00:37:08,200 --> 00:37:09,970
+was no sound it was just just a visual
+
+959
+00:37:09,970 --> 00:37:12,220
+yeah the visual input by itself is so
+
+960
+00:37:12,220 --> 00:37:14,380
+powerful it can override your knowledge
+
+961
+00:37:14,380 --> 00:37:16,480
+it's like visual illusions idea I mean
+
+962
+00:37:16,480 --> 00:37:17,620
+you know this again there are these
+
+963
+00:37:17,620 --> 00:37:19,480
+powerful visual illusions you perfectly
+
+964
+00:37:19,480 --> 00:37:21,430
+well know you're being fooled but you
+
+965
+00:37:21,430 --> 00:37:24,850
+cannot not see the illusion my favorite
+
+966
+00:37:24,850 --> 00:37:26,530
+is Jerry Jerry Jerry Andrus is
+
+967
+00:37:26,530 --> 00:37:29,140
+impossible create illusion where yeah
+
+968
+00:37:29,140 --> 00:37:32,980
+yeah did the actual create built yes you
+
+969
+00:37:32,980 --> 00:37:34,960
+perfectly well know that it you know it
+
+970
+00:37:34,960 --> 00:37:36,850
+can't look like that but your brains
+
+971
+00:37:36,850 --> 00:37:39,760
+fools you because that knowledge isn't
+
+972
+00:37:39,760 --> 00:37:42,310
+sufficient to break the the individual
+
+973
+00:37:42,310 --> 00:37:43,410
+percept yeah
+
+974
+00:37:43,410 --> 00:37:46,410
+so what so the the musk mind-link or
+
+975
+00:37:46,410 --> 00:37:48,390
+whatever that's this thing is gonna do I
+
+976
+00:37:48,390 --> 00:37:49,920
+haven't really followed it that closely
+
+977
+00:37:49,920 --> 00:37:52,049
+uh but the moment they say you know
+
+978
+00:37:52,049 --> 00:37:53,339
+we're just gonna open up your brain and
+
+979
+00:37:53,339 --> 00:37:54,720
+stick this thing in there it's like wait
+
+980
+00:37:54,720 --> 00:37:58,079
+time out that's fairly risky surgery to
+
+981
+00:37:58,079 --> 00:38:00,359
+do that right just you know take open up
+
+982
+00:38:00,359 --> 00:38:02,009
+the skullcap and put something in there
+
+983
+00:38:02,009 --> 00:38:03,990
+and then put it back on that's not a
+
+984
+00:38:03,990 --> 00:38:06,299
+that's not a trivial thing to do correct
+
+985
+00:38:06,299 --> 00:38:08,029
+and so right now and for the foreseeable
+
+986
+00:38:08,029 --> 00:38:11,220
+next decade or two or three that risk
+
+987
+00:38:11,220 --> 00:38:13,799
+profile is only worth it if you have you
+
+988
+00:38:13,799 --> 00:38:15,809
+know if you're paralyzed or you know
+
+989
+00:38:15,809 --> 00:38:18,119
+Hemi player Parkinson's disease or no
+
+990
+00:38:18,119 --> 00:38:20,009
+toxin disease or you know if they're
+
+991
+00:38:20,009 --> 00:38:21,720
+significant if you're significantly
+
+992
+00:38:21,720 --> 00:38:24,750
+impaired all this augmentation right now
+
+993
+00:38:24,750 --> 00:38:26,819
+it's just simply too risky and no search
+
+994
+00:38:26,819 --> 00:38:28,859
+and in the at least in the West would
+
+995
+00:38:28,859 --> 00:38:30,450
+would do that because it's simply too
+
+996
+00:38:30,450 --> 00:38:32,130
+risky there's always a chance of
+
+997
+00:38:32,130 --> 00:38:33,839
+bleeding there's obviously a chance of
+
+998
+00:38:33,839 --> 00:38:37,369
+of infection etc and so you only do that
+
+999
+00:38:37,369 --> 00:38:40,140
+you know if you if they're strong
+
+1000
+00:38:40,140 --> 00:38:43,680
+reasons to justify those risks yeah so I
+
+1001
+00:38:43,680 --> 00:38:46,500
+mean if you had contact lenses that had
+
+1002
+00:38:46,500 --> 00:38:49,380
+access to the internet or glasses or
+
+1003
+00:38:49,380 --> 00:38:50,700
+something like that that seems fairly
+
+1004
+00:38:50,700 --> 00:38:54,059
+easy to do a cochlear implant you know
+
+1005
+00:38:54,059 --> 00:38:56,339
+that seems far far less invasive than
+
+1006
+00:38:56,339 --> 00:39:00,299
+then what musk is proposing yes but you
+
+1007
+00:39:00,299 --> 00:39:02,400
+know they people have done this now
+
+1008
+00:39:02,400 --> 00:39:04,890
+brain machine interfaces in fact that's
+
+1009
+00:39:04,890 --> 00:39:06,710
+also what knurling wants to do for
+
+1010
+00:39:06,710 --> 00:39:09,119
+quadriplegic so these are people you
+
+1011
+00:39:09,119 --> 00:39:11,009
+know wherever high up lesion in their
+
+1012
+00:39:11,009 --> 00:39:13,259
+spinal cord who are you know can move
+
+1013
+00:39:13,259 --> 00:39:16,009
+any of the limbs and so in that case
+
+1014
+00:39:16,009 --> 00:39:18,750
+it's worth it you know in order for you
+
+1015
+00:39:18,750 --> 00:39:20,549
+to control a wheelchair or to control
+
+1016
+00:39:20,549 --> 00:39:23,819
+your you and your phone right so that's
+
+1017
+00:39:23,819 --> 00:39:27,029
+that's such a great example of arthur c
+
+1018
+00:39:27,029 --> 00:39:28,380
+clarke third law you know any
+
+1019
+00:39:28,380 --> 00:39:30,950
+sufficiently advanced technology for
+
+1020
+00:39:30,950 --> 00:39:34,259
+magic so all Geo's you see is this guy
+
+1021
+00:39:34,259 --> 00:39:36,240
+is sitting there any and then things
+
+1022
+00:39:36,240 --> 00:39:38,130
+start moving as he's thinking about him
+
+1023
+00:39:38,130 --> 00:39:40,319
+well that looks like telekinesis unless
+
+1024
+00:39:40,319 --> 00:39:42,420
+you know the the brain ship that's in
+
+1025
+00:39:42,420 --> 00:39:44,329
+there how far is that come along since
+
+1026
+00:39:44,329 --> 00:39:47,009
+it's still so you know if you look at
+
+1027
+00:39:47,009 --> 00:39:49,259
+there are a few cases of these patients
+
+1028
+00:39:49,259 --> 00:39:52,859
+online but then you you know it takes a
+
+1029
+00:39:52,859 --> 00:39:55,470
+team of three four five six engineers
+
+1030
+00:39:55,470 --> 00:39:57,240
+and three PhD students
+
+1031
+00:39:57,240 --> 00:39:59,430
+a lot of support and you have to go in
+
+1032
+00:39:59,430 --> 00:40:01,980
+the clinic and you know it takes you
+
+1033
+00:40:01,980 --> 00:40:03,990
+sort of five minutes to take a single
+
+1034
+00:40:03,990 --> 00:40:06,480
+sip from a straw so it's still very much
+
+1035
+00:40:06,480 --> 00:40:08,369
+in its infancy but it's like any other
+
+1036
+00:40:08,369 --> 00:40:10,770
+medical technology right early on all of
+
+1037
+00:40:10,770 --> 00:40:12,350
+these things like contact lenses are
+
+1038
+00:40:12,350 --> 00:40:14,400
+incredible primitive and then as
+
+1039
+00:40:14,400 --> 00:40:16,230
+technology gets relentless better you
+
+1040
+00:40:16,230 --> 00:40:17,640
+know these things will be easier to use
+
+1041
+00:40:17,640 --> 00:40:21,360
+but as you pointed out any time you go
+
+1042
+00:40:21,360 --> 00:40:23,190
+in vase if you go inside the body the
+
+1043
+00:40:23,190 --> 00:40:25,710
+risk you know increases dramatically and
+
+1044
+00:40:25,710 --> 00:40:28,740
+so that'll slow down any any technology
+
+1045
+00:40:28,740 --> 00:40:31,470
+so adoption for most of us who are who
+
+1046
+00:40:31,470 --> 00:40:34,619
+have not actually augmentation versus
+
+1047
+00:40:34,619 --> 00:40:37,560
+just replacing a loss function it's
+
+1048
+00:40:37,560 --> 00:40:41,220
+still a ways away yeah yeah now when I
+
+1049
+00:40:41,220 --> 00:40:43,380
+read that I remembered my mom had
+
+1050
+00:40:43,380 --> 00:40:46,619
+meningioma brain tumors and you know at
+
+1051
+00:40:46,619 --> 00:40:48,300
+the moment they did brain surgery I
+
+1052
+00:40:48,300 --> 00:40:51,060
+think she had to take like anti stroke
+
+1053
+00:40:51,060 --> 00:40:53,700
+medications and and other medications
+
+1054
+00:40:53,700 --> 00:40:56,760
+for the rest of her life yes just by
+
+1055
+00:40:56,760 --> 00:40:58,830
+opening up the skull well she did she
+
+1056
+00:40:58,830 --> 00:41:01,260
+had five craniometry these tumors kept
+
+1057
+00:41:01,260 --> 00:41:05,280
+growing back and and then five radiation
+
+1058
+00:41:05,280 --> 00:41:07,560
+treatments when they wouldn't operate on
+
+1059
+00:41:07,560 --> 00:41:09,390
+the brain anymore and she felt Amelie
+
+1060
+00:41:09,390 --> 00:41:11,010
+died of this but she was in a coma she
+
+1061
+00:41:11,010 --> 00:41:13,050
+eventually she fell and hit her head
+
+1062
+00:41:13,050 --> 00:41:14,880
+when she wasn't functioning too well and
+
+1063
+00:41:14,880 --> 00:41:17,580
+was in a coma but so I was you know
+
+1064
+00:41:17,580 --> 00:41:18,750
+reading your whole section here on
+
+1065
+00:41:18,750 --> 00:41:20,940
+people in comas and or vegetative States
+
+1066
+00:41:20,940 --> 00:41:24,180
+and so on and same kind of things so
+
+1067
+00:41:24,180 --> 00:41:25,740
+many people experience I would hold her
+
+1068
+00:41:25,740 --> 00:41:27,540
+hand and say squeeze my hand
+
+1069
+00:41:27,540 --> 00:41:28,950
+you know and then she would do it pretty
+
+1070
+00:41:28,950 --> 00:41:32,430
+much every time so what can we conclude
+
+1071
+00:41:32,430 --> 00:41:34,770
+from I mean the lights are on a little
+
+1072
+00:41:34,770 --> 00:41:36,450
+bit you know the dimmer has come up just
+
+1073
+00:41:36,450 --> 00:41:38,520
+a little bit if she's responding in some
+
+1074
+00:41:38,520 --> 00:41:39,869
+way or is that just more like a
+
+1075
+00:41:39,869 --> 00:41:44,119
+knee-jerk reflex with a verbal command
+
+1076
+00:41:44,119 --> 00:41:46,490
+ultimately it's difficult to know but
+
+1077
+00:41:46,490 --> 00:41:48,750
+general the assumption is if it's you
+
+1078
+00:41:48,750 --> 00:41:50,130
+know if you ask me if you hear me
+
+1079
+00:41:50,130 --> 00:41:52,770
+squeeze my hand or you can also ask you
+
+1080
+00:41:52,770 --> 00:41:54,330
+can ask him more objective knowledge you
+
+1081
+00:41:54,330 --> 00:41:56,040
+know where you born in Kansas City or
+
+1082
+00:41:56,040 --> 00:41:58,170
+not so people do those sorts of X you
+
+1083
+00:41:58,170 --> 00:42:00,000
+know trying to communicate well you know
+
+1084
+00:42:00,000 --> 00:42:02,130
+what the answer is and you see is it
+
+1085
+00:42:02,130 --> 00:42:05,400
+just a reflex every time the the the
+
+1086
+00:42:05,400 --> 00:42:07,260
+brain here's a command it just squeezes
+
+1087
+00:42:07,260 --> 00:42:09,359
+or is it much more sophisticated more
+
+1088
+00:42:09,359 --> 00:42:10,920
+challenging a case
+
+1089
+00:42:10,920 --> 00:42:14,340
+what's called minimal conscious MCs
+
+1090
+00:42:14,340 --> 00:42:16,530
+state or vegetative state where you
+
+1091
+00:42:16,530 --> 00:42:18,450
+don't even get that where no matter what
+
+1092
+00:42:18,450 --> 00:42:20,370
+you ask or you ask them to move their
+
+1093
+00:42:20,370 --> 00:42:23,580
+eyes there's no response and there are a
+
+1094
+00:42:23,580 --> 00:42:25,770
+few thousand of those patients and you
+
+1095
+00:42:25,770 --> 00:42:27,270
+simply don't know whether there's
+
+1096
+00:42:27,270 --> 00:42:29,310
+anybody home and then you need these
+
+1097
+00:42:29,310 --> 00:42:31,620
+this technology that I described in this
+
+1098
+00:42:31,620 --> 00:42:33,210
+book there's so called zap and zip or
+
+1099
+00:42:33,210 --> 00:42:35,520
+you when you stimulate the brain it's a
+
+1100
+00:42:35,520 --> 00:42:37,050
+little bit like you take a bell and you
+
+1101
+00:42:37,050 --> 00:42:38,940
+hit it with a hammer and you're looking
+
+1102
+00:42:38,940 --> 00:42:41,130
+at the reverberation and based on the
+
+1103
+00:42:41,130 --> 00:42:43,110
+complexity of those who are vibration by
+
+1104
+00:42:43,110 --> 00:42:45,270
+that you pick up using eg you can
+
+1105
+00:42:45,270 --> 00:42:47,010
+ascertain whether the brain is still
+
+1106
+00:42:47,010 --> 00:42:49,230
+conscious or whether it's truly in an
+
+1107
+00:42:49,230 --> 00:42:50,820
+unconscious state like in a deep
+
+1108
+00:42:50,820 --> 00:42:52,830
+anesthesia or in a vegetative state when
+
+1109
+00:42:52,830 --> 00:42:54,840
+truly no one is home anymore you still
+
+1110
+00:42:54,840 --> 00:42:56,430
+have the shell of the body like you
+
+1111
+00:42:56,430 --> 00:42:58,800
+remember Terry Schiavo yeah she she
+
+1112
+00:42:58,800 --> 00:43:00,210
+didn't even have a brain wasn't it just
+
+1113
+00:43:00,210 --> 00:43:02,300
+mush or just mostly you know I don't
+
+1114
+00:43:02,300 --> 00:43:04,680
+know she had a brain so she had an
+
+1115
+00:43:04,680 --> 00:43:06,750
+anoxia for 25 minutes before she was
+
+1116
+00:43:06,750 --> 00:43:08,850
+revived and put on a on a on a
+
+1117
+00:43:08,850 --> 00:43:11,160
+ventilator and post-mortem they turned
+
+1118
+00:43:11,160 --> 00:43:13,320
+out the brain at shrank by by a great
+
+1119
+00:43:13,320 --> 00:43:16,080
+deal by more than half 50% but she did
+
+1120
+00:43:16,080 --> 00:43:17,670
+have a brain and of course like many of
+
+1121
+00:43:17,670 --> 00:43:19,980
+these patient in a vegetative state she
+
+1122
+00:43:19,980 --> 00:43:22,140
+has occasionally these responses you
+
+1123
+00:43:22,140 --> 00:43:24,930
+know where she would move she and the
+
+1124
+00:43:24,930 --> 00:43:26,280
+eyes occasionally would move
+
+1125
+00:43:26,280 --> 00:43:28,470
+occasionally she would grimace you know
+
+1126
+00:43:28,470 --> 00:43:30,330
+it's very good see she laughing or
+
+1127
+00:43:30,330 --> 00:43:32,730
+crying or what so she clearly had some
+
+1128
+00:43:32,730 --> 00:43:34,890
+reflexes so so there's a difference
+
+1129
+00:43:34,890 --> 00:43:36,780
+between brain dead when you have no
+
+1130
+00:43:36,780 --> 00:43:39,330
+reflexes whatsoever and vegetative state
+
+1131
+00:43:39,330 --> 00:43:41,700
+patience when you when they okay they
+
+1132
+00:43:41,700 --> 00:43:43,410
+will open their eyes occasionally they
+
+1133
+00:43:43,410 --> 00:43:45,540
+will they will move brain that patient
+
+1134
+00:43:45,540 --> 00:43:50,130
+doesn't have any of that right so what
+
+1135
+00:43:50,130 --> 00:43:52,710
+can you assume that in terms of
+
+1136
+00:43:52,710 --> 00:43:57,240
+personhood or sentence said brain state
+
+1137
+00:43:57,240 --> 00:43:59,190
+as fast we can tell if your brain is
+
+1138
+00:43:59,190 --> 00:44:00,090
+dead you're dead
+
+1139
+00:44:00,090 --> 00:44:02,070
+yeah your body may still be alive
+
+1140
+00:44:02,070 --> 00:44:05,400
+although that's disputed but if your
+
+1141
+00:44:05,400 --> 00:44:06,810
+brain is dead there's no one home
+
+1142
+00:44:06,810 --> 00:44:08,910
+anymore and if you're honest um at the
+
+1143
+00:44:08,910 --> 00:44:10,590
+modern definition of death it used to be
+
+1144
+00:44:10,590 --> 00:44:13,440
+death a sensation of breathing sensation
+
+1145
+00:44:13,440 --> 00:44:18,080
+of of pulse right but now we know that's
+
+1146
+00:44:18,080 --> 00:44:21,360
+unique I can animate you right we people
+
+1147
+00:44:21,360 --> 00:44:23,550
+invented in the 1950s ventilator so now
+
+1148
+00:44:23,550 --> 00:44:24,630
+I can keep your body
+
+1149
+00:44:24,630 --> 00:44:27,570
+live almost indefinitely so now we we
+
+1150
+00:44:27,570 --> 00:44:30,270
+define deaths edom cut your palm mean
+
+1151
+00:44:30,270 --> 00:44:32,010
+our death or a brain deaths if your
+
+1152
+00:44:32,010 --> 00:44:33,780
+death if your brain is irreversible
+
+1153
+00:44:33,780 --> 00:44:35,880
+broken then you're not home anymore
+
+1154
+00:44:35,880 --> 00:44:38,460
+yeah although to your loved one you know
+
+1155
+00:44:38,460 --> 00:44:40,620
+you might still look a lot you know
+
+1156
+00:44:40,620 --> 00:44:42,690
+alive you have skin pala your your body
+
+1157
+00:44:42,690 --> 00:44:44,820
+is warm your you know your your your
+
+1158
+00:44:44,820 --> 00:44:46,590
+chest goes in and out but that's because
+
+1159
+00:44:46,590 --> 00:44:49,170
+you're on a ventilator right well but
+
+1160
+00:44:49,170 --> 00:44:50,580
+but I'm thinking of that that in between
+
+1161
+00:44:50,580 --> 00:44:52,590
+state the coma state they squeeze my
+
+1162
+00:44:52,590 --> 00:44:54,350
+hand and they do or whatever what is
+
+1163
+00:44:54,350 --> 00:44:57,600
+well if they do then they are then they
+
+1164
+00:44:57,600 --> 00:44:59,190
+are fully then they're there how much
+
+1165
+00:44:59,190 --> 00:45:00,690
+are they there you know are they just
+
+1166
+00:45:00,690 --> 00:45:03,180
+mainly there right are they just sort of
+
+1167
+00:45:03,180 --> 00:45:04,920
+in asleep most of the time and
+
+1168
+00:45:04,920 --> 00:45:06,750
+occasionally they wake up for an hour -
+
+1169
+00:45:06,750 --> 00:45:09,870
+very difficult to to tell and with
+
+1170
+00:45:09,870 --> 00:45:11,640
+technologies interesting you know again
+
+1171
+00:45:11,640 --> 00:45:13,170
+50 years ago those people all would have
+
+1172
+00:45:13,170 --> 00:45:15,210
+died very quickly but it was more than
+
+1173
+00:45:15,210 --> 00:45:17,370
+you know 911 emergency it asks you
+
+1174
+00:45:17,370 --> 00:45:20,070
+helicopters modern trauma surgery we can
+
+1175
+00:45:20,070 --> 00:45:21,780
+pull some of them back and most of them
+
+1176
+00:45:21,780 --> 00:45:23,790
+you know we you can we can return to
+
+1177
+00:45:23,790 --> 00:45:25,740
+normal life but then there's this subset
+
+1178
+00:45:25,740 --> 00:45:28,230
+of patients who's so gravely injured
+
+1179
+00:45:28,230 --> 00:45:30,060
+they I'm not there but they're not fully
+
+1180
+00:45:30,060 --> 00:45:32,370
+alive they are sort of you know hovering
+
+1181
+00:45:32,370 --> 00:45:34,410
+in this unfortunate State and of course
+
+1182
+00:45:34,410 --> 00:45:35,940
+with modern technology you can keep
+
+1183
+00:45:35,940 --> 00:45:38,580
+their body alive for a decade was it the
+
+1184
+00:45:38,580 --> 00:45:40,920
+Terri Schiavo case where the the husband
+
+1185
+00:45:40,920 --> 00:45:42,540
+wanted to pull the plug and the parents
+
+1186
+00:45:42,540 --> 00:45:45,060
+didn't or is it right yeah it was
+
+1187
+00:45:45,060 --> 00:45:47,070
+litigated all the way up to the Supreme
+
+1188
+00:45:47,070 --> 00:45:48,840
+Court a member of Congress met on the
+
+1189
+00:45:48,840 --> 00:45:50,490
+weekend and the Supreme Court major
+
+1190
+00:45:50,490 --> 00:45:54,360
+George Bush got involved yeah W Bush but
+
+1191
+00:45:54,360 --> 00:45:57,120
+yeah so but that's not exception as I
+
+1192
+00:45:57,120 --> 00:45:58,650
+said there are thousands of cases like
+
+1193
+00:45:58,650 --> 00:46:02,310
+that mainly interesting homes hospices
+
+1194
+00:46:02,310 --> 00:46:04,980
+etc and it's a great time it's it's a
+
+1195
+00:46:04,980 --> 00:46:06,360
+great tragedy for everyone
+
+1196
+00:46:06,360 --> 00:46:12,570
+yeah yeah right and then general
+
+1197
+00:46:12,570 --> 00:46:13,290
+anesthesia
+
+1198
+00:46:13,290 --> 00:46:15,240
+where does your consciousness or your
+
+1199
+00:46:15,240 --> 00:46:18,150
+sentience go well it seemed pleased with
+
+1200
+00:46:18,150 --> 00:46:20,790
+it goes when in deep sleep he's gone
+
+1201
+00:46:20,790 --> 00:46:24,630
+it's benign it's simply it's not there
+
+1202
+00:46:24,630 --> 00:46:26,670
+anymore because your you know your brain
+
+1203
+00:46:26,670 --> 00:46:28,440
+is now in a different state you're
+
+1204
+00:46:28,440 --> 00:46:32,520
+simply not not conscious that's what
+
+1205
+00:46:32,520 --> 00:46:34,950
+defines states of unconsciousness yeah
+
+1206
+00:46:34,950 --> 00:46:37,490
+yeah and then when you come the magic
+
+1207
+00:46:37,490 --> 00:46:39,470
+you know you wake up you know I can I
+
+1208
+00:46:39,470 --> 00:46:41,390
+can ask you Michael Michael and then you
+
+1209
+00:46:41,390 --> 00:46:43,640
+come food and suddenly you it kind of
+
+1210
+00:46:43,640 --> 00:46:46,610
+the lights come back on the lights come
+
+1211
+00:46:46,610 --> 00:46:48,740
+back on again yeah the one enough at all
+
+1212
+00:46:48,740 --> 00:46:49,760
+yes yeah
+
+1213
+00:46:49,760 --> 00:46:54,380
+all right so walk us through this this
+
+1214
+00:46:54,380 --> 00:46:56,510
+latest theory of you know neural
+
+1215
+00:46:56,510 --> 00:46:57,950
+correlates of consciousness and the
+
+1216
+00:46:57,950 --> 00:47:02,000
+information processing and all that well
+
+1217
+00:47:02,000 --> 00:47:03,980
+I mean it's not it so they are really
+
+1218
+00:47:03,980 --> 00:47:07,150
+two sort of popular scientific theories
+
+1219
+00:47:07,150 --> 00:47:09,170
+scientific theories of consciousness
+
+1220
+00:47:09,170 --> 00:47:11,900
+around one is the the global neuronal
+
+1221
+00:47:11,900 --> 00:47:14,480
+works P theorem that essentially says
+
+1222
+00:47:14,480 --> 00:47:17,150
+sort of it's a funkiest account that
+
+1223
+00:47:17,150 --> 00:47:19,310
+essentially says consciousness is a
+
+1224
+00:47:19,310 --> 00:47:21,200
+performance of certain function
+
+1225
+00:47:21,200 --> 00:47:23,420
+involving short-term memory involving
+
+1226
+00:47:23,420 --> 00:47:25,850
+planning involving self-monitoring and
+
+1227
+00:47:25,850 --> 00:47:28,310
+and those things are implemented in
+
+1228
+00:47:28,310 --> 00:47:30,860
+particular parts of the brain and also
+
+1229
+00:47:30,860 --> 00:47:33,020
+once you replicate those functions on a
+
+1230
+00:47:33,020 --> 00:47:35,810
+machine you know including monitoring
+
+1231
+00:47:35,810 --> 00:47:38,390
+self having planning having ability to
+
+1232
+00:47:38,390 --> 00:47:40,850
+speak etc then you will get a conscious
+
+1233
+00:47:40,850 --> 00:47:43,790
+a conscious machine the other popular
+
+1234
+00:47:43,790 --> 00:47:45,320
+theory is called integrated information
+
+1235
+00:47:45,320 --> 00:47:48,350
+theory is by this psychiatrist and your
+
+1236
+00:47:48,350 --> 00:47:51,770
+scientist Giulio Tononi and I'm a big
+
+1237
+00:47:51,770 --> 00:47:53,180
+fan I've worked with them for many years
+
+1238
+00:47:53,180 --> 00:47:55,609
+that says no consciousness is more
+
+1239
+00:47:55,609 --> 00:47:58,280
+fundamental consciousness it's different
+
+1240
+00:47:58,280 --> 00:48:00,230
+from its material underpinning it's a
+
+1241
+00:48:00,230 --> 00:48:02,600
+distinct difference thing in fact it's
+
+1242
+00:48:02,600 --> 00:48:03,950
+the only thing that I have directly
+
+1243
+00:48:03,950 --> 00:48:07,910
+acquaintance with and and really has to
+
+1244
+00:48:07,910 --> 00:48:10,970
+do altom Utley was with was a complexity
+
+1245
+00:48:10,970 --> 00:48:13,700
+of any physical system ultimately it has
+
+1246
+00:48:13,700 --> 00:48:17,480
+to do with with with the ability of any
+
+1247
+00:48:17,480 --> 00:48:20,930
+physical system to to causally influence
+
+1248
+00:48:20,930 --> 00:48:23,600
+itself ultimately it's about intrinsic
+
+1249
+00:48:23,600 --> 00:48:26,180
+causal powers it's it's something else
+
+1250
+00:48:26,180 --> 00:48:29,240
+total said 2003 not years ago you exist
+
+1251
+00:48:29,240 --> 00:48:31,400
+you're conscious to them to the extent
+
+1252
+00:48:31,400 --> 00:48:33,950
+that you have that your brain the thing
+
+1253
+00:48:33,950 --> 00:48:35,780
+that is conscious has causal power upon
+
+1254
+00:48:35,780 --> 00:48:38,060
+itself that means it can be influenced
+
+1255
+00:48:38,060 --> 00:48:39,740
+by its previous state and it can
+
+1256
+00:48:39,740 --> 00:48:41,810
+influence it can determine its future
+
+1257
+00:48:41,810 --> 00:48:43,820
+state or self-referential
+
+1258
+00:48:43,820 --> 00:48:48,530
+in some events a causal power ultimately
+
+1259
+00:48:48,530 --> 00:48:50,420
+how do I know anything exists it really
+
+1260
+00:48:50,420 --> 00:48:51,260
+goes back to
+
+1261
+00:48:51,260 --> 00:48:52,660
+two fundamental ontological
+
+1262
+00:48:52,660 --> 00:48:54,800
+consideration how do I know anything
+
+1263
+00:48:54,800 --> 00:48:58,130
+exists I only know things exist by the
+
+1264
+00:48:58,130 --> 00:49:00,710
+influence they have on me so gravity I
+
+1265
+00:49:00,710 --> 00:49:02,330
+know it exists because there's tides
+
+1266
+00:49:02,330 --> 00:49:05,330
+there's a famous Apple you know of Isaac
+
+1267
+00:49:05,330 --> 00:49:07,460
+Newton that's how I that's how we know
+
+1268
+00:49:07,460 --> 00:49:11,780
+ultimately gravity exists now this
+
+1269
+00:49:11,780 --> 00:49:13,760
+theory applies causation to itself you
+
+1270
+00:49:13,760 --> 00:49:16,369
+exist to the X you exist as a thing as a
+
+1271
+00:49:16,369 --> 00:49:18,770
+conscious thing to the extent that you
+
+1272
+00:49:18,770 --> 00:49:20,869
+that you have causal power upon your own
+
+1273
+00:49:20,869 --> 00:49:23,090
+system and the more causal power you
+
+1274
+00:49:23,090 --> 00:49:25,520
+have the more complex the system is the
+
+1275
+00:49:25,520 --> 00:49:27,350
+more you exist the more you're conscious
+
+1276
+00:49:27,350 --> 00:49:29,240
+and and and there are certain
+
+1277
+00:49:29,240 --> 00:49:31,280
+consequences that you can test in
+
+1278
+00:49:31,280 --> 00:49:35,119
+different dreams yeah and then it uses
+
+1279
+00:49:35,119 --> 00:49:36,859
+something like that in his book freedom
+
+1280
+00:49:36,859 --> 00:49:39,770
+evolves where he argues for something
+
+1281
+00:49:39,770 --> 00:49:42,560
+like free will or volition as a function
+
+1282
+00:49:42,560 --> 00:49:45,500
+of the complexity of the organism to do
+
+1283
+00:49:45,500 --> 00:49:47,600
+what you're describing so the more of
+
+1284
+00:49:47,600 --> 00:49:50,300
+that you have the freer you are or you
+
+1285
+00:49:50,300 --> 00:49:51,890
+didn't say that he said the the more
+
+1286
+00:49:51,890 --> 00:49:54,260
+degrees of freedom you have to make
+
+1287
+00:49:54,260 --> 00:49:56,090
+choices within your environment to move
+
+1288
+00:49:56,090 --> 00:49:58,940
+around and affect things and in the case
+
+1289
+00:49:58,940 --> 00:50:01,160
+of humans we can self reflect on that
+
+1290
+00:50:01,160 --> 00:50:02,810
+and know that these are the things that
+
+1291
+00:50:02,810 --> 00:50:04,520
+cause me to do certain things so I'm
+
+1292
+00:50:04,520 --> 00:50:07,700
+gonna change my behavior to redirect
+
+1293
+00:50:07,700 --> 00:50:09,890
+that causal vector to do something else
+
+1294
+00:50:09,890 --> 00:50:11,510
+that I know it will have that effect and
+
+1295
+00:50:11,510 --> 00:50:13,520
+so on and so on in a self referential
+
+1296
+00:50:13,520 --> 00:50:16,280
+way it's correct but of course Dan
+
+1297
+00:50:16,280 --> 00:50:16,700
+Dennett
+
+1298
+00:50:16,700 --> 00:50:18,560
+also fundamentally believes that there
+
+1299
+00:50:18,560 --> 00:50:20,930
+isn't anything like consciousness itself
+
+1300
+00:50:20,930 --> 00:50:23,150
+that's really a big illusion in in his
+
+1301
+00:50:23,150 --> 00:50:24,859
+eyes we're really confused about it
+
+1302
+00:50:24,859 --> 00:50:27,140
+ultimately consciousness is just a set
+
+1303
+00:50:27,140 --> 00:50:29,920
+of behavioral dispositions ultimately
+
+1304
+00:50:29,920 --> 00:50:32,359
+consciousness is a function I carry out
+
+1305
+00:50:32,359 --> 00:50:34,520
+a whole set of functions I carry out and
+
+1306
+00:50:34,520 --> 00:50:36,320
+once again once you implement those
+
+1307
+00:50:36,320 --> 00:50:37,940
+function in a different system like a
+
+1308
+00:50:37,940 --> 00:50:40,280
+computer that system will be conscious
+
+1309
+00:50:40,280 --> 00:50:43,580
+so in that sense I this runs radical
+
+1310
+00:50:43,580 --> 00:50:46,010
+contrary to his notion or the general
+
+1311
+00:50:46,010 --> 00:50:49,250
+notion that's that such a myth in in
+
+1312
+00:50:49,250 --> 00:50:51,920
+anglo-american University departments
+
+1313
+00:50:51,920 --> 00:50:54,710
+and in big tech that ultimately machines
+
+1314
+00:50:54,710 --> 00:50:57,020
+will be conscious because hey once he
+
+1315
+00:50:57,020 --> 00:50:58,640
+can do everything we can do then of
+
+1316
+00:50:58,640 --> 00:51:00,260
+course they're gonna be conscious and I
+
+1317
+00:51:00,260 --> 00:51:03,830
+think this couldn't be more wrong well
+
+1318
+00:51:03,830 --> 00:51:04,930
+then Howard yes
+
+1319
+00:51:04,930 --> 00:51:06,250
+how would they how would you ever know
+
+1320
+00:51:06,250 --> 00:51:09,339
+the machine was conscious well okay so
+
+1321
+00:51:09,339 --> 00:51:13,300
+so okay so let's take this apart it is
+
+1322
+00:51:13,300 --> 00:51:16,630
+true if you if you think about
+
+1323
+00:51:16,630 --> 00:51:19,030
+intelligence intelligence ultimately
+
+1324
+00:51:19,030 --> 00:51:21,040
+it's about behavior it's about function
+
+1325
+00:51:21,040 --> 00:51:23,559
+and there's no question at least in
+
+1326
+00:51:23,559 --> 00:51:26,230
+principle machines can do anything we
+
+1327
+00:51:26,230 --> 00:51:28,270
+can doing including being creative and
+
+1328
+00:51:28,270 --> 00:51:30,190
+speaking and talking and all those other
+
+1329
+00:51:30,190 --> 00:51:31,720
+things where selves we are gonna be able
+
+1330
+00:51:31,720 --> 00:51:34,329
+to write novels pretty soon at some
+
+1331
+00:51:34,329 --> 00:51:36,430
+point yeah you can go to open may I and
+
+1332
+00:51:36,430 --> 00:51:38,859
+you can use that GPT algorithm and it
+
+1333
+00:51:38,859 --> 00:51:41,520
+generates pretty cool you know text pose
+
+1334
+00:51:41,520 --> 00:51:44,200
+but that's there but but those are all
+
+1335
+00:51:44,200 --> 00:51:46,359
+about functions yeah so there so
+
+1336
+00:51:46,359 --> 00:51:47,920
+intelligence ultimately it's about
+
+1337
+00:51:47,920 --> 00:51:50,829
+behaviors about function consciousness
+
+1338
+00:51:50,829 --> 00:51:52,990
+is not about function it's not a state
+
+1339
+00:51:52,990 --> 00:51:54,940
+it doesn't have to it doesn't relate to
+
+1340
+00:51:54,940 --> 00:51:57,309
+function it's it's ultimately being it's
+
+1341
+00:51:57,309 --> 00:52:00,430
+ultimately a state of being and yes in
+
+1342
+00:52:00,430 --> 00:52:02,410
+evolved creatures function and
+
+1343
+00:52:02,410 --> 00:52:04,599
+intelligence and continents usually
+
+1344
+00:52:04,599 --> 00:52:05,980
+evolve together but you can certainly
+
+1345
+00:52:05,980 --> 00:52:07,990
+artificially separate them and so you
+
+1346
+00:52:07,990 --> 00:52:10,599
+can build a machine like deep mind or
+
+1347
+00:52:10,599 --> 00:52:12,970
+you know Alexa you know 20 point
+
+1348
+00:52:12,970 --> 00:52:14,230
+oh and fifty years from now that's
+
+1349
+00:52:14,230 --> 00:52:16,359
+incredible smart smarter than you and I
+
+1350
+00:52:16,359 --> 00:52:18,849
+but it won't feel like anything to be
+
+1351
+00:52:18,849 --> 00:52:20,530
+this machine which is very different
+
+1352
+00:52:20,530 --> 00:52:21,940
+from consciousness here which is
+
+1353
+00:52:21,940 --> 00:52:24,880
+ultimately about being yeah my favorite
+
+1354
+00:52:24,880 --> 00:52:26,290
+example of this is meeting David
+
+1355
+00:52:26,290 --> 00:52:28,720
+Ferrucci the designer of Watson the
+
+1356
+00:52:28,720 --> 00:52:31,390
+computer program that won jeopardy yes
+
+1357
+00:52:31,390 --> 00:52:33,430
+so I asked him miss Watson know that he
+
+1358
+00:52:33,430 --> 00:52:34,990
+won jeopardy I mean was he just totally
+
+1359
+00:52:34,990 --> 00:52:37,000
+excited that he beat Ken Jennings and
+
+1360
+00:52:37,000 --> 00:52:39,309
+and Brad Rutter and and and he's the
+
+1361
+00:52:39,309 --> 00:52:40,750
+world champ no of course he doesn't even
+
+1362
+00:52:40,750 --> 00:52:42,280
+know that he's playing jeopardy doesn't
+
+1363
+00:52:42,280 --> 00:52:44,920
+even know what jeopardy is is it's just
+
+1364
+00:52:44,920 --> 00:52:46,569
+an algorithm grinding through Wikipedia
+
+1365
+00:52:46,569 --> 00:52:48,609
+pages to find the you know best
+
+1366
+00:52:48,609 --> 00:52:50,890
+inference to the likeliest answer and so
+
+1367
+00:52:50,890 --> 00:52:53,380
+forth yeah but most people Michael don't
+
+1368
+00:52:53,380 --> 00:52:55,089
+have that into it most people say well I
+
+1369
+00:52:55,089 --> 00:52:57,130
+mean dantana would suddenly say well not
+
+1370
+00:52:57,130 --> 00:52:58,930
+what's maybe but if you make Watson you
+
+1371
+00:52:58,930 --> 00:53:01,180
+know sophisticated enough it does all
+
+1372
+00:53:01,180 --> 00:53:02,740
+these computation yeah of course it's
+
+1373
+00:53:02,740 --> 00:53:04,000
+conscious because what else has
+
+1374
+00:53:04,000 --> 00:53:05,530
+consciousness and carrying out a bunch
+
+1375
+00:53:05,530 --> 00:53:08,049
+of functions so that's what what I mean
+
+1376
+00:53:08,049 --> 00:53:09,880
+by but by my subtitle of my book
+
+1377
+00:53:09,880 --> 00:53:12,190
+consciousness can't be computed it's not
+
+1378
+00:53:12,190 --> 00:53:15,250
+just a simple computation so even if you
+
+1379
+00:53:15,250 --> 00:53:17,319
+made a supercomputer simulation of
+
+1380
+00:53:17,319 --> 00:53:18,700
+assumed being including
+
+1381
+00:53:18,700 --> 00:53:20,920
+of its nuance that's just a computer
+
+1382
+00:53:20,920 --> 00:53:23,770
+program that doesn't mean it's conscious
+
+1383
+00:53:23,770 --> 00:53:26,200
+just like a weather simulation doesn't
+
+1384
+00:53:26,200 --> 00:53:27,940
+make it wet right if you simulate a
+
+1385
+00:53:27,940 --> 00:53:30,310
+rainstorm it's not wet inside the deer
+
+1386
+00:53:30,310 --> 00:53:31,660
+hunt yeah yeah of course all the
+
+1387
+00:53:31,660 --> 00:53:35,109
+different things but we are machines
+
+1388
+00:53:35,109 --> 00:53:37,300
+I mean we're made of molecules atoms and
+
+1389
+00:53:37,300 --> 00:53:39,280
+molecules that's a machine that's
+
+1390
+00:53:39,280 --> 00:53:41,050
+correct so in principle you're entirely
+
+1391
+00:53:41,050 --> 00:53:43,060
+correct so my brain as I say it's a
+
+1392
+00:53:43,060 --> 00:53:44,560
+piece of furniture like any other
+
+1393
+00:53:44,560 --> 00:53:47,170
+furniture okay it is - it is by far the
+
+1394
+00:53:47,170 --> 00:53:49,300
+most complex piece of active matter in
+
+1395
+00:53:49,300 --> 00:53:50,050
+the known universe
+
+1396
+00:53:50,050 --> 00:53:53,650
+and so ultimately that if I want to get
+
+1397
+00:53:53,650 --> 00:53:55,450
+a conscious if I want to build a
+
+1398
+00:53:55,450 --> 00:53:58,000
+conscious machine I have to build it in
+
+1399
+00:53:58,000 --> 00:54:01,119
+the image of man so you do what's called
+
+1400
+00:54:01,119 --> 00:54:03,070
+neuromorphic engineering you build an
+
+1401
+00:54:03,070 --> 00:54:04,780
+IBM has a project like that you're
+
+1402
+00:54:04,780 --> 00:54:07,390
+actually trying to build neural hardware
+
+1403
+00:54:07,390 --> 00:54:09,940
+neurons that have this massive overlap
+
+1404
+00:54:09,940 --> 00:54:12,010
+in the input in the output that don't
+
+1405
+00:54:12,010 --> 00:54:13,359
+talk to us - three or four transistors
+
+1406
+00:54:13,359 --> 00:54:16,660
+but talk to 10,000 transistors yes so in
+
+1407
+00:54:16,660 --> 00:54:19,300
+principle you can get a machine that has
+
+1408
+00:54:19,300 --> 00:54:21,339
+human level consciousness but not
+
+1409
+00:54:21,339 --> 00:54:23,920
+digital programmable machines right now
+
+1410
+00:54:23,920 --> 00:54:26,260
+because their architecture at the level
+
+1411
+00:54:26,260 --> 00:54:28,480
+of the metal of the actual wires at the
+
+1412
+00:54:28,480 --> 00:54:31,240
+actual gates is vastly simpler than our
+
+1413
+00:54:31,240 --> 00:54:34,599
+plane yeah but if we a so we just apply
+
+1414
+00:54:34,599 --> 00:54:36,670
+a Moore's law out front on another
+
+1415
+00:54:36,670 --> 00:54:38,530
+century or two and eventually we get
+
+1416
+00:54:38,530 --> 00:54:42,060
+human level complexity it's still kill
+
+1417
+00:54:42,060 --> 00:54:46,569
+no no so so yes you'll get human level
+
+1418
+00:54:46,569 --> 00:54:48,760
+intelligence I'm not disputing that but
+
+1419
+00:54:48,760 --> 00:54:51,069
+ultimately look conscience ultimately
+
+1420
+00:54:51,069 --> 00:54:52,690
+it's a physical thing it has to do with
+
+1421
+00:54:52,690 --> 00:54:55,300
+the complexity of the of the ultimate
+
+1422
+00:54:55,300 --> 00:54:57,730
+Hardware not with a behavior so you have
+
+1423
+00:54:57,730 --> 00:54:59,319
+to ask if you actually look at the CPU
+
+1424
+00:54:59,319 --> 00:55:01,630
+you look at its wiring you have one
+
+1425
+00:55:01,630 --> 00:55:03,220
+transistor gate that's typically hooked
+
+1426
+00:55:03,220 --> 00:55:04,930
+up to three or four other gate or other
+
+1427
+00:55:04,930 --> 00:55:07,359
+transistors whose very little overlap my
+
+1428
+00:55:07,359 --> 00:55:09,579
+brain is radical different my brain has
+
+1429
+00:55:09,579 --> 00:55:11,260
+one neuron that's connected with 50
+
+1430
+00:55:11,260 --> 00:55:13,510
+thousand other neurons in the
+
+1431
+00:55:13,510 --> 00:55:15,819
+neighboring you're may share 40,000 of
+
+1432
+00:55:15,819 --> 00:55:17,589
+those inputs and outputs enabling one
+
+1433
+00:55:17,589 --> 00:55:20,859
+may share 39,000 it's a it's a radical
+
+1434
+00:55:20,859 --> 00:55:22,780
+different architecture this architecture
+
+1435
+00:55:22,780 --> 00:55:24,819
+all evolved architecture really gives
+
+1436
+00:55:24,819 --> 00:55:27,250
+rise to a high level of internal of
+
+1437
+00:55:27,250 --> 00:55:32,230
+offer of intrinsic causal powers which
+
+1438
+00:55:32,230 --> 00:55:33,730
+the theory is what consciousness is
+
+1439
+00:55:33,730 --> 00:55:35,920
+which is very difficult it different
+
+1440
+00:55:35,920 --> 00:55:38,020
+from simulating it in a digital program
+
+1441
+00:55:38,020 --> 00:55:40,210
+on a vastly simpler machine no matter
+
+1442
+00:55:40,210 --> 00:55:43,750
+how big this machine is so then again if
+
+1443
+00:55:43,750 --> 00:55:45,940
+we're if we're a machine then how is it
+
+1444
+00:55:45,940 --> 00:55:48,460
+that it happened with us but it can't
+
+1445
+00:55:48,460 --> 00:55:51,940
+happen in a computer it cannot it could
+
+1446
+00:55:51,940 --> 00:55:53,829
+happen in a computer if you build it in
+
+1447
+00:55:53,829 --> 00:55:56,619
+the right way I said because the way we
+
+1448
+00:55:56,619 --> 00:55:58,750
+build our machines is not to give rise
+
+1449
+00:55:58,750 --> 00:56:01,480
+to consciousness and it is to do simple
+
+1450
+00:56:01,480 --> 00:56:03,160
+things over and over and over and over
+
+1451
+00:56:03,160 --> 00:56:06,040
+again right if you put in your tax
+
+1452
+00:56:06,040 --> 00:56:07,510
+return or doing all these other things
+
+1453
+00:56:07,510 --> 00:56:09,250
+that's what machines excel at and
+
+1454
+00:56:09,250 --> 00:56:10,480
+they'll get better at it and ultimately
+
+1455
+00:56:10,480 --> 00:56:12,609
+they may be smarter than us but that's
+
+1456
+00:56:12,609 --> 00:56:14,770
+very different from actually having an
+
+1457
+00:56:14,770 --> 00:56:15,579
+experience
+
+1458
+00:56:15,579 --> 00:56:18,700
+look there's a great metaphor or great
+
+1459
+00:56:18,700 --> 00:56:20,290
+analogy so I have a friend she's an
+
+1460
+00:56:20,290 --> 00:56:22,480
+astrophysicist she writes down the
+
+1461
+00:56:22,480 --> 00:56:24,849
+equation of general relativity to
+
+1462
+00:56:24,849 --> 00:56:26,440
+simulate the black hole at the center of
+
+1463
+00:56:26,440 --> 00:56:29,140
+the galaxy okay you know that there's a
+
+1464
+00:56:29,140 --> 00:56:30,550
+there's a black hole at the center of
+
+1465
+00:56:30,550 --> 00:56:32,380
+our galaxy it's roughly a million solar
+
+1466
+00:56:32,380 --> 00:56:34,359
+masses but funny
+
+1467
+00:56:34,359 --> 00:56:36,700
+she is not concerned that she's gonna be
+
+1468
+00:56:36,700 --> 00:56:38,980
+sucked into the black hole when she
+
+1469
+00:56:38,980 --> 00:56:41,349
+writes out the equation now why is that
+
+1470
+00:56:41,349 --> 00:56:42,940
+it's a perfectly good it's a best
+
+1471
+00:56:42,940 --> 00:56:45,460
+simulation invincible off of the power
+
+1472
+00:56:45,460 --> 00:56:48,040
+of gravity yet where's the difference
+
+1473
+00:56:48,040 --> 00:56:50,079
+why doesn't she get sucked into it
+
+1474
+00:56:50,079 --> 00:56:52,060
+because it doesn't have the caller power
+
+1475
+00:56:52,060 --> 00:56:54,579
+of gravity just because you simulate the
+
+1476
+00:56:54,579 --> 00:56:57,069
+equations of general relativity does not
+
+1477
+00:56:57,069 --> 00:56:58,780
+mean that you get the cause of power
+
+1478
+00:56:58,780 --> 00:57:00,940
+that goes hand-in-hand with spending
+
+1479
+00:57:00,940 --> 00:57:03,160
+space-time you know it's that mass does
+
+1480
+00:57:03,160 --> 00:57:05,140
+same thing with constants just because
+
+1481
+00:57:05,140 --> 00:57:07,180
+you simulate some of the behavior so she
+
+1482
+00:57:07,180 --> 00:57:09,460
+was conscious does not mean you get the
+
+1483
+00:57:09,460 --> 00:57:11,079
+same causal power that consciousness
+
+1484
+00:57:11,079 --> 00:57:13,690
+Houston I got you okay so you're a Star
+
+1485
+00:57:13,690 --> 00:57:16,780
+Trek fan data could never be a person in
+
+1486
+00:57:16,780 --> 00:57:18,849
+in the sentient way that we are well
+
+1487
+00:57:18,849 --> 00:57:22,960
+know I don't know what is hot ways in ex
+
+1488
+00:57:22,960 --> 00:57:25,150
+machina right you know it's suggested
+
+1489
+00:57:25,150 --> 00:57:27,010
+there's some sort of neuromorphic brain
+
+1490
+00:57:27,010 --> 00:57:28,300
+you know it's never really explained
+
+1491
+00:57:28,300 --> 00:57:30,250
+yeah yeah if it's if it's if it's
+
+1492
+00:57:30,250 --> 00:57:32,560
+similar to the architecture of our brain
+
+1493
+00:57:32,560 --> 00:57:34,000
+yes it could be conscious could even be
+
+1494
+00:57:34,000 --> 00:57:37,359
+more conscious than I am okay so it has
+
+1495
+00:57:37,359 --> 00:57:39,640
+to do with the purpose of the design
+
+1496
+00:57:39,640 --> 00:57:42,099
+what are you doing able to do not the
+
+1497
+00:57:42,099 --> 00:57:44,390
+purpose it has to do with the actual
+
+1498
+00:57:44,390 --> 00:57:47,030
+and the actual you have to look inside
+
+1499
+00:57:47,030 --> 00:57:48,020
+the box yeah
+
+1500
+00:57:48,020 --> 00:57:49,760
+actually look at the hardware you know
+
+1501
+00:57:49,760 --> 00:57:51,619
+there's stuff that actually does these
+
+1502
+00:57:51,619 --> 00:57:53,810
+transformation and you have to ask how
+
+1503
+00:57:53,810 --> 00:57:55,520
+complex is that using this specific
+
+1504
+00:57:55,520 --> 00:57:57,470
+measure called Phi you can actually
+
+1505
+00:57:57,470 --> 00:58:00,109
+compute for any particular piece of for
+
+1506
+00:58:00,109 --> 00:58:01,430
+any physical system you can actually
+
+1507
+00:58:01,430 --> 00:58:03,650
+compute how much fired hasn't principal
+
+1508
+00:58:03,650 --> 00:58:05,720
+it's it's totally computable it's not
+
+1509
+00:58:05,720 --> 00:58:07,670
+some very very mysterious stuff although
+
+1510
+00:58:07,670 --> 00:58:09,080
+maybe this cause of power it's the only
+
+1511
+00:58:09,080 --> 00:58:11,839
+thing that exists yeah so tell us what
+
+1512
+00:58:11,839 --> 00:58:16,010
+fire is again so so much of thi your ph
+
+1513
+00:58:16,010 --> 00:58:18,290
+are the Greek letter it's it's it's a
+
+1514
+00:58:18,290 --> 00:58:20,750
+measure of officer it's a single number
+
+1515
+00:58:20,750 --> 00:58:24,650
+between zero and and any positive number
+
+1516
+00:58:24,650 --> 00:58:26,720
+if it's zero the system doesn't exist
+
+1517
+00:58:26,720 --> 00:58:28,730
+for job is not conscious has no powerful
+
+1518
+00:58:28,730 --> 00:58:31,250
+power pond itself the larger this number
+
+1519
+00:58:31,250 --> 00:58:34,000
+is the theory said it's really a
+
+1520
+00:58:34,000 --> 00:58:36,260
+quantity of consciousness if you want it
+
+1521
+00:58:36,260 --> 00:58:37,849
+doesn't describe the qualia it doesn't
+
+1522
+00:58:37,849 --> 00:58:40,130
+describe whether it's a smell or you
+
+1523
+00:58:40,130 --> 00:58:42,230
+know the feeling of life itself or the
+
+1524
+00:58:42,230 --> 00:58:44,690
+seeing red and so for that you need
+
+1525
+00:58:44,690 --> 00:58:46,460
+different measures but fine self just
+
+1526
+00:58:46,460 --> 00:58:48,980
+characterizes the the irreducibility of
+
+1527
+00:58:48,980 --> 00:58:50,660
+the system how much the system exists
+
+1528
+00:58:50,660 --> 00:58:52,820
+for itself ultimately it's sort of the
+
+1529
+00:58:52,820 --> 00:58:54,349
+quantity of consciousness of that
+
+1530
+00:58:54,349 --> 00:58:57,950
+particular system yeah so in my my last
+
+1531
+00:58:57,950 --> 00:58:59,480
+book Kevin's on earth I have a chapter
+
+1532
+00:58:59,480 --> 00:59:01,940
+devoted to the the people trying to
+
+1533
+00:59:01,940 --> 00:59:04,460
+upload the mind the cingulate Aryans and
+
+1534
+00:59:04,460 --> 00:59:07,640
+all that so I met this you know this
+
+1535
+00:59:07,640 --> 00:59:11,150
+group that that are trying to not copy
+
+1536
+00:59:11,150 --> 00:59:14,359
+the connectome in a in a scanning kind
+
+1537
+00:59:14,359 --> 00:59:16,670
+of way they they want to actually they
+
+1538
+00:59:16,670 --> 00:59:20,540
+sacrifice like a sheep brain froze it
+
+1539
+00:59:20,540 --> 00:59:24,050
+and then and then sliced it up and then
+
+1540
+00:59:24,050 --> 00:59:25,910
+scanned you know scanning electron
+
+1541
+00:59:25,910 --> 00:59:27,680
+microscope of each of these slices with
+
+1542
+00:59:27,680 --> 00:59:29,570
+the the idea at some point you'd have a
+
+1543
+00:59:29,570 --> 00:59:31,910
+digital file that represents every sit
+
+1544
+00:59:31,910 --> 00:59:34,310
+this is a group in Cambridge right yeah
+
+1545
+00:59:34,310 --> 00:59:36,800
+yeah well yeah there's a couple groups
+
+1546
+00:59:36,800 --> 00:59:38,240
+there there was one that was doing this
+
+1547
+00:59:38,240 --> 00:59:43,580
+at a at a at a lab in Fontana California
+
+1548
+00:59:43,580 --> 00:59:46,369
+21st century medicine that their main
+
+1549
+00:59:46,369 --> 00:59:49,280
+job is is organ preservation organ
+
+1550
+00:59:49,280 --> 00:59:50,990
+transplants and so on but then they also
+
+1551
+00:59:50,990 --> 00:59:52,730
+have this little subdivision I'm not
+
+1552
+00:59:52,730 --> 00:59:54,589
+sure they're still doing this but where
+
+1553
+00:59:54,589 --> 00:59:57,300
+they would freeze freeze a brain
+
+1554
+00:59:57,300 --> 00:59:59,430
+you know sacrifice the animals and then
+
+1555
+00:59:59,430 --> 01:00:03,240
+infuse it with a president preservation
+
+1556
+01:00:03,240 --> 01:00:06,410
+you know antifreeze so that water
+
+1557
+01:00:06,410 --> 01:00:08,910
+freezing doesn't shatter the neurons and
+
+1558
+01:00:08,910 --> 01:00:11,970
+then unfreeze it and slice it up and
+
+1559
+01:00:11,970 --> 01:00:14,070
+then you can see that the synaptic
+
+1560
+01:00:14,070 --> 01:00:17,070
+connections are still viable so this was
+
+1561
+01:00:17,070 --> 01:00:19,050
+for them a proof of concept that you
+
+1562
+01:00:19,050 --> 01:00:21,810
+could be if you could do it properly
+
+1563
+01:00:21,810 --> 01:00:23,850
+with cryonics although they still have a
+
+1564
+01:00:23,850 --> 01:00:26,580
+ways to go on this in principle the
+
+1565
+01:00:26,580 --> 01:00:28,980
+memory self so they're defining the self
+
+1566
+01:00:28,980 --> 01:00:32,460
+as your memories and I have a problem
+
+1567
+01:00:32,460 --> 01:00:33,570
+with that because I think we're more
+
+1568
+01:00:33,570 --> 01:00:35,250
+than our memories we're also our point
+
+1569
+01:00:35,250 --> 01:00:37,320
+of view self through the eyes cell from
+
+1570
+01:00:37,320 --> 01:00:38,640
+one moment to the next
+
+1571
+01:00:38,640 --> 01:00:42,090
+and copying the connectome and then
+
+1572
+01:00:42,090 --> 01:00:44,010
+turning it on somewhere else or putting
+
+1573
+01:00:44,010 --> 01:00:46,170
+it in a digital file into the cloud
+
+1574
+01:00:46,170 --> 01:00:48,720
+that's not going to be you it's not your
+
+1575
+01:00:48,720 --> 01:00:50,310
+point of view looking through your eyes
+
+1576
+01:00:50,310 --> 01:00:53,580
+self it's not your consciousness Michael
+
+1577
+01:00:53,580 --> 01:00:55,110
+that's right it's not your consciousness
+
+1578
+01:00:55,110 --> 01:00:57,180
+so leap yes leaving aside all
+
+1579
+01:00:57,180 --> 01:00:58,650
+technological problems you'll be
+
+1580
+01:00:58,650 --> 01:01:00,210
+actually doing this we have a project
+
+1581
+01:01:00,210 --> 01:01:01,880
+here at the Allens dude funded by the
+
+1582
+01:01:01,880 --> 01:01:05,250
+Aiyappa where for the first time we cut
+
+1583
+01:01:05,250 --> 01:01:07,800
+up at electron microscopic level with
+
+1584
+01:01:07,800 --> 01:01:10,260
+3.5 nanometer resolution a complete
+
+1585
+01:01:10,260 --> 01:01:13,290
+cubic millimeter off a bra of a mouse
+
+1586
+01:01:13,290 --> 01:01:14,640
+brain you know it's a it's a few
+
+1587
+01:01:14,640 --> 01:01:17,330
+petabytes leaving aside all practical
+
+1588
+01:01:17,330 --> 01:01:19,440
+methodological technological
+
+1589
+01:01:19,440 --> 01:01:22,080
+consideration the theory very clearly
+
+1590
+01:01:22,080 --> 01:01:24,510
+says if use run the simulation on a
+
+1591
+01:01:24,510 --> 01:01:27,210
+digital cloud it's all fake
+
+1592
+01:01:27,210 --> 01:01:28,680
+consciousness it won't feel like
+
+1593
+01:01:28,680 --> 01:01:30,690
+anything it's digital rapture for nerds
+
+1594
+01:01:30,690 --> 01:01:34,940
+and your your app into nothingness
+
+1595
+01:01:34,940 --> 01:01:38,460
+yes so it's not you know it's nothing
+
+1596
+01:01:38,460 --> 01:01:40,350
+it's nothing it's not even a thing it's
+
+1597
+01:01:40,350 --> 01:01:42,810
+not even its self conscious correct it
+
+1598
+01:01:42,810 --> 01:01:44,730
+wouldn't be a copy of you thinking I'm
+
+1599
+01:01:44,730 --> 01:01:46,350
+the real Christoph Kok and that other
+
+1600
+01:01:46,350 --> 01:01:48,810
+guy down there is just a copy correct
+
+1601
+01:01:48,810 --> 01:01:50,520
+but you know I'm sure people will do it
+
+1602
+01:01:50,520 --> 01:01:51,870
+because you know we're desperate to
+
+1603
+01:01:51,870 --> 01:01:54,090
+cheat death in any which way and so you
+
+1604
+01:01:54,090 --> 01:01:56,400
+know the finalists build this gigantic
+
+1605
+01:01:56,400 --> 01:01:58,320
+pyramid so of course a modern version of
+
+1606
+01:01:58,320 --> 01:01:59,940
+it you're gonna do the connectome yes
+
+1607
+01:01:59,940 --> 01:02:03,240
+did you ever see that I usually a bigger
+
+1608
+01:02:03,240 --> 01:02:05,130
+part there was a documentary film made
+
+1609
+01:02:05,130 --> 01:02:08,569
+on Ray Kurzweil called the
+
+1610
+01:02:08,569 --> 01:02:12,559
+is it the aterna no not the immortal
+
+1611
+01:02:12,559 --> 01:02:17,240
+list it was the single yeah no not the
+
+1612
+01:02:17,240 --> 01:02:19,309
+singularity is near this was on his
+
+1613
+01:02:19,309 --> 01:02:23,510
+personal life and in any case it sort of
+
+1614
+01:02:23,510 --> 01:02:25,760
+follows him around of course he has a
+
+1615
+01:02:25,760 --> 01:02:27,530
+whole basement in his home devoted to
+
+1616
+01:02:27,530 --> 01:02:30,589
+his father his father died at age 51 you
+
+1617
+01:02:30,589 --> 01:02:32,270
+know and so he's keeping as much
+
+1618
+01:02:32,270 --> 01:02:34,579
+information as he can that will be part
+
+1619
+01:02:34,579 --> 01:02:38,690
+of the reconstructed essentially
+
+1620
+01:02:38,690 --> 01:02:40,730
+resurrection really that's the right
+
+1621
+01:02:40,730 --> 01:02:43,700
+word resurrection of his father but of
+
+1622
+01:02:43,700 --> 01:02:46,010
+course the father isn't there it's just
+
+1623
+01:02:46,010 --> 01:02:48,050
+you're interacting with a copy of that's
+
+1624
+01:02:48,050 --> 01:02:51,160
+closer than a memory photo book say a
+
+1625
+01:02:51,160 --> 01:02:54,859
+photo album people want to reach
+
+1626
+01:02:54,859 --> 01:02:56,990
+immortality any which way and this is
+
+1627
+01:02:56,990 --> 01:02:58,940
+the modern way of doing it's not that
+
+1628
+01:02:58,940 --> 01:03:01,040
+different from the photo you know having
+
+1629
+01:03:01,040 --> 01:03:03,559
+his slaves and and you know all of his
+
+1630
+01:03:03,559 --> 01:03:05,780
+entire household killed and you know
+
+1631
+01:03:05,780 --> 01:03:08,410
+putting his pyramid yeah
+
+1632
+01:03:08,410 --> 01:03:10,819
+karakurt's wasn't in the basement it's a
+
+1633
+01:03:10,819 --> 01:03:12,290
+little bit less glamorous than the
+
+1634
+01:03:12,290 --> 01:03:14,569
+pyramids of the he of the flowers I
+
+1635
+01:03:14,569 --> 01:03:15,799
+can't remember I think you were at that
+
+1636
+01:03:15,799 --> 01:03:18,349
+conference the singularity summit was
+
+1637
+01:03:18,349 --> 01:03:20,690
+meeting in New York City yes this was
+
+1638
+01:03:20,690 --> 01:03:22,760
+right at the time of the Occupy Wall
+
+1639
+01:03:22,760 --> 01:03:25,520
+Street I forget what year that was
+
+1640
+01:03:25,520 --> 01:03:28,910
+and maybe 2009 or so in Ray Kurzweil he
+
+1641
+01:03:28,910 --> 01:03:30,980
+gave his I have a dream speech you know
+
+1642
+01:03:30,980 --> 01:03:33,200
+and I mean kind of reminded me of being
+
+1643
+01:03:33,200 --> 01:03:35,329
+in church again like you know we are the
+
+1644
+01:03:35,329 --> 01:03:37,940
+generation that are were the chosen ones
+
+1645
+01:03:37,940 --> 01:03:39,290
+we're the were the ones that are gonna
+
+1646
+01:03:39,290 --> 01:03:43,040
+make it rapture the rapture for nerds
+
+1647
+01:03:43,040 --> 01:03:46,010
+yeah and then after he spoke somebody
+
+1648
+01:03:46,010 --> 01:03:47,869
+else had a bunch of these little BOTS
+
+1649
+01:03:47,869 --> 01:03:49,609
+that were supposed to be all coordinated
+
+1650
+01:03:49,609 --> 01:03:52,640
+is like a hive mind on the stage and
+
+1651
+01:03:52,640 --> 01:03:54,349
+they were gonna run around and do
+
+1652
+01:03:54,349 --> 01:03:56,869
+something but they couldn't get it to
+
+1653
+01:03:56,869 --> 01:03:58,700
+work because somebody had something on
+
+1654
+01:03:58,700 --> 01:04:00,770
+in the room that was interfering with
+
+1655
+01:04:00,770 --> 01:04:03,859
+the you know with the the system that
+
+1656
+01:04:03,859 --> 01:04:05,630
+they were using and I thought well we're
+
+1657
+01:04:05,630 --> 01:04:08,030
+not even close to having these little
+
+1658
+01:04:08,030 --> 01:04:11,660
+robots working much some of the working
+
+1659
+01:04:11,660 --> 01:04:13,490
+issues with heaven and I did there's
+
+1660
+01:04:13,490 --> 01:04:16,069
+always going to be some issues with bad
+
+1661
+01:04:16,069 --> 01:04:20,000
+words in heaven yeah I mean so I mean
+
+1662
+01:04:20,000 --> 01:04:21,560
+this is just opens up just
+
+1663
+01:04:21,560 --> 01:04:23,690
+the ideas I mean if you live forever I
+
+1664
+01:04:23,690 --> 01:04:26,630
+mean what would that even mean in some
+
+1665
+01:04:26,630 --> 01:04:29,510
+other the assumption everybody makes I
+
+1666
+01:04:29,510 --> 01:04:31,220
+think is that your consciousness
+
+1667
+01:04:31,220 --> 01:04:33,440
+continues even if your physical body
+
+1668
+01:04:33,440 --> 01:04:36,650
+dies either in a soul or a copy of your
+
+1669
+01:04:36,650 --> 01:04:38,720
+connectome in on some other platform
+
+1670
+01:04:38,720 --> 01:04:40,760
+that continues we still picture
+
+1671
+01:04:40,760 --> 01:04:42,680
+ourselves waking up in this other place
+
+1672
+01:04:42,680 --> 01:04:45,740
+after the death of our body so it's it's
+
+1673
+01:04:45,740 --> 01:04:48,110
+sort of a natural born dualism as Paul
+
+1674
+01:04:48,110 --> 01:04:49,460
+bloom calls it you know we just have
+
+1675
+01:04:49,460 --> 01:04:53,300
+this brain wired up to think that you
+
+1676
+01:04:53,300 --> 01:04:54,710
+know there's something other than the
+
+1677
+01:04:54,710 --> 01:04:57,350
+material stuff there is a mind as well
+
+1678
+01:04:57,350 --> 01:04:59,030
+as a brain there's a soul as well as a
+
+1679
+01:04:59,030 --> 01:05:00,830
+body and so on and it's almost
+
+1680
+01:05:00,830 --> 01:05:02,750
+impossible to not imagine that in the
+
+1681
+01:05:02,750 --> 01:05:04,790
+sense that if I say imagine being dead
+
+1682
+01:05:04,790 --> 01:05:07,190
+you can't do it because to imagine
+
+1683
+01:05:07,190 --> 01:05:09,020
+something you have to be alive so in a
+
+1684
+01:05:09,020 --> 01:05:11,300
+way all this has to do with the fact
+
+1685
+01:05:11,300 --> 01:05:13,370
+that we just can't imagine something
+
+1686
+01:05:13,370 --> 01:05:15,440
+just epistemologically I don't know what
+
+1687
+01:05:15,440 --> 01:05:19,100
+it means to not be alive well it's
+
+1688
+01:05:19,100 --> 01:05:20,930
+interesting because people never think
+
+1689
+01:05:20,930 --> 01:05:22,610
+about where they were before they were
+
+1690
+01:05:22,610 --> 01:05:24,770
+born right but you know obsessed about
+
+1691
+01:05:24,770 --> 01:05:26,300
+what happens after this but where were
+
+1692
+01:05:26,300 --> 01:05:27,920
+they before they were born this is the
+
+1693
+01:05:27,920 --> 01:05:29,540
+only boat that were they already in
+
+1694
+01:05:29,540 --> 01:05:31,670
+heaven before and then they just got
+
+1695
+01:05:31,670 --> 01:05:34,100
+downloaded onto this particular planet
+
+1696
+01:05:34,100 --> 01:05:36,410
+that's right oh their life and then they
+
+1697
+01:05:36,410 --> 01:05:38,960
+gonna go up again and of course it's
+
+1698
+01:05:38,960 --> 01:05:40,970
+terrifying right - most of us you know
+
+1699
+01:05:40,970 --> 01:05:42,590
+it is terrifying
+
+1700
+01:05:42,590 --> 01:05:44,420
+you know the idea of seas of not
+
+1701
+01:05:44,420 --> 01:05:46,490
+existing anymore is it you know I was
+
+1702
+01:05:46,490 --> 01:05:48,680
+writing one of my chapters I dealt with
+
+1703
+01:05:48,680 --> 01:05:50,450
+this terror management theory it's
+
+1704
+01:05:50,450 --> 01:05:52,400
+called yeah based on the idea that
+
+1705
+01:05:52,400 --> 01:05:53,840
+humans are the only species that know
+
+1706
+01:05:53,840 --> 01:05:55,040
+we're gonna die and therefore we're
+
+1707
+01:05:55,040 --> 01:05:56,960
+terrified by this and this motivates us
+
+1708
+01:05:56,960 --> 01:05:58,880
+to be creative and build pyramids and
+
+1709
+01:05:58,880 --> 01:06:01,520
+write music and and win Nobel prizes or
+
+1710
+01:06:01,520 --> 01:06:02,000
+whatever
+
+1711
+01:06:02,000 --> 01:06:03,470
+I think there's better explanations for
+
+1712
+01:06:03,470 --> 01:06:04,820
+why people do that that have to do with
+
+1713
+01:06:04,820 --> 01:06:06,680
+sexual selection theory and trying to
+
+1714
+01:06:06,680 --> 01:06:10,370
+impress potential mates but that's a
+
+1715
+01:06:10,370 --> 01:06:12,980
+different discussion but the but you
+
+1716
+01:06:12,980 --> 01:06:14,870
+know again this idea that people are
+
+1717
+01:06:14,870 --> 01:06:17,330
+terrorized by death I don't think so I
+
+1718
+01:06:17,330 --> 01:06:18,740
+think most of the time we're not walking
+
+1719
+01:06:18,740 --> 01:06:20,380
+around thinking oh my god I'm gonna die
+
+1720
+01:06:20,380 --> 01:06:22,940
+maybe if you're 90 or something or you
+
+1721
+01:06:22,940 --> 01:06:25,490
+have a a terminal illness but you know
+
+1722
+01:06:25,490 --> 01:06:27,140
+most of the time I doubt that you think
+
+1723
+01:06:27,140 --> 01:06:29,330
+about it well that's probably because
+
+1724
+01:06:29,330 --> 01:06:31,220
+we're very good suppression techniques
+
+1725
+01:06:31,220 --> 01:06:34,310
+right so it's an interesting question
+
+1726
+01:06:34,310 --> 01:06:35,150
+when we
+
+1727
+01:06:35,150 --> 01:06:37,340
+in evolution did we first have this
+
+1728
+01:06:37,340 --> 01:06:39,590
+inside we were gonna die we were one day
+
+1729
+01:06:39,590 --> 01:06:41,960
+not gonna exist anymore is it is that
+
+1730
+01:06:41,960 --> 01:06:43,820
+neon assaulted me enough L know this
+
+1731
+01:06:43,820 --> 01:06:46,670
+right is that the origin of religion why
+
+1732
+01:06:46,670 --> 01:06:48,320
+did people when they first realized
+
+1733
+01:06:48,320 --> 01:06:50,150
+hominoids that they were gonna die that
+
+1734
+01:06:50,150 --> 01:06:52,370
+one is that one religion I think some
+
+1735
+01:06:52,370 --> 01:06:54,710
+people are truly terrified I know and
+
+1736
+01:06:54,710 --> 01:06:56,780
+not some of my acquaintances who you
+
+1737
+01:06:56,780 --> 01:06:58,760
+know who are now constantly talking
+
+1738
+01:06:58,760 --> 01:07:02,060
+about death obsessively really yeah most
+
+1739
+01:07:02,060 --> 01:07:04,100
+of us I agree I'm not terrified by it if
+
+1740
+01:07:04,100 --> 01:07:05,930
+I think deeply about it it's scary it's
+
+1741
+01:07:05,930 --> 01:07:07,490
+no question it's scary right if you
+
+1742
+01:07:07,490 --> 01:07:09,500
+really think about not being anymore
+
+1743
+01:07:09,500 --> 01:07:11,450
+forever never ever it's certainly scary
+
+1744
+01:07:11,450 --> 01:07:13,220
+but most of the time I don't think about
+
+1745
+01:07:13,220 --> 01:07:16,280
+it yeah I don't believe in this terror
+
+1746
+01:07:16,280 --> 01:07:19,250
+management theory yeah but people in
+
+1747
+01:07:19,250 --> 01:07:20,960
+general particularly this culture where
+
+1748
+01:07:20,960 --> 01:07:22,580
+we've removed death you know we don't
+
+1749
+01:07:22,580 --> 01:07:24,590
+talk about death there's private dese's
+
+1750
+01:07:24,590 --> 01:07:26,900
+takes place in the confine of a hospital
+
+1751
+01:07:26,900 --> 01:07:28,730
+it's not part of our public life anymore
+
+1752
+01:07:28,730 --> 01:07:31,010
+most people are suddenly uncomfortable
+
+1753
+01:07:31,010 --> 01:07:33,140
+talking about it yeah think about it
+
+1754
+01:07:33,140 --> 01:07:34,760
+yeah or be reminded of their own
+
+1755
+01:07:34,760 --> 01:07:36,500
+mortality it's not polite
+
+1756
+01:07:36,500 --> 01:07:40,580
+yeah right yeah no well so I've looked
+
+1757
+01:07:40,580 --> 01:07:42,410
+into that in in my chapter on you know
+
+1758
+01:07:42,410 --> 01:07:44,360
+what what who's the first to realize
+
+1759
+01:07:44,360 --> 01:07:45,980
+this of course we don't know they these
+
+1760
+01:07:45,980 --> 01:07:47,960
+things don't fossilize but there are
+
+1761
+01:07:47,960 --> 01:07:50,420
+those grave sites Neanderthals and early
+
+1762
+01:07:50,420 --> 01:07:53,330
+Homo sapiens with flowers and the in the
+
+1763
+01:07:53,330 --> 01:07:55,490
+bodies are arranged and like a prenatal
+
+1764
+01:07:55,490 --> 01:07:57,410
+condition where they're sort of you know
+
+1765
+01:07:57,410 --> 01:07:59,180
+buried like almost like they're in the
+
+1766
+01:07:59,180 --> 01:08:01,610
+womb again with some flowers and grave
+
+1767
+01:08:01,610 --> 01:08:03,530
+Goods and so on the assumption is that
+
+1768
+01:08:03,530 --> 01:08:05,090
+they're thinking well this guy's going
+
+1769
+01:08:05,090 --> 01:08:07,430
+to continue on in some other state and
+
+1770
+01:08:07,430 --> 01:08:08,690
+we're sending them off with some Goods
+
+1771
+01:08:08,690 --> 01:08:11,600
+no grave Goods that kind of thing of
+
+1772
+01:08:11,600 --> 01:08:13,130
+course we don't know I mean it's it's
+
+1773
+01:08:13,130 --> 01:08:15,890
+like these you know werner herzog made
+
+1774
+01:08:15,890 --> 01:08:20,380
+that beautiful film about cave art the
+
+1775
+01:08:20,380 --> 01:08:23,360
+the dog what is it called they that cave
+
+1776
+01:08:23,360 --> 01:08:26,600
+of these dolphin yeah now what was that
+
+1777
+01:08:26,600 --> 01:08:28,850
+we looked that up I mean it's it's a
+
+1778
+01:08:28,850 --> 01:08:30,740
+phenomenal film but you know you
+
+1779
+01:08:30,740 --> 01:08:32,870
+basically we're looking at these images
+
+1780
+01:08:32,870 --> 01:08:34,940
+that are 30 40 thousand years old and
+
+1781
+01:08:34,940 --> 01:08:36,740
+thinking well if I did that what would I
+
+1782
+01:08:36,740 --> 01:08:39,680
+be thinking you know that's just so
+
+1783
+01:08:39,680 --> 01:08:42,320
+projection that's yeah but you know in
+
+1784
+01:08:42,320 --> 01:08:44,810
+terms of biology we did I mean yes
+
+1785
+01:08:44,810 --> 01:08:46,490
+there's still a evolution going on today
+
+1786
+01:08:46,490 --> 01:08:48,330
+but our basic cognitive operate
+
+1787
+01:08:48,330 --> 01:08:50,220
+both already fully developed 30,000
+
+1788
+01:08:50,220 --> 01:08:53,070
+years ago Cave of Forgotten Dreams yes
+
+1789
+01:08:53,070 --> 01:08:59,640
+yeah that's yeah they said yeah that's
+
+1790
+01:08:59,640 --> 01:09:01,230
+right you can do that accent I can't do
+
+1791
+01:09:01,230 --> 01:09:03,900
+that accent let's talk about altering
+
+1792
+01:09:03,900 --> 01:09:05,670
+your states of mind this is becoming
+
+1793
+01:09:05,670 --> 01:09:07,620
+more acceptable now doing it you know
+
+1794
+01:09:07,620 --> 01:09:10,080
+like micro dosing hallucinogens you did
+
+1795
+01:09:10,080 --> 01:09:11,850
+the you you write about doing the
+
+1796
+01:09:11,850 --> 01:09:13,500
+floatation tank with your daughter in
+
+1797
+01:09:13,500 --> 01:09:15,930
+Singapore I guess you did this yeah I
+
+1798
+01:09:15,930 --> 01:09:18,420
+did this I know back in the 70s when it
+
+1799
+01:09:18,420 --> 01:09:20,640
+was popular then I haven't done it
+
+1800
+01:09:20,640 --> 01:09:23,580
+recently but yeah you strip down you're
+
+1801
+01:09:23,580 --> 01:09:25,080
+in that it's almost like the salt and
+
+1802
+01:09:25,080 --> 01:09:27,690
+Sultan of the Dead Sea and you float and
+
+1803
+01:09:27,690 --> 01:09:30,390
+and and so I think I was in maybe an
+
+1804
+01:09:30,390 --> 01:09:32,160
+hour and a half two hours and after at
+
+1805
+01:09:32,160 --> 01:09:34,080
+some point I remembered not not really
+
+1806
+01:09:34,080 --> 01:09:36,570
+hallucinating but I can almost see like
+
+1807
+01:09:36,570 --> 01:09:39,770
+stuff was my brain was generating
+
+1808
+01:09:39,770 --> 01:09:41,760
+stimulation as if it were coming from
+
+1809
+01:09:41,760 --> 01:09:45,440
+the outside and what did you experience
+
+1810
+01:09:45,440 --> 01:09:47,700
+well I have cause had the opposite
+
+1811
+01:09:47,700 --> 01:09:49,320
+experience I had this what Buddhists
+
+1812
+01:09:49,320 --> 01:09:51,900
+call a pure experience right so the
+
+1813
+01:09:51,900 --> 01:09:53,880
+question is can you expect can you be
+
+1814
+01:09:53,880 --> 01:09:55,440
+conscious without being conscious of
+
+1815
+01:09:55,440 --> 01:09:56,180
+anything
+
+1816
+01:09:56,180 --> 01:09:58,680
+all right so usually we're always
+
+1817
+01:09:58,680 --> 01:10:00,690
+conscious of something I'd be conscious
+
+1818
+01:10:00,690 --> 01:10:02,970
+of an adding headache or the the worry
+
+1819
+01:10:02,970 --> 01:10:04,350
+that you know you have to deal with a
+
+1820
+01:10:04,350 --> 01:10:08,430
+tax return or you know their sound a few
+
+1821
+01:10:08,430 --> 01:10:11,130
+way or pain or whatever so the question
+
+1822
+01:10:11,130 --> 01:10:13,410
+is can you be in the limit conscious or
+
+1823
+01:10:13,410 --> 01:10:15,540
+not asleep but without being conscious
+
+1824
+01:10:15,540 --> 01:10:18,360
+of anything and so my experience was in
+
+1825
+01:10:18,360 --> 01:10:20,400
+the isolation tank yes you strip you
+
+1826
+01:10:20,400 --> 01:10:22,710
+float in there so very quickly you lose
+
+1827
+01:10:22,710 --> 01:10:24,210
+your bodily feeling where the
+
+1828
+01:10:24,210 --> 01:10:26,130
+orientation because you're suspended is
+
+1829
+01:10:26,130 --> 01:10:27,720
+totally dark of course you don't see
+
+1830
+01:10:27,720 --> 01:10:30,150
+it's soundproof you don't hear then
+
+1831
+01:10:30,150 --> 01:10:32,610
+early on you can still hear your you can
+
+1832
+01:10:32,610 --> 01:10:34,740
+actually hear your heartbeat right and
+
+1833
+01:10:34,740 --> 01:10:37,080
+at some point you adapt you adapt to
+
+1834
+01:10:37,080 --> 01:10:39,480
+that in my case and you know I try to
+
+1835
+01:10:39,480 --> 01:10:41,490
+quiet my mind you know of course all the
+
+1836
+01:10:41,490 --> 01:10:43,950
+imagery of the residues of what I was
+
+1837
+01:10:43,950 --> 01:10:46,530
+thinking in my you know that sort of
+
+1838
+01:10:46,530 --> 01:10:49,080
+comes up you try to avoid thinking about
+
+1839
+01:10:49,080 --> 01:10:51,990
+that and at some point at least I felt I
+
+1840
+01:10:51,990 --> 01:10:53,910
+come to this perfect place where I'm
+
+1841
+01:10:53,910 --> 01:10:56,820
+like suspended in nowhere and not
+
+1842
+01:10:56,820 --> 01:10:59,760
+conscious of anything but I I but I'm
+
+1843
+01:10:59,760 --> 01:11:02,260
+still somehow there it's it's a limit
+
+1844
+01:11:02,260 --> 01:11:04,810
+state clearly because what would it mean
+
+1845
+01:11:04,810 --> 01:11:06,580
+to be conscious without being conscious
+
+1846
+01:11:06,580 --> 01:11:09,940
+of anything and it's very it's I found
+
+1847
+01:11:09,940 --> 01:11:11,890
+it very very attacted and of course in
+
+1848
+01:11:11,890 --> 01:11:13,480
+the Tibetan Buddhist tradition it's one
+
+1849
+01:11:13,480 --> 01:11:15,100
+of the things that they feel they want
+
+1850
+01:11:15,100 --> 01:11:17,980
+to attain the in fact aining this in a
+
+1851
+01:11:17,980 --> 01:11:19,720
+permanent state is sort of one form of
+
+1852
+01:11:19,720 --> 01:11:22,060
+off as close you can get to to being
+
+1853
+01:11:22,060 --> 01:11:24,489
+enlightened yeah it takes them 30 years
+
+1854
+01:11:24,489 --> 01:11:26,310
+to get there you did it in an afternoon
+
+1855
+01:11:26,310 --> 01:11:28,870
+maybe that's a quick way to do it
+
+1856
+01:11:28,870 --> 01:11:31,150
+it's obviously a quick and it takes this
+
+1857
+01:11:31,150 --> 01:11:33,730
+artificial aid and and you know I did it
+
+1858
+01:11:33,730 --> 01:11:35,290
+the second time and it didn't work the
+
+1859
+01:11:35,290 --> 01:11:36,880
+second time the second time I was
+
+1860
+01:11:36,880 --> 01:11:38,590
+constantly thinking about being in the
+
+1861
+01:11:38,590 --> 01:11:41,350
+state I was too obsessed with it oh I
+
+1862
+01:11:41,350 --> 01:11:43,660
+have to get into the state it's like
+
+1863
+01:11:43,660 --> 01:11:45,370
+trying to fall asleep by making yourself
+
+1864
+01:11:45,370 --> 01:11:46,690
+fall asleep by thinking about following
+
+1865
+01:11:46,690 --> 01:11:50,170
+this exactly exactly exactly have you
+
+1866
+01:11:50,170 --> 01:11:51,190
+ever have you ever done any
+
+1867
+01:11:51,190 --> 01:11:53,860
+hallucinogens or anything like that yep
+
+1868
+01:11:53,860 --> 01:11:57,340
+psilocybin and it's it's a wonderful
+
+1869
+01:11:57,340 --> 01:11:58,060
+experience
+
+1870
+01:11:58,060 --> 01:11:59,380
+right it's an absolutely wonderful
+
+1871
+01:11:59,380 --> 01:12:03,400
+experience these all these colors and
+
+1872
+01:12:03,400 --> 01:12:05,890
+and they're sort of more real than real
+
+1873
+01:12:05,890 --> 01:12:10,180
+and and you know it's feeling some of
+
+1874
+01:12:10,180 --> 01:12:12,010
+this ego loss so it's a little bit like
+
+1875
+01:12:12,010 --> 01:12:14,260
+that and of course that's DMT right the
+
+1876
+01:12:14,260 --> 01:12:16,090
+claim with DMT is and you know the
+
+1877
+01:12:16,090 --> 01:12:18,160
+spirit molecule dimethyl ethylene that
+
+1878
+01:12:18,160 --> 01:12:20,080
+you can also go into this black hole
+
+1879
+01:12:20,080 --> 01:12:22,120
+state where you're conscious but you
+
+1880
+01:12:22,120 --> 01:12:25,030
+lose consciousness of space of time
+
+1881
+01:12:25,030 --> 01:12:26,950
+you totally lose consciousness of ego
+
+1882
+01:12:26,950 --> 01:12:29,710
+you know this ego dissolution it's very
+
+1883
+01:12:29,710 --> 01:12:32,320
+powerful but only short acting so that
+
+1884
+01:12:32,320 --> 01:12:34,300
+may be another way to obtain this the
+
+1885
+01:12:34,300 --> 01:12:36,040
+state of being conscious without being
+
+1886
+01:12:36,040 --> 01:12:37,900
+conscious of anything and again the
+
+1887
+01:12:37,900 --> 01:12:41,410
+theory says so the brain that's minimal
+
+1888
+01:12:41,410 --> 01:12:43,720
+active will be conscious but without
+
+1889
+01:12:43,720 --> 01:12:45,370
+being conscious of any one specific
+
+1890
+01:12:45,370 --> 01:12:47,830
+content so it's not about function here
+
+1891
+01:12:47,830 --> 01:12:50,260
+I was you know in a in a tank I was
+
+1892
+01:12:50,260 --> 01:12:51,910
+fully conscious yet I was my brain
+
+1893
+01:12:51,910 --> 01:12:53,440
+wasn't computing anything it wasn't
+
+1894
+01:12:53,440 --> 01:12:55,690
+planning it wasn't speaking it wasn't
+
+1895
+01:12:55,690 --> 01:12:58,000
+imagining it was just in a state of
+
+1896
+01:12:58,000 --> 01:13:01,710
+being is that like the global work space
+
+1897
+01:13:01,710 --> 01:13:06,460
+theory hurry no no it's very different
+
+1898
+01:13:06,460 --> 01:13:08,170
+to a global work space so that's the
+
+1899
+01:13:08,170 --> 01:13:09,970
+other competing theory was integrated
+
+1900
+01:13:09,970 --> 01:13:11,710
+that competes was integrated information
+
+1901
+01:13:11,710 --> 01:13:13,840
+theory in the man in the market space of
+
+1902
+01:13:13,840 --> 01:13:15,070
+ideas say
+
+1903
+01:13:15,070 --> 01:13:17,320
+that I'm conscious of a specific thing
+
+1904
+01:13:17,320 --> 01:13:19,869
+like now I'm conscious of the this
+
+1905
+01:13:19,869 --> 01:13:21,760
+question you just asked me so I have to
+
+1906
+01:13:21,760 --> 01:13:24,250
+keep that active and I put that onto
+
+1907
+01:13:24,250 --> 01:13:26,290
+this blackboard this is the metaphor
+
+1908
+01:13:26,290 --> 01:13:28,150
+they use a black box architecture it's
+
+1909
+01:13:28,150 --> 01:13:29,889
+going to be put in by them workspace and
+
+1910
+01:13:29,889 --> 01:13:31,810
+then it's broadcast to the rest of the
+
+1911
+01:13:31,810 --> 01:13:33,610
+brain so now it's all about answering
+
+1912
+01:13:33,610 --> 01:13:36,040
+this question and then it's podcast am I
+
+1913
+01:13:36,040 --> 01:13:38,020
+talking to my speaking module to my
+
+1914
+01:13:38,020 --> 01:13:40,020
+planning module to my working memory
+
+1915
+01:13:40,020 --> 01:13:43,389
+module and in the act of broadcasting
+
+1916
+01:13:43,389 --> 01:13:45,130
+this is what gives rise to consciousness
+
+1917
+01:13:45,130 --> 01:13:48,099
+sort of the act of broadcasting all this
+
+1918
+01:13:48,099 --> 01:13:50,440
+information different kinds of my brain
+
+1919
+01:13:50,440 --> 01:13:53,110
+that's what the theory says ultimately
+
+1920
+01:13:53,110 --> 01:13:55,030
+it's it's about this function of
+
+1921
+01:13:55,030 --> 01:13:56,679
+broadcasting which is very different
+
+1922
+01:13:56,679 --> 01:13:58,960
+from from integrated information theory
+
+1923
+01:13:58,960 --> 01:14:00,909
+although some of its newer prediction
+
+1924
+01:14:00,909 --> 01:14:02,949
+may be similar but what I'm asking is is
+
+1925
+01:14:02,949 --> 01:14:05,590
+is taking a trip like that does that
+
+1926
+01:14:05,590 --> 01:14:07,780
+give us some information that supports
+
+1927
+01:14:07,780 --> 01:14:09,460
+one theory of consciousness versus
+
+1928
+01:14:09,460 --> 01:14:12,520
+another or is it yeah it speaks towards
+
+1929
+01:14:12,520 --> 01:14:14,500
+more I integrated information theory
+
+1930
+01:14:14,500 --> 01:14:16,329
+because global work space you have to
+
+1931
+01:14:16,329 --> 01:14:19,060
+have a Content so per definition if
+
+1932
+01:14:19,060 --> 01:14:20,920
+there isn't any content to broadcast you
+
+1933
+01:14:20,920 --> 01:14:23,829
+wouldn't be conscious yeah would you do
+
+1934
+01:14:23,829 --> 01:14:26,710
+it again why am i you would oh why don't
+
+1935
+01:14:26,710 --> 01:14:28,869
+you do it every day or every week or
+
+1936
+01:14:28,869 --> 01:14:31,329
+whatever yeah I know no it's a very good
+
+1937
+01:14:31,329 --> 01:14:33,159
+question it's a very good question life
+
+1938
+01:14:33,159 --> 01:14:34,960
+is busy and you know you have to if
+
+1939
+01:14:34,960 --> 01:14:37,389
+you're too stressed it doesn't work mmm
+
+1940
+01:14:37,389 --> 01:14:39,489
+it's an excellent question Michael why
+
+1941
+01:14:39,489 --> 01:14:42,040
+do this every day I should actually well
+
+1942
+01:14:42,040 --> 01:14:44,800
+so I mean my listeners is podcasters
+
+1943
+01:14:44,800 --> 01:14:46,780
+gonna get sick of me telling the story
+
+1944
+01:14:46,780 --> 01:14:48,820
+but I you know after being on Joe
+
+1945
+01:14:48,820 --> 01:14:51,280
+Rogan's podcast with Graham Hancock this
+
+1946
+01:14:51,280 --> 01:14:53,110
+is the alternative archaeology guy that
+
+1947
+01:14:53,110 --> 01:14:55,420
+writes about places like gobekli tepe
+
+1948
+01:14:55,420 --> 01:14:57,400
+which is something like a spiritual
+
+1949
+01:14:57,400 --> 01:14:59,349
+center that's about eleven twelve
+
+1950
+01:14:59,349 --> 01:15:01,360
+thousand years old much older than any
+
+1951
+01:15:01,360 --> 01:15:03,940
+other monumental architecture so it's a
+
+1952
+01:15:03,940 --> 01:15:05,949
+bit of an archeological anomaly I have
+
+1953
+01:15:05,949 --> 01:15:09,070
+to admit but he as a separate part of
+
+1954
+01:15:09,070 --> 01:15:11,670
+his his career he does a lot of
+
+1955
+01:15:11,670 --> 01:15:15,130
+ayahuasca and you know DMT this thing
+
+1956
+01:15:15,130 --> 01:15:18,190
+and he believes as do apparently most
+
+1957
+01:15:18,190 --> 01:15:20,349
+people who do this do the ayahuasca a
+
+1958
+01:15:20,349 --> 01:15:21,909
+trip and they've invited me to come try
+
+1959
+01:15:21,909 --> 01:15:23,320
+this I've never done anything like this
+
+1960
+01:15:23,320 --> 01:15:26,230
+that that they think it represents a
+
+1961
+01:15:26,230 --> 01:15:28,200
+place that you actually go to that
+
+1962
+01:15:28,200 --> 01:15:29,520
+you know opening the doors of perception
+
+1963
+01:15:29,520 --> 01:15:33,000
+you know the arguments did you feel like
+
+1964
+01:15:33,000 --> 01:15:36,450
+this is a different reality that exists
+
+1965
+01:15:36,450 --> 01:15:38,550
+in some way or this is just my brain on
+
+1966
+01:15:38,550 --> 01:15:41,990
+loose imagens well look I did
+
+1967
+01:15:41,990 --> 01:15:44,490
+experientially I mean experientially
+
+1968
+01:15:44,490 --> 01:15:46,980
+it's as real as anything else right but
+
+1969
+01:15:46,980 --> 01:15:49,470
+I know because you know we study this in
+
+1970
+01:15:49,470 --> 01:15:51,600
+in people we can study then animals it
+
+1971
+01:15:51,600 --> 01:15:53,460
+has lawful relationship to the brain I
+
+1972
+01:15:53,460 --> 01:15:55,620
+can partially induce it you know using
+
+1973
+01:15:55,620 --> 01:15:57,690
+other physical methods so I know it's
+
+1974
+01:15:57,690 --> 01:15:59,640
+something that the brain generates it
+
+1975
+01:15:59,640 --> 01:16:01,200
+does feel real it's no question it
+
+1976
+01:16:01,200 --> 01:16:03,270
+wasn't like oh this is all fake you know
+
+1977
+01:16:03,270 --> 01:16:04,770
+like if you have you know if you take
+
+1978
+01:16:04,770 --> 01:16:07,440
+follow-up psilocybin or LSD that it
+
+1979
+01:16:07,440 --> 01:16:08,880
+doesn't feel oh this is fake no it's
+
+1980
+01:16:08,880 --> 01:16:10,440
+real because it's the only real to your
+
+1981
+01:16:10,440 --> 01:16:12,210
+app it's reality your brain generates
+
+1982
+01:16:12,210 --> 01:16:14,490
+but then you learn it's very lawful it
+
+1983
+01:16:14,490 --> 01:16:17,100
+as a lawful a relationship with doses
+
+1984
+01:16:17,100 --> 01:16:18,750
+you know with particular parts of the
+
+1985
+01:16:18,750 --> 01:16:20,790
+brain that are active the same parts of
+
+1986
+01:16:20,790 --> 01:16:22,470
+the brain are gonna be active in you and
+
+1987
+01:16:22,470 --> 01:16:24,720
+me etc so you know it has all these
+
+1988
+01:16:24,720 --> 01:16:27,090
+lawful relationship and so we realize
+
+1989
+01:16:27,090 --> 01:16:29,070
+it's kind of your brain your brain
+
+1990
+01:16:29,070 --> 01:16:30,630
+generates in it's not that you're
+
+1991
+01:16:30,630 --> 01:16:32,160
+physically traveling is just like I
+
+1992
+01:16:32,160 --> 01:16:34,470
+don't believe when I dream I'm back you
+
+1993
+01:16:34,470 --> 01:16:36,390
+know in honor on a climb that I'm
+
+1994
+01:16:36,390 --> 01:16:38,190
+actually transported to your mouth no
+
+1995
+01:16:38,190 --> 01:16:40,500
+I'm still lying in my bed my brain is
+
+1996
+01:16:40,500 --> 01:16:43,860
+generating this dream mm-hmm but why
+
+1997
+01:16:43,860 --> 01:16:45,960
+would the molecular locking key
+
+1998
+01:16:45,960 --> 01:16:48,240
+mechanism even exist in the first place
+
+1999
+01:16:48,240 --> 01:16:51,330
+why is it there oh because you know why
+
+2000
+01:16:51,330 --> 01:16:53,700
+why is mine why do most of us appreciate
+
+2001
+01:16:53,700 --> 01:16:54,390
+music
+
+2002
+01:16:54,390 --> 01:16:56,400
+right it's a evolutionary span though
+
+2003
+01:16:56,400 --> 01:16:58,170
+why do some people are why are some of
+
+2004
+01:16:58,170 --> 01:17:00,510
+us very good at math did you know what
+
+2005
+01:17:00,510 --> 01:17:02,550
+is really necessary for kommandantur
+
+2006
+01:17:02,550 --> 01:17:05,640
+Homo sapiens to survive over and to out
+
+2007
+01:17:05,640 --> 01:17:08,430
+do you know nyan Asano's it's an
+
+2008
+01:17:08,430 --> 01:17:10,860
+evolutionary span all that happens to be
+
+2009
+01:17:10,860 --> 01:17:13,080
+that happens to be useful for certain
+
+2010
+01:17:13,080 --> 01:17:14,460
+things or maybe not even useful
+
+2011
+01:17:14,460 --> 01:17:17,430
+pleasurable like alcohol you know you I
+
+2012
+01:17:17,430 --> 01:17:20,160
+appreciate a Pinot Noir do I believe
+
+2013
+01:17:20,160 --> 01:17:21,540
+that there's a specific evolutionary
+
+2014
+01:17:21,540 --> 01:17:25,050
+reason for me to up to like Pinot Noir
+
+2015
+01:17:25,050 --> 01:17:26,790
+no it's it's a side effect it's
+
+2016
+01:17:26,790 --> 01:17:28,620
+something we discovered by experimenting
+
+2017
+01:17:28,620 --> 01:17:30,360
+with lots of different drugs and we find
+
+2018
+01:17:30,360 --> 01:17:32,280
+there's this one that gives that gives
+
+2019
+01:17:32,280 --> 01:17:34,140
+rise to pleasurable social interaction
+
+2020
+01:17:34,140 --> 01:17:36,060
+when you drink it none of the near-death
+
+2021
+01:17:36,060 --> 01:17:40,469
+experience people argue that these
+
+2022
+01:17:40,469 --> 01:17:42,420
+naturally occurring chemicals in the
+
+2023
+01:17:42,420 --> 01:17:45,090
+brain are there for when you face death
+
+2024
+01:17:45,090 --> 01:17:48,680
+when you are there at the at the edge of
+
+2025
+01:17:48,680 --> 01:17:51,420
+helping you transition from here to
+
+2026
+01:17:51,420 --> 01:17:53,340
+there wherever there is doesn't matter
+
+2027
+01:17:53,340 --> 01:17:55,530
+if there's nothing there after death but
+
+2028
+01:17:55,530 --> 01:17:59,280
+that it reduces anxiety about dying it
+
+2029
+01:17:59,280 --> 01:18:01,860
+quells the uncertainty of it because
+
+2030
+01:18:01,860 --> 01:18:04,980
+it's a real warm good experience that
+
+2031
+01:18:04,980 --> 01:18:06,660
+people have this is one argument anyway
+
+2032
+01:18:06,660 --> 01:18:08,910
+so that it's an adit it's an adaptation
+
+2033
+01:18:08,910 --> 01:18:11,880
+estar Gyun yeah and I think that's - I
+
+2034
+01:18:11,880 --> 01:18:15,230
+mean there well I shouldn't use
+
+2035
+01:18:15,230 --> 01:18:17,250
+miraculous in this context but the
+
+2036
+01:18:17,250 --> 01:18:18,510
+wonderful thing about near-death
+
+2037
+01:18:18,510 --> 01:18:21,060
+experiences is that you can also have
+
+2038
+01:18:21,060 --> 01:18:22,770
+them if you're not religiously inclined
+
+2039
+01:18:22,770 --> 01:18:25,920
+and yes it it massively reduces the
+
+2040
+01:18:25,920 --> 01:18:28,230
+anxiety that people have you know facing
+
+2041
+01:18:28,230 --> 01:18:30,180
+death or near death and we don't really
+
+2042
+01:18:30,180 --> 01:18:32,460
+understand the mechanisms you know why
+
+2043
+01:18:32,460 --> 01:18:34,199
+that should be if we could somehow
+
+2044
+01:18:34,199 --> 01:18:36,660
+understand them and then distill I'm
+
+2045
+01:18:36,660 --> 01:18:39,750
+into some therapeutics and we can give
+
+2046
+01:18:39,750 --> 01:18:41,790
+that to people you know when they get
+
+2047
+01:18:41,790 --> 01:18:43,500
+into those states and when they are very
+
+2048
+01:18:43,500 --> 01:18:46,350
+often agitated or very very afraid or
+
+2049
+01:18:46,350 --> 01:18:49,489
+anxious yeah so it's a very interesting
+
+2050
+01:18:49,489 --> 01:18:52,020
+phenomena that the dying brain
+
+2051
+01:18:52,020 --> 01:18:53,910
+particularly the anoxic brain the brain
+
+2052
+01:18:53,910 --> 01:18:56,550
+when it's cut off an oxygen some subset
+
+2053
+01:18:56,550 --> 01:18:59,670
+a small subset of people you know 10
+
+2054
+01:18:59,670 --> 01:19:03,199
+percent 12 percent can experience yeah
+
+2055
+01:19:03,199 --> 01:19:06,300
+yeah the experience is real the question
+
+2056
+01:19:06,300 --> 01:19:07,920
+is what does it represent something out
+
+2057
+01:19:07,920 --> 01:19:09,739
+there in the world are inside the head I
+
+2058
+01:19:09,739 --> 01:19:12,930
+think the experience yeah yeah you can't
+
+2059
+01:19:12,930 --> 01:19:14,580
+argue with the experience experiences
+
+2060
+01:19:14,580 --> 01:19:16,020
+early it's as real as any other
+
+2061
+01:19:16,020 --> 01:19:17,940
+experience but again it seems to have a
+
+2062
+01:19:17,940 --> 01:19:19,770
+lawful relationship to the underlying
+
+2063
+01:19:19,770 --> 01:19:25,110
+brain matter yeah so what do you what is
+
+2064
+01:19:25,110 --> 01:19:28,230
+your team working on in the future well
+
+2065
+01:19:28,230 --> 01:19:30,420
+so with respect to consciousness you
+
+2066
+01:19:30,420 --> 01:19:32,520
+know we're trying to a further push this
+
+2067
+01:19:32,520 --> 01:19:34,170
+project where what are the neural
+
+2068
+01:19:34,170 --> 01:19:36,960
+correlates of consciousness you know in
+
+2069
+01:19:36,960 --> 01:19:38,790
+which part of the brain in both brains
+
+2070
+01:19:38,790 --> 01:19:41,820
+of animals and in in brains of patients
+
+2071
+01:19:41,820 --> 01:19:43,739
+and people and then we know this really
+
+2072
+01:19:43,739 --> 01:19:45,600
+interesting collaboration called an
+
+2073
+01:19:45,600 --> 01:19:49,350
+adversarial collaboration where we get
+
+2074
+01:19:49,350 --> 01:19:51,239
+together with these people who have a
+
+2075
+01:19:51,239 --> 01:19:52,949
+very different attitude to consciousness
+
+2076
+01:19:52,949 --> 01:19:54,030
+the people
+
+2077
+01:19:54,030 --> 01:19:57,390
+the of the global workspace where we
+
+2078
+01:19:57,390 --> 01:19:59,850
+agree upon a common set of experiments
+
+2079
+01:19:59,850 --> 01:20:02,580
+and where we agree ahead of time and get
+
+2080
+01:20:02,580 --> 01:20:04,770
+this man is Capri submitted we're gonna
+
+2081
+01:20:04,770 --> 01:20:07,050
+do this experiment we're gonna exactly
+
+2082
+01:20:07,050 --> 01:20:08,670
+specify ahead of time what this
+
+2083
+01:20:08,670 --> 01:20:11,220
+experiment is when it comes out in this
+
+2084
+01:20:11,220 --> 01:20:13,260
+way it'll support your theory if it
+
+2085
+01:20:13,260 --> 01:20:15,330
+comes out in that way it'll support our
+
+2086
+01:20:15,330 --> 01:20:17,130
+theory it's called an adversarial
+
+2087
+01:20:17,130 --> 01:20:19,500
+collaboration so it's really a new thing
+
+2088
+01:20:19,500 --> 01:20:22,050
+in the sociology of science and we'll
+
+2089
+01:20:22,050 --> 01:20:23,880
+see how that works out Congress should
+
+2090
+01:20:23,880 --> 01:20:29,370
+do this well I mean it really in a way
+
+2091
+01:20:29,370 --> 01:20:30,630
+we want to solve the homelessness
+
+2092
+01:20:30,630 --> 01:20:32,490
+problem or the immigration problem or
+
+2093
+01:20:32,490 --> 01:20:35,550
+whatever yes it would be great it would
+
+2094
+01:20:35,550 --> 01:20:37,230
+be great if that were to happen same
+
+2095
+01:20:37,230 --> 01:20:38,400
+thing with science we're all trying to
+
+2096
+01:20:38,400 --> 01:20:40,230
+understand consciousness we're very
+
+2097
+01:20:40,230 --> 01:20:42,210
+different takes to it so let's agree on
+
+2098
+01:20:42,210 --> 01:20:44,160
+some experiment that could actually help
+
+2099
+01:20:44,160 --> 01:20:46,380
+distinguish you know my theory from your
+
+2100
+01:20:46,380 --> 01:20:52,980
+theory yeah I've I have a little excerpt
+
+2101
+01:20:52,980 --> 01:20:54,990
+here from Steve Pinker's last book
+
+2102
+01:20:54,990 --> 01:20:57,810
+enlightenment now about his opinion on
+
+2103
+01:20:57,810 --> 01:20:59,340
+the hard problem of consciousness and
+
+2104
+01:20:59,340 --> 01:21:01,380
+then I just get your reaction to this in
+
+2105
+01:21:01,380 --> 01:21:02,700
+the end I still think that the hard
+
+2106
+01:21:02,700 --> 01:21:05,340
+problem is a meaningful conceptual
+
+2107
+01:21:05,340 --> 01:21:07,170
+problem but agree with tenet that it is
+
+2108
+01:21:07,170 --> 01:21:10,020
+not a meaningful scientific problem no
+
+2109
+01:21:10,020 --> 01:21:11,220
+one will ever get a grant to study
+
+2110
+01:21:11,220 --> 01:21:13,260
+whether you are a zombie or whether the
+
+2111
+01:21:13,260 --> 01:21:15,000
+same Captain Kirk walks on the deck of
+
+2112
+01:21:15,000 --> 01:21:17,370
+the enterprise and the surface of Zack
+
+2113
+01:21:17,370 --> 01:21:19,920
+Dorn and I agree with several other
+
+2114
+01:21:19,920 --> 01:21:21,540
+philosophers and it may be futile to
+
+2115
+01:21:21,540 --> 01:21:23,190
+hope for a solution at all precisely
+
+2116
+01:21:23,190 --> 01:21:25,620
+because it is a conceptual problem or
+
+2117
+01:21:25,620 --> 01:21:27,510
+more accurately a problem with our
+
+2118
+01:21:27,510 --> 01:21:30,030
+concepts and he discusses a little bit
+
+2119
+01:21:30,030 --> 01:21:31,710
+of Nagle's what it's like to be a bad
+
+2120
+01:21:31,710 --> 01:21:34,200
+and and Colin begins running away with
+
+2121
+01:21:34,200 --> 01:21:36,180
+that he says our best science tells us
+
+2122
+01:21:36,180 --> 01:21:37,860
+that consciousness consists of a global
+
+2123
+01:21:37,860 --> 01:21:39,480
+work space well you won't like this part
+
+2124
+01:21:39,480 --> 01:21:41,400
+representing our current goals memories
+
+2125
+01:21:41,400 --> 01:21:43,170
+and surround but even if that's wrong he
+
+2126
+01:21:43,170 --> 01:21:45,300
+says the last dollop in the theory that
+
+2127
+01:21:45,300 --> 01:21:47,460
+it subjectively feels like something to
+
+2128
+01:21:47,460 --> 01:21:49,740
+be such a circuitry may have to be
+
+2129
+01:21:49,740 --> 01:21:52,050
+stipulated as a fact about reality where
+
+2130
+01:21:52,050 --> 01:21:56,400
+explanation stops in in other words we
+
+2131
+01:21:56,400 --> 01:21:58,970
+may we've hit an epistemological wall
+
+2132
+01:21:58,970 --> 01:22:01,350
+you know our friend Deepak Chopra he
+
+2133
+01:22:01,350 --> 01:22:02,310
+that's what he says you know
+
+2134
+01:22:02,310 --> 01:22:03,780
+consciousness is the ground of all being
+
+2135
+01:22:03,780 --> 01:22:06,630
+it is the you know ontological primitive
+
+2136
+01:22:06,630 --> 01:22:08,700
+there is no explanation for it because
+
+2137
+01:22:08,700 --> 01:22:12,630
+it just is ok so that may be right
+
+2138
+01:22:12,630 --> 01:22:14,520
+there's no law in the universe that says
+
+2139
+01:22:14,520 --> 01:22:16,440
+everything will have a rational you know
+
+2140
+01:22:16,440 --> 01:22:18,230
+reducible empirical testable explanation
+
+2141
+01:22:18,230 --> 01:22:20,580
+just like quantum mechanics why does
+
+2142
+01:22:20,580 --> 01:22:22,800
+quantum mechanics hold right we don't
+
+2143
+01:22:22,800 --> 01:22:24,120
+know and people have thought about this
+
+2144
+01:22:24,120 --> 01:22:26,070
+physicists why are we living in the
+
+2145
+01:22:26,070 --> 01:22:27,810
+universe economy can you seem to be the
+
+2146
+01:22:27,810 --> 01:22:30,450
+best explanation some people say it's
+
+2147
+01:22:30,450 --> 01:22:32,190
+just a boat fact we just happen to live
+
+2148
+01:22:32,190 --> 01:22:33,690
+in one end of discussion
+
+2149
+01:22:33,690 --> 01:22:35,880
+yeah however we do have to be careful
+
+2150
+01:22:35,880 --> 01:22:37,290
+you know our imagination is very
+
+2151
+01:22:37,290 --> 01:22:39,600
+powerful what people said before can
+
+2152
+01:22:39,600 --> 01:22:41,790
+never be solved you know then some neon
+
+2153
+01:22:41,790 --> 01:22:45,060
+ideas later can be solved and of course
+
+2154
+01:22:45,060 --> 01:22:47,430
+there is this now you may have seen
+
+2155
+01:22:47,430 --> 01:22:48,990
+there several books that have now come
+
+2156
+01:22:48,990 --> 01:22:51,870
+out about what's called pan psychism hmm
+
+2157
+01:22:51,870 --> 01:22:53,850
+all right so pan site-- is his ancient
+
+2158
+01:22:53,850 --> 01:22:57,240
+belief pan every website he sold that
+
+2159
+01:22:57,240 --> 01:22:58,700
+everything is in sold that may be
+
+2160
+01:22:58,700 --> 01:23:00,660
+shredding out they give the guy after
+
+2161
+01:23:00,660 --> 01:23:02,160
+which the slitting equation of quantum
+
+2162
+01:23:02,160 --> 01:23:03,810
+mechanics is named you know he thought
+
+2163
+01:23:03,810 --> 01:23:06,360
+about this that maybe at the hood of
+
+2164
+01:23:06,360 --> 01:23:08,580
+physics we have to include consciousness
+
+2165
+01:23:08,580 --> 01:23:11,250
+so this matter and space and time and
+
+2166
+01:23:11,250 --> 01:23:12,690
+energy but there may also be
+
+2167
+01:23:12,690 --> 01:23:14,820
+consciousness this is what what ITR that
+
+2168
+01:23:14,820 --> 01:23:15,630
+what the integrated information
+
+2169
+01:23:15,630 --> 01:23:18,420
+ultimately says and so maybe we have to
+
+2170
+01:23:18,420 --> 01:23:20,310
+include consciousness in our very
+
+2171
+01:23:20,310 --> 01:23:23,340
+formulation of physicalism so maybe on a
+
+2172
+01:23:23,340 --> 01:23:25,800
+Death Note and physicalism you know you
+
+2173
+01:23:25,800 --> 01:23:27,150
+know the modern version of sort of
+
+2174
+01:23:27,150 --> 01:23:29,460
+materialism has to be cast larger and
+
+2175
+01:23:29,460 --> 01:23:33,510
+has to include subjectivity you know so
+
+2176
+01:23:33,510 --> 01:23:34,890
+that I think that's a very promising
+
+2177
+01:23:34,890 --> 01:23:37,380
+development so I'm very skeptical of
+
+2178
+01:23:37,380 --> 01:23:39,570
+pessimists to tell me oh you shall never
+
+2179
+01:23:39,570 --> 01:23:41,700
+know maybe yes maybe no I know for sure
+
+2180
+01:23:41,700 --> 01:23:45,990
+if we don't I will not know it's my best
+
+2181
+01:23:45,990 --> 01:23:47,730
+argument for cryonically being
+
+2182
+01:23:47,730 --> 01:23:49,350
+chronically frozen and coming back five
+
+2183
+01:23:49,350 --> 01:23:50,900
+hundred years from now and it's like Oh
+
+2184
+01:23:50,900 --> 01:23:53,160
+consciousness we figured that out 200
+
+2185
+01:23:53,160 --> 01:23:54,930
+years ago here's the explanation Oh
+
+2186
+01:23:54,930 --> 01:23:57,080
+obviously
+
+2187
+01:23:57,080 --> 01:24:02,520
+maybe maybe hopefully I just had that
+
+2188
+01:24:02,520 --> 01:24:04,500
+Donald Hoffman on my podcast that I
+
+2189
+01:24:04,500 --> 01:24:08,310
+think we released it last week yeah so
+
+2190
+01:24:08,310 --> 01:24:11,580
+he's you know he has this interface
+
+2191
+01:24:11,580 --> 01:24:14,220
+theory of perception you know that that
+
+2192
+01:24:14,220 --> 01:24:16,800
+like your your laptop screen here with
+
+2193
+01:24:16,800 --> 01:24:19,050
+the little trash can down in the corner
+
+2194
+01:24:19,050 --> 01:24:20,429
+if you open up my macbook
+
+2195
+01:24:20,429 --> 01:24:22,709
+Pro there's no trash can in there you
+
+2196
+01:24:22,709 --> 01:24:24,090
+know these are just icons that represent
+
+2197
+01:24:24,090 --> 01:24:26,909
+some process some algorithm that's
+
+2198
+01:24:26,909 --> 01:24:28,860
+grinding along here and that's what he
+
+2199
+01:24:28,860 --> 01:24:31,619
+says about you know the reality of you
+
+2200
+01:24:31,619 --> 01:24:33,449
+know this cup is you know there's no cup
+
+2201
+01:24:33,449 --> 01:24:35,280
+in my brain it's just a bunch of neurons
+
+2202
+01:24:35,280 --> 01:24:38,429
+and this is just an icon that represents
+
+2203
+01:24:38,429 --> 01:24:39,809
+something else
+
+2204
+01:24:39,809 --> 01:24:41,909
+and so on but he's taken that pretty far
+
+2205
+01:24:41,909 --> 01:24:44,360
+not quite the celibate ISM but but that
+
+2206
+01:24:44,360 --> 01:24:46,920
+there is no possible way to know that
+
+2207
+01:24:46,920 --> 01:24:50,249
+the true nature of reality yeah I mean
+
+2208
+01:24:50,249 --> 01:24:52,439
+this is an old argument by Immanuel Kant
+
+2209
+01:24:52,439 --> 01:24:54,179
+right if you ever read can't one of the
+
+2210
+01:24:54,179 --> 01:24:56,039
+German idea list you know dusty talks
+
+2211
+01:24:56,039 --> 01:24:58,079
+about dusting and Zee the thing itself
+
+2212
+01:24:58,079 --> 01:25:00,209
+yeah and we have these categories of
+
+2213
+01:25:00,209 --> 01:25:02,130
+space and time and causality we'll never
+
+2214
+01:25:02,130 --> 01:25:05,159
+know what reality is really like it goes
+
+2215
+01:25:05,159 --> 01:25:07,019
+back to our very beginning discussion
+
+2216
+01:25:07,019 --> 01:25:09,059
+it's ultimately an inference process so
+
+2217
+01:25:09,059 --> 01:25:10,829
+the most likely explanation is that
+
+2218
+01:25:10,829 --> 01:25:13,229
+there is something physical called this
+
+2219
+01:25:13,229 --> 01:25:15,599
+card you know how do I really know what
+
+2220
+01:25:15,599 --> 01:25:17,070
+ultimately I don't know it's an
+
+2221
+01:25:17,070 --> 01:25:19,229
+assumption I'm gonna go with that
+
+2222
+01:25:19,229 --> 01:25:21,059
+assumption you know and it served as
+
+2223
+01:25:21,059 --> 01:25:23,039
+well right it served us well making this
+
+2224
+01:25:23,039 --> 01:25:25,860
+assumption allows us to manipulate the
+
+2225
+01:25:25,860 --> 01:25:27,420
+universe to build you know nuclear
+
+2226
+01:25:27,420 --> 01:25:29,789
+reactors and cars and and send rockets
+
+2227
+01:25:29,789 --> 01:25:31,920
+into space so I think it's a reasonable
+
+2228
+01:25:31,920 --> 01:25:33,510
+assumption would we really know what
+
+2229
+01:25:33,510 --> 01:25:36,869
+it's ultimately like no we don't yeah
+
+2230
+01:25:36,869 --> 01:25:38,249
+but the fact that we can send a
+
+2231
+01:25:38,249 --> 01:25:40,019
+spacecraft to Mars and it actually gets
+
+2232
+01:25:40,019 --> 01:25:43,289
+there and sends information back is a is
+
+2233
+01:25:43,289 --> 01:25:45,539
+a pretty strong argument for there is a
+
+2234
+01:25:45,539 --> 01:25:47,789
+reality yeah and we can know something
+
+2235
+01:25:47,789 --> 01:25:50,130
+about it even if not everything about it
+
+2236
+01:25:50,130 --> 01:25:54,380
+or perfectly represent it yes but yes so
+
+2237
+01:25:54,380 --> 01:25:57,689
+you know it's an old idea yeah it is
+
+2238
+01:25:57,689 --> 01:25:59,699
+cool I never know but I'm not really
+
+2239
+01:25:59,699 --> 01:26:03,630
+sure what yeah I mean it's like this
+
+2240
+01:26:03,630 --> 01:26:06,749
+problem I wrote an essay about why is
+
+2241
+01:26:06,749 --> 01:26:08,219
+there something rather than nothing
+
+2242
+01:26:08,219 --> 01:26:10,650
+Eve even trying to get our minds around
+
+2243
+01:26:10,650 --> 01:26:13,439
+the idea of of nothing is not that
+
+2244
+01:26:13,439 --> 01:26:14,189
+simple
+
+2245
+01:26:14,189 --> 01:26:18,769
+I mean no thing it's a thing that's
+
+2246
+01:26:18,769 --> 01:26:22,170
+there maybe we've hit rock bottom will
+
+2247
+01:26:22,170 --> 01:26:23,820
+we ever be able to hand somewhere
+
+2248
+01:26:23,820 --> 01:26:25,409
+there's anything either nothing I don't
+
+2249
+01:26:25,409 --> 01:26:27,959
+know I I mean I love this quote from
+
+2250
+01:26:27,959 --> 01:26:31,050
+Robert Kuhn he co-authored a book yeah
+
+2251
+01:26:31,050 --> 01:26:33,239
+yeah yeah yeah you know you know
+
+2252
+01:26:33,239 --> 01:26:34,200
+Lawrence cuz you've been
+
+2253
+01:26:34,200 --> 01:26:36,180
+and always book about the mystery of
+
+2254
+01:26:36,180 --> 01:26:38,160
+existence yes yes he wrote with John
+
+2255
+01:26:38,160 --> 01:26:42,900
+Leslie yeah so he says you know and talk
+
+2256
+01:26:42,900 --> 01:26:45,690
+about nothing that not just emptiness
+
+2257
+01:26:45,690 --> 01:26:48,240
+not just blankness and not just
+
+2258
+01:26:48,240 --> 01:26:51,180
+emptiness and blackness forever but not
+
+2259
+01:26:51,180 --> 01:26:53,400
+even the existence of emptiness and not
+
+2260
+01:26:53,400 --> 01:26:55,620
+even the meaning of blackness and no
+
+2261
+01:26:55,620 --> 01:26:58,800
+forever I mean at some point you know
+
+2262
+01:26:58,800 --> 01:27:00,810
+we've just hit rock bottom there's the
+
+2263
+01:27:00,810 --> 01:27:02,730
+words just fall off the page and like I
+
+2264
+01:27:02,730 --> 01:27:04,710
+have no idea what you're talking about
+
+2265
+01:27:04,710 --> 01:27:08,130
+yes I think this is very likely one of
+
+2266
+01:27:08,130 --> 01:27:11,310
+those cases you know it's I don't know
+
+2267
+01:27:11,310 --> 01:27:13,950
+how much you've read about the mysterion
+
+2268
+01:27:13,950 --> 01:27:16,320
+mysteries you know the the it could be
+
+2269
+01:27:16,320 --> 01:27:17,820
+our brains we're just not big enough to
+
+2270
+01:27:17,820 --> 01:27:20,400
+have the concepts to answer those kinds
+
+2271
+01:27:20,400 --> 01:27:22,080
+of quitting enough to think of the
+
+2272
+01:27:22,080 --> 01:27:23,940
+concept and the problem but not answer
+
+2273
+01:27:23,940 --> 01:27:27,420
+it at least our conversion yes yeah or
+
+2274
+01:27:27,420 --> 01:27:30,210
+you know Vic and Stein used the words we
+
+2275
+01:27:30,210 --> 01:27:32,250
+use we don't have the right words to
+
+2276
+01:27:32,250 --> 01:27:34,170
+have the concepts to even think properly
+
+2277
+01:27:34,170 --> 01:27:36,300
+about it or not yeah things like that
+
+2278
+01:27:36,300 --> 01:27:37,950
+yeah so I'm just talking about a little
+
+2279
+01:27:37,950 --> 01:27:40,590
+bit easier things like called yes that's
+
+2280
+01:27:40,590 --> 01:27:42,240
+right you have the easy problem the easy
+
+2281
+01:27:42,240 --> 01:27:43,980
+problem of consciousness well the neural
+
+2282
+01:27:43,980 --> 01:27:45,660
+correlates I guess sir this suppose it
+
+2283
+01:27:45,660 --> 01:27:49,560
+easy but they're not that easy all right
+
+2284
+01:27:49,560 --> 01:27:51,540
+so the feeling of life itself this was a
+
+2285
+01:27:51,540 --> 01:27:52,860
+sequel to your you know romantic
+
+2286
+01:27:52,860 --> 01:27:57,900
+reductionist what are you what what's
+
+2287
+01:27:57,900 --> 01:28:01,680
+next on the on the Christoph agenda for
+
+2288
+01:28:01,680 --> 01:28:04,500
+big big big questions I don't know I
+
+2289
+01:28:04,500 --> 01:28:06,750
+mean you know I'm running this large
+
+2290
+01:28:06,750 --> 01:28:09,600
+Institute with Serena plus scientists
+
+2291
+01:28:09,600 --> 01:28:11,640
+we're very productive so on you know I
+
+2292
+01:28:11,640 --> 01:28:14,250
+might take a break from from from
+
+2293
+01:28:14,250 --> 01:28:16,230
+writing although you know right now I'm
+
+2294
+01:28:16,230 --> 01:28:18,600
+several sonic American articles coming
+
+2295
+01:28:18,600 --> 01:28:20,550
+out on brain death his brain Dias
+
+2296
+01:28:20,550 --> 01:28:22,500
+irreversible there's some really
+
+2297
+01:28:22,500 --> 01:28:24,720
+interesting you know science going on
+
+2298
+01:28:24,720 --> 01:28:28,290
+there so stay tuned they're always
+
+2299
+01:28:28,290 --> 01:28:29,730
+interesting things happening in the
+
+2300
+01:28:29,730 --> 01:28:31,320
+world of neuroscience and unlike
+
+2301
+01:28:31,320 --> 01:28:34,170
+cardiology let's say you are your brain
+
+2302
+01:28:34,170 --> 01:28:36,480
+and you know most you know they're all
+
+2303
+01:28:36,480 --> 01:28:38,790
+these fascinating ideas tied up with
+
+2304
+01:28:38,790 --> 01:28:40,560
+your brain and your identity and where
+
+2305
+01:28:40,560 --> 01:28:41,940
+do you go at night and where do you go
+
+2306
+01:28:41,940 --> 01:28:44,340
+after after death and what can we do to
+
+2307
+01:28:44,340 --> 01:28:46,590
+preserve the brain etc what's the future
+
+2308
+01:28:46,590 --> 01:28:47,850
+of the Institute now that
+
+2309
+01:28:47,850 --> 01:28:51,420
+Allen's gun so we are not secure you
+
+2310
+01:28:51,420 --> 01:28:53,400
+know this was you know we we talked
+
+2311
+01:28:53,400 --> 01:28:55,820
+about with Paul about this many times
+
+2312
+01:28:55,820 --> 01:29:00,600
+they say estate his sister Jodie Allen
+
+2313
+01:29:00,600 --> 01:29:02,490
+is in charge of the estate and and we
+
+2314
+01:29:02,490 --> 01:29:04,380
+are now planning for 25 years
+
+2315
+01:29:04,380 --> 01:29:06,990
+mmm we wickedly are moving on at 25
+
+2316
+01:29:06,990 --> 01:29:09,480
+years trajectory there was there was
+
+2317
+01:29:09,480 --> 01:29:12,030
+discussed at great length was with with
+
+2318
+01:29:12,030 --> 01:29:15,060
+Paul Allen so we are here to stay the
+
+2319
+01:29:15,060 --> 01:29:16,440
+earth and you're there for the duration
+
+2320
+01:29:16,440 --> 01:29:18,600
+your yeah I mean you're not going back
+
+2321
+01:29:18,600 --> 01:29:20,190
+to Caltech or being a professor or
+
+2322
+01:29:20,190 --> 01:29:22,650
+anything like that I don't know I'm not
+
+2323
+01:29:22,650 --> 01:29:24,750
+going back to Caltech well my exactly so
+
+2324
+01:29:24,750 --> 01:29:26,970
+my presidency you know was for ten years
+
+2325
+01:29:26,970 --> 01:29:28,590
+so that's that's gonna I'm gonna step
+
+2326
+01:29:28,590 --> 01:29:30,330
+down from that in two years or something
+
+2327
+01:29:30,330 --> 01:29:32,880
+like that and to return to a more active
+
+2328
+01:29:32,880 --> 01:29:34,530
+role as scientists I fundamentally I'm a
+
+2329
+01:29:34,530 --> 01:29:37,140
+scientist I love science and so I may go
+
+2330
+01:29:37,140 --> 01:29:38,880
+back but remain here at the Institute
+
+2331
+01:29:38,880 --> 01:29:40,890
+and just do signs and writing full-time
+
+2332
+01:29:40,890 --> 01:29:42,840
+again because you're mostly doing
+
+2333
+01:29:42,840 --> 01:29:45,870
+administrative work yeah I mean they're
+
+2334
+01:29:45,870 --> 01:29:46,860
+three no people you have to make
+
+2335
+01:29:46,860 --> 01:29:48,570
+decision what the fun but not too fun
+
+2336
+01:29:48,570 --> 01:29:50,550
+you have no hundred employee I have six
+
+2337
+01:29:50,550 --> 01:29:52,110
+employees and that's five too many I
+
+2338
+01:29:52,110 --> 01:29:55,910
+don't know how you 300 yes it's
+
+2339
+01:29:55,910 --> 01:29:58,080
+sometimes it's challenging and are you
+
+2340
+01:29:58,080 --> 01:30:01,530
+still mountain climbing no I know here
+
+2341
+01:30:01,530 --> 01:30:03,060
+because it's much more conducive so I
+
+2342
+01:30:03,060 --> 01:30:05,310
+don't have a car i I just by Gabby being
+
+2343
+01:30:05,310 --> 01:30:08,400
+a ho you know cool boring it's also much
+
+2344
+01:30:08,400 --> 01:30:10,470
+more copia to the metaphor being a team
+
+2345
+01:30:10,470 --> 01:30:13,050
+knows you know in a boat was eight and a
+
+2346
+01:30:13,050 --> 01:30:14,520
+Coxon you're only as good as your
+
+2347
+01:30:14,520 --> 01:30:16,230
+weakest link and you know no matter
+
+2348
+01:30:16,230 --> 01:30:17,910
+whether people are big or small or of
+
+2349
+01:30:17,910 --> 01:30:20,850
+you know my or you know have a big frame
+
+2350
+01:30:20,850 --> 01:30:22,590
+or a small frame you know you have to
+
+2351
+01:30:22,590 --> 01:30:24,120
+synchronize you have to be a team it's
+
+2352
+01:30:24,120 --> 01:30:26,430
+not the star performers really the team
+
+2353
+01:30:26,430 --> 01:30:28,410
+and it's set as a whole that counts and
+
+2354
+01:30:28,410 --> 01:30:30,930
+so it is was our Institute here you're
+
+2355
+01:30:30,930 --> 01:30:32,430
+like a single neuron with all these
+
+2356
+01:30:32,430 --> 01:30:34,200
+other neurons that are somehow coming
+
+2357
+01:30:34,200 --> 01:30:36,480
+together is a single brain yes so we a
+
+2358
+01:30:36,480 --> 01:30:38,790
+team so what makes very different from
+
+2359
+01:30:38,790 --> 01:30:41,250
+folks in university we try to only take
+
+2360
+01:30:41,250 --> 01:30:43,470
+on one or two other things as a team and
+
+2361
+01:30:43,470 --> 01:30:44,970
+to discuss so that has some unique
+
+2362
+01:30:44,970 --> 01:30:47,540
+challenges as any other large you know
+
+2363
+01:30:47,540 --> 01:30:49,710
+astronomy your elementary particle
+
+2364
+01:30:49,710 --> 01:30:51,650
+physics project yeah yes
+
+2365
+01:30:51,650 --> 01:30:54,870
+yeah and in do you guys work at all on
+
+2366
+01:30:54,870 --> 01:30:57,120
+brain diseases like Alzheimer's and
+
+2367
+01:30:57,120 --> 01:30:59,800
+senility and dementia
+
+2368
+01:30:59,800 --> 01:31:03,280
+we will we're starting to think about
+
+2369
+01:31:03,280 --> 01:31:05,080
+that so most of what we do is still
+
+2370
+01:31:05,080 --> 01:31:07,510
+basic signs by trying to get the basic
+
+2371
+01:31:07,510 --> 01:31:09,250
+layout on particular of the human brain
+
+2372
+01:31:09,250 --> 01:31:11,620
+but assets become very successful we're
+
+2373
+01:31:11,620 --> 01:31:13,690
+now moving into developing viral
+
+2374
+01:31:13,690 --> 01:31:16,660
+technology for the human brain so in
+
+2375
+01:31:16,660 --> 01:31:18,550
+other words once we know there's some
+
+2376
+01:31:18,550 --> 01:31:20,860
+specific defect of a specific gene
+
+2377
+01:31:20,860 --> 01:31:22,630
+that's missing in a particular type of
+
+2378
+01:31:22,630 --> 01:31:25,270
+cell can we then devise technologies
+
+2379
+01:31:25,270 --> 01:31:27,940
+like viral technologies to deliver that
+
+2380
+01:31:27,940 --> 01:31:30,940
+missing gene to those right neurons in
+
+2381
+01:31:30,940 --> 01:31:33,100
+order to cure people yeah so we're
+
+2382
+01:31:33,100 --> 01:31:35,290
+starting to think about disease
+
+2383
+01:31:35,290 --> 01:31:38,110
+applications yeah you guys got to solve
+
+2384
+01:31:38,110 --> 01:31:39,610
+this problem before you and I hit the
+
+2385
+01:31:39,610 --> 01:31:42,790
+wall because you know these people like
+
+2386
+01:31:42,790 --> 01:31:43,990
+when I was writing my book you know it's
+
+2387
+01:31:43,990 --> 01:31:45,190
+like Shermer don't you want to live to
+
+2388
+01:31:45,190 --> 01:31:47,920
+be 500 I'm like look just get me to 90
+
+2389
+01:31:47,920 --> 01:31:50,020
+without prostate cancer and a hundred
+
+2390
+01:31:50,020 --> 01:31:53,110
+without Alzheimer's and dementia and now
+
+2391
+01:31:53,110 --> 01:31:54,850
+these are hard problems and you know we
+
+2392
+01:31:54,850 --> 01:31:57,550
+ask them through our mutual friend
+
+2393
+01:31:57,550 --> 01:31:59,530
+Deepak I met you know Rudy tanzy from
+
+2394
+01:31:59,530 --> 01:32:01,600
+Harvard he's you know like the head the
+
+2395
+01:32:01,600 --> 01:32:03,640
+big Alzheimer's guy and it's like when
+
+2396
+01:32:03,640 --> 01:32:05,590
+you really bore down on it you know
+
+2397
+01:32:05,590 --> 01:32:08,350
+we're kind of clueless about the causes
+
+2398
+01:32:08,350 --> 01:32:09,550
+and you know the plaques and tangles
+
+2399
+01:32:09,550 --> 01:32:11,050
+yeah but what causes the plaques and
+
+2400
+01:32:11,050 --> 01:32:13,000
+tangles no one knows is you know
+
+2401
+01:32:13,000 --> 01:32:14,920
+genetics environment you know he has you
+
+2402
+01:32:14,920 --> 01:32:16,300
+know general stuff you should eat well
+
+2403
+01:32:16,300 --> 01:32:18,640
+and exercise and sleep yes yes yes I
+
+2404
+01:32:18,640 --> 01:32:20,620
+know I'm doing that but what else and
+
+2405
+01:32:20,620 --> 01:32:24,190
+you know show I do Sudoku puzzles you
+
+2406
+01:32:24,190 --> 01:32:25,510
+know there's not much I think you'll
+
+2407
+01:32:25,510 --> 01:32:28,330
+find I think you'll be fine just just be
+
+2408
+01:32:28,330 --> 01:32:30,760
+very active yeah I mean but the brain is
+
+2409
+01:32:30,760 --> 01:32:32,590
+by far the most complex system it's
+
+2410
+01:32:32,590 --> 01:32:34,900
+vastly more complicated than any system
+
+2411
+01:32:34,900 --> 01:32:37,240
+physicists have tackled with and it
+
+2412
+01:32:37,240 --> 01:32:39,700
+might well be a while before you know we
+
+2413
+01:32:39,700 --> 01:32:41,890
+fully understand these diseases and can
+
+2414
+01:32:41,890 --> 01:32:44,680
+cure them yeah we just have to keep
+
+2415
+01:32:44,680 --> 01:32:47,710
+trying oh it's Michael yeah I know it's
+
+2416
+01:32:47,710 --> 01:32:50,080
+a pressing on your time now the book is
+
+2417
+01:32:50,080 --> 01:32:51,700
+the feeling of life itself we will
+
+2418
+01:32:51,700 --> 01:32:53,260
+release this on the day it comes out in
+
+2419
+01:32:53,260 --> 01:32:56,370
+September whatever that date is and
+
+2420
+01:32:56,370 --> 01:32:58,270
+congratulations on another good book
+
+2421
+01:32:58,270 --> 01:33:00,040
+thank you much that was a great
+
+2422
+01:33:00,040 --> 01:33:02,350
+conversation you are fantastic question
+
+2423
+01:33:02,350 --> 01:33:04,720
+you always leave deep background I don't
+
+2424
+01:33:04,720 --> 01:33:07,090
+know I'm kind of a dummy I just ask good
+
+2425
+01:33:07,090 --> 01:33:08,260
+questions because I don't really know
+
+2426
+01:33:08,260 --> 01:33:11,140
+I'm just curious you know along
+
+2427
+01:33:11,140 --> 01:33:13,030
+okay I will see you next time I'm in
+
+2428
+01:33:13,030 --> 01:33:15,540
+Seattle or next time you're right
+
+2429
+01:33:15,540 --> 01:33:19,500
+yep all right
+
